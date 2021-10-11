@@ -4,6 +4,7 @@
 - Wiley Hunt (whunt1965)
 - Chen Feng (cefeng9988)
 - John Bestavros (Johannes2755)
+- Jerry Zhang (jzhang12)
 
 ## Project Description
 Project seeks to understand voting patterns of Brazilian immigrants in Brazil elections and the composition of the Brazilian immigrant electorate. We hope to understand changing patterns among Brazilian immigrants that vote in Brazilian elections and what community or environmental factors may influence voting patterns.
