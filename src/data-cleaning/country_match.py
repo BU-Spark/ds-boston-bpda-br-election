@@ -5,7 +5,7 @@
 # Key is code for municipality in post-2010 data
 # Value is a 2-tuple containing (<code for country in pre-2010 data>, <Name of Country in pre-2010 data>)
 
-#Dev note - I'm starting in the 2010 dataset for the keys and using the 1998 (or later if not found) dataset for the values
+#Dev note - I started with the 2010 dataset (but switching to 2018) for the keys and using the 1998 (or later if not found) dataset for the values
 country_code_map = {
 
     #Maps code for ABIDJAN-COTE (Abidjan Cote de'Ivoire)
