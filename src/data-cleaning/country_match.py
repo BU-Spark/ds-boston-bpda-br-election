@@ -43,7 +43,7 @@ country_code_map = {
     29343 : (98205, "TAILANDIA"),
 
     #Maps code for BARCELONA-ESPA (Barcelona, Spain)
-    29343 : (11240, "ESPANHA"),
+    29351 : (11240, "ESPANHA"),
 
     #Maps code for  BEIRUTE-LBAN (Beirut, Lebanon)
     29360 : (11401, "LIBANO"),
@@ -68,7 +68,7 @@ country_code_map = {
     #Maps code for  BOSTON-EUA (Boston, USA)
     29416 : (11266, "ESTADOS UNIDOS"),
 
-    #Take over here at row 1380 of 2010 electorate dataset 
+    #Note, this was beginning in the 2010 electorate dataset, but planning to start again in 2018
 
 
 
