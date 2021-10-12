@@ -8,30 +8,36 @@
 #Dev note - I started with the 2010 dataset (but switching to 2018) for the keys and using the 1998 (or later if not found) dataset for the values
 country_code_map = {
 
-    #Maps code for ABIDJAN-COTE (Abidjan Cote de'Ivoire)
+    #Maps code for ABIDJAN-COTE/Abidija (Abidjan Cote de'Ivoire)
     29254 : (98582, "COSTA DO MARFIM"), 
 
-    #Maps code for ABU DHABI-EAU (Abu Dhabi, UAE)
+    #Maps code for ABU DHABI-EAU/Abu Dhabi (Abu Dhabi, UAE)
     29262 : (98728, "EMIRADOS ARABES"),
+
+    #Maps code for ACCRA, Ghana
+    29270 : (98043, "GANA"),
 
     #Maps code for AMÃ-JORD (Amman, Jordan)
     29289 : (29181, "JORDANIA"),
 
-    #Maps code for ANCARA-TURQ (Ankara, Turkey)
+    #Maps code for ANCARA-TURQ/ANCARA (Ankara, Turkey)
     29297 : (98108, "TURQUIA"),
 
-    #Maps code for ARGEL-ARGL (Algiers, Algeria)
-    29300 : (98701, "ARGELIA"),
+    #Maps code for ARGEL-ARGL/ARGEL (Algiers, Algeria)
+    29300 : (98701, "ARGÉLIA"),
 
     #Maps code for  ARGENTINA (Argentina) - This is really a no-op as there is no change here
     11142 : (11142, "ARGENTINA"),
+
+    #Maps code for  ARTIGAS (Uruguay)
+    29319 : (11568, "URUGUAI"),
 
     #Maps code for ASSUNÇÃO-PARG (Asuncion, Paraguay)
     29327 : (11444, "PARAGUAI"),
 
     #Maps code for ASTANA-KAZA (Astana, Kazakhstan)
     #Note: there is no prior country code for kazakhstan, so leaving as is
-    39241 : (39241, "ASTANA-KAZA"),
+    39241 : (39241, "CAZAQUISTÃO"),
 
     #Maps code for ATENAS-GREC (Athens, Greece)
     29335 : (11827, "GRECIA"),
@@ -51,7 +57,7 @@ country_code_map = {
     #Maps code for  BELGRADO-SERV (Belgrade, Serbia)
     # Note: this would have been included in IUGUSLÁVIA (code 29173), we can change to that or keep as is
     # For now, keeping as no-op
-    29378 : (29378, "BELGRADO-SERV"),
+    29378 : (29378, "SERVIA"),
 
     #Maps code for  BERLIM-RFA (Berlin, Germany)
     29386 : (11100, "ALEMANHA"),
@@ -67,11 +73,18 @@ country_code_map = {
 
     #Maps code for  BOSTON-EUA (Boston, USA)
     29416 : (11266, "ESTADOS UNIDOS"),
-    
-    
-    29793 : (29025, “HONG KONG”),
 
-    29661 : (29033, “IRLANDA”),
+    #Maps code for  BRATISLAVA (Bratislava, Slovakia)
+    #Note, in pre-2010 datasets, this is part of Czechoslovakia, so left with region code
+    39209 : (39209, "ESLOVAKIA"),
+
+
+    #Stopped at 4614 in sorted dataset BRAZZAVILLE
+    
+    
+    29793 : (29025, "HONG KONG"),
+
+    29661 : (29033, "IRLANDA"),
 
     29742 : (11380, "JAPÃO"),
     30139 : (11380, "JAPÃO"),
