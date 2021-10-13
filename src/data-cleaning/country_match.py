@@ -410,7 +410,6 @@ country_code_map = {
 
     29092 : (29092, "ZIMBABWE"),
 
-    #Note, this was beginning in the 2010 electorate dataset, but planning to start again in 2018
     30864 : (11525, "SUICA")
 
 }
