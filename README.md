@@ -7,6 +7,7 @@
 - Jerry Zhang (jzhang12)
 - Marco Raigoza (marco-raigoza)
 - Jenna Peters (jennapeters917)
+- Wangkai Zhu (wzhu8410)
 
 ## Project Description
 This project seeks to understand voting patterns of Brazilian immigrants in Brazil elections and the composition of the Brazilian immigrant electorate. By analyzing the election and electorate data, We hope to understand changing patterns among Brazilian immigrants that vote in Brazilian elections by analyzing how community and demographic differences influence voting patterns.
