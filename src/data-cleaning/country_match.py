@@ -74,14 +74,6 @@ country_code_map = {
     #Maps code for  BOSTON-EUA (Boston, USA)
     29416 : (11266, "ESTADOS UNIDOS"),
 
-    #Maps code for  BRATISLAVA (Bratislava, Slovakia)
-    #Note, in pre-2010 datasets, this is part of Czechoslovakia, so left region code and updated country
-    39209 : (39209, "ESLOVAKIA"),
-
-    #Maps code for  BRAZZAVILLE (Brazzaville, Congo)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    39187 : (39187, "CONGO"),
-
     #Maps code for  BRIDGETOWN (Bridgetown, Barbados)
     29424 : (98663, "BARBADOS"),
 
@@ -225,7 +217,124 @@ country_code_map = {
     #Maps code for HOUSTON (Houston, TX, USA)
     29807 : (11266, "ESTADOS UNIDOS"),
 
-    #Pause review at line 13385 of sorted (by municipality name) 2018 data (end of HOUSTON)
+    #Maps code for IAUNDE (Yaounde, Cameroon)
+    29815 : (29220, "REPUBLICA DOS CAMAROES"),
+
+    #Maps code for IQUITOS (Iquitos, Peru)
+    29823 : (11460, "PERU"),
+
+    #Maps code for ISLAMABADE (Islamabad, Pakistan)
+    29831 : (98302, "PAQUISTAO"),
+
+    #Maps code for ISTAMBUL (Istanbul, Turkey)
+    39306 : (98108, "TURQUIA"),
+
+    #Maps code for JACARTA (Jakarta, Indonesia)
+    29840 : (29211, "INDONESIA"),
+
+    #Maps code for KIEV (Kiev, Ukraine)
+    29858 : (11762, "UCRANIA"),
+
+    #Maps code for KINGSTON-JAMAICA (Kingston, Jamaica)
+    99430 : (29190, "JAMAICA"),
+
+    #Maps code for KUAITE (Kuwait)
+    29882 : (29157, "KUWAIT"),
+
+    #Maps code for KUALA LUMPUR (Kuala Lumpur, Malaysia)
+    29890 : (29130, "MALASIA"),
+
+    #Maps code for LA PAZ (La Paz, Bolivia)
+    29904 : (11800, "BOLIVIA"),
+
+    #Maps code for LAGOS (Lagos, Nigeria)
+    29912 : (98361, "NIGERIA"),
+
+    #Maps code for LETHEM (Lethem, Guiana)
+    99422 : (11304, "GUIANA"),
+
+    #Maps code for LIBREVILLE (Libreville, Gabon)
+    29939 : (98060, "GABAO"),
+
+    #Maps code for LIMA (Lima, Peru)
+    29947 : (11460, "PERU"),
+
+    #Maps code for Lisboa (Lisbon, Portugal)
+    29955 : (11509, "PORTUGAL"),
+
+    #Maps code for LOME (Lome, Togo)
+    29963 : (98167, "TOGO"),
+
+    #Maps code for LONDRES (London, UK)
+    29971 : (98841, "INGLATERRA"),
+
+    #Maps code for LOS ANGELES (Los Angeles, USA)
+    29980 : (11266, "ESTADOS UNIDOS"),
+
+    #Maps code for LUANDA (Luanda, Angola)
+    29998 : (98965, "ANGOLA"),
+
+    #Maps code for MEXICO, MEXICO (Mexico City, Mexico)
+    30104 : (11428, "MEXICO"),
+
+    #Maps code for MADRI (Madrid, Spain)
+    30066 : (11240, "ESPANHA"),
+
+    #Maps code for MANAGUA (Managua, Nicaragua)
+    30074 : (98838, "NICARAGUA"),
+
+    #Maps code for MANILA (Manila, Phillippines)
+    30082 : (98442, "FILIPINAS"),
+
+    #Maps code for MAPUTO (Maputo, Mozambique)
+    30090 : (29116, "MOCAMBIQUE"),
+
+
+    #-----------------------------------------------#
+    # Mappings for Countries not in pre-2010 Data
+    #-----------------------------------------------#
+
+    #Maps code for  BRATISLAVA (Bratislava, Slovakia)
+    #Note, in pre-2010 datasets, this is part of Czechoslovakia, so left region code and updated country
+    39209 : (39209, "ESLOVAKIA"),
+
+    #Maps code for IEREVAN-ARME (Yereven, Armenia)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    38989 : (38989, "ARMENIA"),
+
+    #Maps code for  BRAZZAVILLE (Brazzaville, Republic of Congo)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    #Note Republic of Congo != Democratic Republic of Congo
+    39187 : (39187, "REPUBLICA DO CONGO"),
+
+    #Maps code for KINSHASA (Kinshasa, Democratic Republic of the Congo)
+    #Note Democratic Republic of Congo != Republic of Congo
+    29874 : (29874, "REPUBLICA DEMOCRATICA DO CONGO"),
+
+    #Maps code for LILONGUE (Lilongwe, Malawi)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    99341 : (99341, "MALAWI"),
+
+    #Maps code for LIUBLIANA (Ljubljana, Slovenia)
+    39160 : (39160, "ESLOVENIA"),
+
+    #Maps code for LUSACA (Lusaca, Zambia)
+    #Note, in pre-2010 datasets, this entry does not exist (was part of Yugoslavia), so left region code and updated country
+    99287 : (99287, "ZAMBIA"),
+    
+
+
+    #-----------------------------------------------#
+    #Non-standard Country Mappings
+    #-----------------------------------------------#
+
+    #Maps code for KATMANDU (Kathmandu, Nepal)
+    #Note, in pre-2010 datasets, this entry does not exist. I've updated the country,
+    #but the region code (29173) is used in earlier datasets for Yugoslavia. I've reset the code
+    #to 0 to eliminate collisions
+    29173 : (0, "NEPAL"),
+
+    #Pause review at line 17743 of sorted (by municipality name) 2018 data (end of MAPUTO)
 
 
 
@@ -242,15 +351,11 @@ country_code_map = {
     30627 : (11380, "JAPÃO"),
     30724 : (11380, "JAPÃO"),
 
-    30082 : (98442, "FILIPINAS"),
-
     30147 : (11568, "URUGUAI"),
 
     30430 : (11568, "URUGUAI"),
 
     11568 : (11568, "URUGUAI"),
-
-    29955 : (11509, "PORTUGAL"),
 
     98540 : (98540, "CHINA"),
 
@@ -264,29 +369,19 @@ country_code_map = {
 
     30180 : (11100, "ALEMANHA"),
 
-    29890 : (29130, "MALASIA"),
-
-    29971 : (98841, "INGLATERRA"),
-
     30163 : (98760, "RUSSIA"),
 
     29092 : (29092, "ZIMBABWE"),
 
-    30104 : (11428, "MEXICO"),
-
     30279 : (11541, "SURINAME"),
 
     11800 : (11800, "BOLIVIA"),
-
-    29904 : (11800, "BOLIVIA"),
 
     30473 : (11800, "BOLIVIA"),
 
     30260 : (98329, "PANAMA"),
 
     30821 : (29068, "NAMIBIA"),
-
-    29912 : (98361, "NIGERIA"),
 
     98361 : (98361, "NIGERIA"),
 
@@ -302,8 +397,6 @@ country_code_map = {
 
     39063 : (98906, "CANADA"),
 
-    29882 : (29157, "KUWAIT"),
-
     30325 : (98140, "TRINIDAD TOBAGO"),
 
     29548 : (98523, "CINGAPURA"),
@@ -316,23 +409,8 @@ country_code_map = {
 
     29246 : (29246, "HAITI"),
 
-    29840 : (29211, "INDONESIA"),
 
     29866 : (29190, "JAMAICA"),
-
-    29939 : (98060, "GABAO"),
-
-    29947 : (11460, "PERU"),
-
-    29980 : (11266, "ESTADOS UNIDOS"),
-
-    29998 : (98965, "ANGOLA"),
-
-    30066 : (11240, "ESPANHA"),
-
-    30074 : (98838, "NICARAGUA"),
-
-    30090 : (29116, "MOCAMBIQUE"),
 
     39004 : (11142, "ARGENTINA"),
 
@@ -413,6 +491,9 @@ country_code_map = {
     30864 : (11525, "SUICA")
 
 }
+
+if __name__ == '__main__':
+    print(country_code_map.get(30864))
 
 
 
