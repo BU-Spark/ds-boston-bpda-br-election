@@ -1,11 +1,7 @@
 
 # Matches municipality code for city/country (post 2010 data) to municipality code for country
-# (pre-2010 data) and country name. Note: I'm writing in a dictionary for now just to keep track, but we can easily
-# switch this to a function since the dictionary will obviously occupy space.
 # Key is code for municipality in post-2010 data
 # Value is a 2-tuple containing (<code for country in pre-2010 data>, <Name of Country in pre-2010 data>)
-
-#Dev note - I started with the 2010 dataset (but switching to 2018) for the keys and using the 1998 (or later if not found) dataset for the values
 country_code_map = {
 
     #Maps code for ABIDJAN-COTE/Abidija (Abidjan Cote de'Ivoire)
@@ -25,9 +21,6 @@ country_code_map = {
 
     #Maps code for ARGEL-ARGL/ARGEL (Algiers, Algeria)
     29300 : (98701, "ARGÉLIA"),
-
-    #Maps code for  ARGENTINA (Argentina) - This is really a no-op as there is no change here
-    11142 : (11142, "ARGENTINA"),
 
     #Maps code for  ARTIGAS (Uruguay)
     29319 : (11568, "URUGUAI"),
@@ -58,9 +51,6 @@ country_code_map = {
 
     #Maps code for  BOGOTÁ-COLO (Bogota, Colombia)
     29408 : (11185, "COLOMBIA"),
-
-    #Maps code for  BOLÍVIA (Bolivia) - This is another no-op (no change)
-    11800 : (11800, "BOLIVIA"),
 
     #Maps code for  BOSTON-EUA (Boston, USA)
     29416 : (11266, "ESTADOS UNIDOS"),
@@ -116,8 +106,7 @@ country_code_map = {
     #Maps code for COCHABAMBA (Cochabamba, Bolivia)
     29572 : (11800, "BOLIVIA"),
 
-
-    #Maps code for CONACEPCION (Concepcion, Paraguay)
+    #Maps code for CONCEPCION (Concepcion, Paraguay)
     29580 : (11444, "PARAGUAI"),
 
     #Maps code for COPENHAGUE-DINA (Copehhagen, Denmark)
@@ -387,18 +376,75 @@ country_code_map = {
     #Maps code for TAIPEI (Taipei, Taiwan)
     30570 : (2828, "TAIWAN"),
 
-    #Pause at 30061 in sorted data - end of Taipei
+    #Maps code for TEERA (Tehran, Iran)
+    30597 : (29203, "IRA"),
 
+    #Maps code for TEGUCIGALPA (Tegucigalpa, Honduras)
+    30600 : (29076, "HONDURAS"),
 
+    #Maps code for TEL AVIV (Tel Aviv, Israel)
+    30619 : (11347, "ISRAEL"),
 
+    #Maps code for TORONTO (Toronto, Canada)
+    30635 : (98906, "CANADA"),
+
+    #Maps code for TRIPOLI (Tripoli, Libya)
+    30686 : (29149, "LIBIA"),
+
+    #Maps code for TUNIS (Tunis, Tunisia)
+    30708 : (98124, "TUNISIA"),
+
+    #Maps code for VANCOUVER (Vancouver, Canada)
+    39063 : (98906, "CANADA"),
+
+    #Maps code for VARSOVIA (Warsaw, Poland)
+    30740 : (11487, "POLONIA"),
+
+    #Maps code for VIENA (Vienna, Austria)
+    30767 : (98949, "AUSTRIA"),
+
+    #Maps code for WASHINGTON (Washington DC, USA)
+    30783 : (11266, "ESTADOS UNIDOS"),
+
+    #Maps code for WELLINGTON (Wellington, New Zealand)
+    30805 : (29050, "NOVA ZELANDIA"),
+
+    #Maps code for WINDHOEK (Windhoek, Namibia)
+    30821 : (29068, "NAMIBIA"),
+
+    #Maps code for XANGAI (Shanghai, China)
+    30848 : (98540, "CHINA"),
+
+    #Maps code for ZURIQUE (Zurich, Switzerland)
+    30864 : (11525, "SUICA"),
+
+    #Maps code for MITSUKAIDO-JAPA (Mitsukaido, Japan)
+    30139 : (11380, "JAPÃO"),
+
+    #Maps code for SUZUKA-JAPA (Suzuka, Japan)
+    30554 : (11380, "JAPÃO"),
+
+    #Maps code for TAKAOKA-JAPA (Takaoka, Japan)
+    30589 : (11380, "JAPÃO"),
+
+    #Maps code for TOYOHASHI-JAPA (Toyohashi, Japan)
+    30643 : (11380, "JAPÃO"),
+
+    #Maps code for UEDA-JAPA (Ueda, Japan)
+    30724 : (11380, "JAPÃO"),
+
+    #Maps code for GUATEMALA-GUAT (Guatemalteca, Japan)
+    29726 : (98000, "GUATEMALA"),
+
+    #Maps code for KINGSTON-JAMA (Kingston, Jamaica)
+    29866 : (29190, "JAMAICA"),
 
     #-----------------------------------------------#
     # Mappings for Countries not in pre-2010 Data
     #-----------------------------------------------#
 
     #Maps code for  BELGRADO-SERV (Belgrade, Serbia)
-    # Note: this would have been included in IUGUSLÁVIA (code 29173), we can change to that or keep as is
-    # For now, keeping as no-op
+    #Note: this would have been included in IUGUSLÁVIA (code 29173), so left region code and updated country
     29378 : (29378, "SERVIA"),
 
     #Maps code for FREETOWN (Freetown, Sierra Leone)
@@ -493,9 +539,25 @@ country_code_map = {
     #Note, in pre-2010 datasets, this entry does not exist (part of Yugoslavia - code 29173), so left region code and updated country
     30988 : (30988, "BOSNIA E HERZEGOVINA"),
 
+    #Maps code for TALIN (Talinn, Estonia)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    99317 : (99317, "ESTONIA"),
 
+    #Maps code for TBILISI (Tbilisi, Georgia)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    99104 : (99104, "GEORGIA"),
+
+    #Maps code for UAGADUGU (Ouagadougou, Burkina Faso)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    39284 : (39284, "BURQUINA FASSO"),
     
-
+    #Maps code for YANGON (Yangon, Myanmar)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    99376 : (99376, "MYANMAR"),
+    
+    #Maps code for ZAGREB (Zagreb, Croatia)
+    #Note, in pre-2010 datasets, this entry does not exist (part of Yugoslavia - code 29173), so left region code and updated country
+    39020 : (39020, "CROACIA"),
     
 
     #-----------------------------------------------#
@@ -508,77 +570,52 @@ country_code_map = {
     #to 0 to eliminate collisions
     29173 : (0, "NEPAL"),
 
-    #Pause review at line 17743 of sorted (by municipality name) 2018 data (end of MAPUTO)
 
+    #-----------------------------------------------#
+    # Country to Country Mappings
+    #-----------------------------------------------#
 
+    #Maps code for  ARGENTINA (Argentina)
+    11142 : (11142, "ARGENTINA"),
 
-
-    
-    
-
-    30139 : (11380, "JAPÃO"),
-    30236 : (11380, "JAPÃO"),
-    30554 : (11380, "JAPÃO"),
-    30589 : (11380, "JAPÃO"),
-    30643 : (11380, "JAPÃO"),
-    30724 : (11380, "JAPÃO"),
-
+    #Maps code for  URUGUAI (Uruguay)
     11568 : (11568, "URUGUAI"),
 
+    #Maps code for  CHINA (China)
     98540 : (98540, "CHINA"),
 
-    30767 : (98949, "AUSTRIA"),
-
-    30600 : (29076, "HONDURAS"),
-
+    #Maps code for  ZIMBABWE (Zimbabwe)
     29092 : (29092, "ZIMBABWE"),
 
+    #Maps code for  BOLIVIA (Bolivia)
     11800 : (11800, "BOLIVIA"),
 
-    30821 : (29068, "NAMIBIA"),
-
+    #Maps code for  NIGERIA (Nigeria)
     98361 : (98361, "NIGERIA"),
-
-    30635 : (98906, "CANADA"),
-
-    39063 : (98906, "CANADA"),
-
-    29580 : (98485, "DINAMARCA"),
-
+    
+    #Maps code for  GANA (Ghana)
     98043 : (98043, "GANA"),
 
-    29726 : (98000, "GUATEMALA"),
-
+    #Maps code for  HAITI (Haiti)
     29246 : (29246, "HAITI"),
 
-
-    29866 : (29190, "JAMAICA"),
-
+    #Maps code for  PAQUISTAO (Pakistan)
     98302 : (98302, "PAQUISTAO"),
 
+    #Maps code for  PERU (Peru)
     11460 : (11460, "PERU"),
 
-    30597 : (29203, "IRA"),
-
-    30619 : (11347, "ISRAEL"),
-
-    30686 : (29149, "LIBIA"),
-
-    30708 : (98124, "TUNISIA"),
-
+    #Maps code for  UCRANIA (Ukraine)
     11762 : (11762, "UCRANIA"),
 
-    30740 : (11487, "POLONIA"),
-
-    30783 : (11266, "ESTADOS UNIDOS"),
-
-    30805 : (29050, "NOVA ZELANDIA"),
-
-    30848 : (98540, "CHINA"),
-
+    #Maps code for  ZIMBABWE (Zimbabwe)
     29092 : (29092, "ZIMBABWE"),
 
-    30864 : (11525, "SUICA")
+    #-----------------------------------------------#
+    # Unknowns -- added during mapping, but can't find - identify/add as needed
+    #-----------------------------------------------#
+
+    # 30236 : (11380, "JAPÃO"),
 
 }
 
