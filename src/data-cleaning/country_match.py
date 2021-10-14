@@ -35,10 +35,6 @@ country_code_map = {
     #Maps code for ASSUNÇÃO-PARG (Asuncion, Paraguay)
     29327 : (11444, "PARAGUAI"),
 
-    #Maps code for ASTANA-KAZA (Astana, Kazakhstan)
-    #Note: there is no prior country code for kazakhstan, so left region code and updated country
-    39241 : (39241, "CAZAQUISTÃO"),
-
     #Maps code for ATENAS-GREC (Athens, Greece)
     29335 : (11827, "GRECIA"),
 
@@ -53,11 +49,6 @@ country_code_map = {
 
     #Maps code for  BEIRUTE-LBAN (Beirut, Lebanon)
     29360 : (11401, "LIBANO"),
-
-    #Maps code for  BELGRADO-SERV (Belgrade, Serbia)
-    # Note: this would have been included in IUGUSLÁVIA (code 29173), we can change to that or keep as is
-    # For now, keeping as no-op
-    29378 : (29378, "SERVIA"),
 
     #Maps code for  BERLIM-RFA (Berlin, Germany)
     29386 : (11100, "ALEMANHA"),
@@ -125,13 +116,6 @@ country_code_map = {
     #Maps code for COCHABAMBA (Cochabamba, Bolivia)
     29572 : (11800, "BOLIVIA"),
 
-    #Maps code for COLOMBO (Colombo, Sri Lanka)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    30929 : (30929, "SRI LANKA"),
-
-    #Maps code for CONACRI (Conakry, Guinea)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    38903 : (38903, "GUINE"),
 
     #Maps code for CONACEPCION (Concepcion, Paraguay)
     29580 : (11444, "PARAGUAI"),
@@ -139,27 +123,11 @@ country_code_map = {
     #Maps code for COPENHAGUE-DINA (Copehhagen, Denmark)
     29599 : (98485, "DINAMARCA"),
 
-    #Maps code for COTONOU (Cotonou, Benin)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    38920 : (38920, "BENIM"),
-
-    #Maps code for DILI (Dili, Timor-Leste)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    29645 : (29645, "TIMOR-LESTE"),
-
     #Maps code for DACAR (Dakar, Senegal)
     29610 : (98248, "SENEGAL"),
 
     #Maps code for DAMASCO (Damascus, Syria)
     29637 : (98221, "SIRIA"),
-
-    #Maps code for DAR ES SALAAM (Dar ese Salaam, Tanzania)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    38962 : (38962, "TANZANIA"),
-
-    #Maps code for DOHA (Doha, Qatar)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    29653 : (29653, "CATAR"),
 
     #Maps code for DUBLIN (Dublin, Ireland)
     29661 : (29033, "IRLANDA"),
@@ -175,14 +143,6 @@ country_code_map = {
 
     #Maps code for FRANKFURT (Frankfurt, Germany)
     29696 : (11100, "ALEMANHA"),
-
-    #Maps code for FREETOWN (Freetown, Sierra Leone)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    99406 : (99406, "SERRA LEOA"),
-
-    #Maps code for GABORONE (Gaborone, Botswana)
-    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
-    30669 : (30669, "BOTSWANA"),
 
     #Maps code for GENEBRA (Geneva, Switzerland)
     29700 : (11525, "SUICA"),
@@ -289,14 +249,197 @@ country_code_map = {
     #Maps code for MAPUTO (Maputo, Mozambique)
     30090 : (29116, "MOCAMBIQUE"),
 
+    #Maps code for MENDOZA (Mendoza, Argentina)
+    39004 : (11142, "ARGENTINA"),
+
+    #Maps code for MIAMI (Miami, USA)
+    30112 : (11266, "ESTADOS UNIDOS"),
+
+    #Maps code for MILAO (Milan, Italy)
+    30120 : (11363, "ITALIA"),
+
+    #Maps code for MONTEVIDEO (Montevideo, Uruguay)
+    30147 : (11568, "URUGUAI"),
+
+    #Maps code for MONTREAL (Montreal, Canada)
+    30155 : (98906, "CANADA"),
+
+    #Maps code for MOSCOU (Moscow, Russia)
+    30163 : (98760, "RUSSIA"),
+
+    #Maps code for MUMBAI (Mumbai, India)
+    30171 : (98825, "INDIA"),
+
+    #Maps code for MUNIQUE (Munich, Germany)
+    30180 : (11100, "ALEMANHA"),
+
+    #Maps code for NAGOIA (Nagoya, Japan)
+    30198 : (11380, "JAPÃO"),
+
+    #Maps code for NAIROBI (Nairobi, Kenya)
+    30201 : (29165, "KENIA"),
+
+    #Maps code for NOVA DELHI (New Delhi, India)
+    30210 : (98825, "INDIA"),
+
+    #Maps code for NOVA YORK (New York, USA)
+    30228 : (11266, "ESTADOS UNIDOS"),
+
+    #Maps code for OSLO (Oslo, Norway)
+    30244 : (98345, "NORUEGA"),
+
+    #Maps code for OTTAWA (Ottawa, Canada)
+    30252 : (98906, "CANADA"),
+
+    #Maps code for PANAMA-PAN (Panama City, Panama)
+    30260 : (98329, "PANAMA"),
+
+    #Maps code for PARAMARIBO (Paramaribo, Suriname)
+    30279 : (11541, "SURINAME"),
+
+    #Maps code for PARIS (Paris, France)
+    30287 : (11282, "FRANCA"),
+
+    #Maps code for PASO LOS LIBRES (Paso de los Libres, Argentina)
+    30295 : (11142, "ARGENTINA"),
+
+    #Maps code for PEDRO JUAN CABALLERO (Pedro Juan Caballero, Paraguay)
+    30309 : (11444, "PARAGUAI"),
+
+    #Maps code for PEQUIM (Beijing, China)
+    30317 : (98540, "CHINA"),
+
+    #Maps code for PORT OF SPAIN (Port of Spain, Trinidada and Tobago)
+    30325 : (98140, "TRINIDAD TOBAGO"),
+
+    #Maps code for PORTO (Porto, Portugal)
+    30341 : (11509, "PORTUGAL"),
+
+    #Maps code for PORTO PRINCIPE (Port-au-Prince , Haiti)
+    30333 : (29246, "HAITI"),
+
+    #Maps code for PRAIA (Praia , Cape Verde)
+    30368 : (98604, "CABO VERDE"),
+
+    #Maps code for PRETORIA (Pretoria, South Africa)
+    30376 : (98787, "AFRICA DO SUL"),
+
+    #Maps code for PUERTO IGUAZU (Puerto Iguazu, Argentina)
+    99155 : (11142, "ARGENTINA"),
+
+    #Maps code for PUERTO QUIJARRO (Puerto Quijarro, Bolivia)
+    99236 : (11800, "BOLIVIA"),
+
+    #Maps code for QUITO (Quito, Ecuador)
+    30392 : (11223, "EQUADOR"),
+
+    #Maps code for RABAT (Rabat, Morroco)
+    30406 : (29122, "MARROCOS"),
+
+    #Maps code for RIADE (Riyadh, Saudi Arabia)
+    30422 : (11126, "ARABIA SAUDITA"),
+
+    #Maps code for RIO BRANCO (Rio Branco, Uruguay)
+    30430 : (11568, "URUGUAI"),
+
+    #Maps code for ROMA (Rome, Italy)
+    30449 : (11363, "ITALIA"),
+
+    #Maps code for ROTTERDAO (Rotterdam, Netherlands)
+    30457 : (29009, "PAISES BAIXOS"),
+
+    #Maps code for SAO DOMINGOS (Santo Domingo, Dominican Republic)  
+    30490 : (98280, "REPUBLICA DOMINICANA"),
+
+    #Maps code for SAO FRANCISCO (San Francisco, USA) 
+    30503 : (11266, "ESTADOS UNIDOS"),
+
+    #Maps code for SAO JOSE (San Jose, Costa Rica) 
+    30511 : (98507, "COSTA RICA"),
+
+    #Maps code for SAO SALVADOR (San Salvador, El Salvador) 
+    30520 : (98469, "EL SALVADOR"),
+
+    #Maps code for SOFIA (Sofia, Bulgaria) 
+    30546 : (98620, "BULGARIA"),
+
+    #Maps code for SALTO DE GUAIRA (Salto del Guaira, Paraguay)
+    30465 : (11444, "PARAGUAI"),
+
+    #Maps code for SANTIAGO (Santiago, Chile)
+    30481 : (11169, "CHILE"),
+
+    #Maps code for SEUL (Seoul, South Korea)
+    30538 : (11207, "COREIA"),
+
+    #Maps code for SINGAPURA-SING (Singapore)
+    29548 : (98523, "CINGAPURA"),
+
+    #Maps code for SSTA C LA SIERRA-BOLI (Santa Cruz de la Sierra, Bolivia)
+    30473 : (11800, "BOLIVIA"),
+
+    #Maps code for SYDNEY (Sydney, Australia)
+    30562 : (98981, "AUSTRALIA"),
+
+    #Maps code for TOQUIO (Tokyo, Japan)
+    30627 : (11380, "JAPÃO"),
+
+    #Maps code for TAIPEI (Taipei, Taiwan)
+    30570 : (2828, "TAIWAN"),
+
+    #Pause at 30061 in sorted data - end of Taipei
+
+
+
 
     #-----------------------------------------------#
     # Mappings for Countries not in pre-2010 Data
     #-----------------------------------------------#
 
+    #Maps code for  BELGRADO-SERV (Belgrade, Serbia)
+    # Note: this would have been included in IUGUSLÁVIA (code 29173), we can change to that or keep as is
+    # For now, keeping as no-op
+    29378 : (29378, "SERVIA"),
+
+    #Maps code for FREETOWN (Freetown, Sierra Leone)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    99406 : (99406, "SERRA LEOA"),
+
+    #Maps code for ASTANA-KAZA (Astana, Kazakhstan)
+    #Note: there is no prior country code for kazakhstan, so left region code and updated country
+    39241 : (39241, "CAZAQUISTÃO"),
+
+    #Maps code for GABORONE (Gaborone, Botswana)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    30669 : (30669, "BOTSWANA"),
+
     #Maps code for  BRATISLAVA (Bratislava, Slovakia)
     #Note, in pre-2010 datasets, this is part of Czechoslovakia, so left region code and updated country
     39209 : (39209, "ESLOVAKIA"),
+
+    #Maps code for COLOMBO (Colombo, Sri Lanka)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    30929 : (30929, "SRI LANKA"),
+
+    #Maps code for CONACRI (Conakry, Guinea)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    38903 : (38903, "GUINE"),
+
+    #Maps code for COTONOU (Cotonou, Benin)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    38920 : (38920, "BENIM"),
+    
+    #Maps code for DAR ES SALAAM (Dar ese Salaam, Tanzania)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    38962 : (38962, "TANZANIA"),
+
+    #Maps code for DOHA (Doha, Qatar)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    29653 : (29653, "CATAR"),
+
+    #Maps code for DILI (Dili, Timor-Leste)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    29645 : (29645, "TIMOR-LESTE"),
 
     #Maps code for IEREVAN-ARME (Yereven, Armenia)
     #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
@@ -319,10 +462,41 @@ country_code_map = {
     39160 : (39160, "ESLOVENIA"),
 
     #Maps code for LUSACA (Lusaca, Zambia)
-    #Note, in pre-2010 datasets, this entry does not exist (was part of Yugoslavia), so left region code and updated country
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
     99287 : (99287, "ZAMBIA"),
+
+    #Maps code for MASCATE (Muscat, Oman)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    39102 : (39102, "OMA"),
+
+    #Maps code for NASSAU (Nassau, Bahamas)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    99180 : (99180, "COMUNIDADE DAS BAHAMAS"),
+
+    #Maps code for NICOSIA (Nicosia, Cyprus)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    39322 : (39322, "CHIPRE"),
+
+    #Maps code for PRAGA (Prague, Czech Replublic)
+    #Note, in pre-2010 datasets, this entry does not exist (was part of Czechoslovakia - 98566), so left region code and updated country
+    30350 : (30350, "REPUBLICA CHECA"),
+
+    #Maps code for RAMALLAH-PALE (Ramallah, Palestine)
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    30414 : (30414, "PALESTINA"),
+
+    #Maps code for SAO TOME (Sao Tome, Sao Tome and Principe) 
+    #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
+    39225 : (39225, "SAO TOME E PRINCIPE"),
+
+    #Maps code for SARAJEVO (Sarajevo, Bosnia and Herzegovina) 
+    #Note, in pre-2010 datasets, this entry does not exist (part of Yugoslavia - code 29173), so left region code and updated country
+    30988 : (30988, "BOSNIA E HERZEGOVINA"),
+
+
     
 
+    
 
     #-----------------------------------------------#
     #Non-standard Country Mappings
@@ -343,63 +517,31 @@ country_code_map = {
     
 
     30139 : (11380, "JAPÃO"),
-    30198 : (11380, "JAPÃO"),
     30236 : (11380, "JAPÃO"),
     30554 : (11380, "JAPÃO"),
     30589 : (11380, "JAPÃO"),
     30643 : (11380, "JAPÃO"),
-    30627 : (11380, "JAPÃO"),
     30724 : (11380, "JAPÃO"),
-
-    30147 : (11568, "URUGUAI"),
-
-    30430 : (11568, "URUGUAI"),
 
     11568 : (11568, "URUGUAI"),
 
     98540 : (98540, "CHINA"),
 
-    30481 : (11169, "CHILE"),
-
     30767 : (98949, "AUSTRIA"),
 
     30600 : (29076, "HONDURAS"),
 
-    30350 : (98566, "CHECOSLOVÁQUIA"),
-
-    30180 : (11100, "ALEMANHA"),
-
-    30163 : (98760, "RUSSIA"),
-
     29092 : (29092, "ZIMBABWE"),
 
-    30279 : (11541, "SURINAME"),
-
     11800 : (11800, "BOLIVIA"),
-
-    30473 : (11800, "BOLIVIA"),
-
-    30260 : (98329, "PANAMA"),
 
     30821 : (29068, "NAMIBIA"),
 
     98361 : (98361, "NIGERIA"),
 
-    30309 : (11444, "PARAGUAI"),
-
-    30465 : (11444, "PARAGUAI"),
-
-    30155 : (98906, "CANADA"),
-
-    30252 : (98906, "CANADA"),
-
     30635 : (98906, "CANADA"),
 
     39063 : (98906, "CANADA"),
-
-    30325 : (98140, "TRINIDAD TOBAGO"),
-
-    29548 : (98523, "CINGAPURA"),
 
     29580 : (98485, "DINAMARCA"),
 
@@ -412,61 +554,9 @@ country_code_map = {
 
     29866 : (29190, "JAMAICA"),
 
-    39004 : (11142, "ARGENTINA"),
-
-    30112 : (11266, "ESTADOS UNIDOS"),
-
-    30120 : (11363, "ITALIA"),
-
-    30171 : (98825, "INDIA"),
-
-    30201 : (29165, "KENIA"),
-
-    30210 : (98825, "INDIA"),
-
-    30228 : (11266, "ESTADOS UNIDOS"),
-
-    30244 : (98345, "NORUEGA"),
-
     98302 : (98302, "PAQUISTAO"),
 
-    30287 : (11282, "FRANCA"),
-
-    30317 : (98540, "CHINA"),
-
     11460 : (11460, "PERU"),
-
-    30341 : (11509, "PORTUGAL"),
-
-    30368 : (98604, "CABO VERDE"),
-
-    30376 : (98787, "AFRICA DO SUL"),
-
-    30392 : (11223, "EQUADOR"),
-
-    30406 : (29122, "MARROCOS"),
-
-    30422 : (11126, "ARABIA SAUDITA"),
-
-    30449 : (11363, "ITALIA"),
-
-    30457 : (29009, "PAISES BAIXOS"),
-
-    30538 : (11207, "COREIA"),
-
-    30562 : (98981, "AUSTRALIA"),
-
-    30490 : (98280, "REPUBLICA DOMINICANA"),
-
-    30503 : (11266, "ESTADOS UNIDOS"),
-
-    30511 : (98507, "COSTA RICA"),
-
-    30520 : (98469, "EL SALVADOR"),
-
-    30546 : (98620, "BULGARIA"),
-
-    30570 : (2828, "TAIWAN"),
 
     30597 : (29203, "IRA"),
 
