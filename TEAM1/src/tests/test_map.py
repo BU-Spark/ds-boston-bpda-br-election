@@ -1,5 +1,12 @@
 #Simple test file to ensure that the mapping function works (and we are not missing entries)
+#from __future__ import absolute_import
+import sys
+import os
 import pandas as pd
+
+script_dir = os.path.dirname( __file__ )
+mymodule_dir = os.path.join( script_dir, '..', 'data_cleaning')
+sys.path.append( mymodule_dir )
 import country_match
 from country_match import country_code_map
 
