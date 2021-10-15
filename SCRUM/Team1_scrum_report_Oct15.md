@@ -12,7 +12,9 @@ In the past week, we have worked on the following:
 ### What will I be working on next?
 Up next, we will be working on the following:
 - Finishing data cleaning tasks (reconciling education and marital status codes, etc.)
-- Conducting initial analysis on two strategic questions of interest (1. *What is the grographical distribution of the Brazilian immigrant electorate/how has thischanged over time.* 2. TBD ) 
+- Conducting initial analysis on two strategic questions of interest 
+    - 1. What is the grographical distribution of the Brazilian immigrant electorate/how has thischanged over time
+    - 2. TBD 
 - Submitting Deliverable 1 by 10/20
 
 ### Have I run into any issues? Do I need help?
