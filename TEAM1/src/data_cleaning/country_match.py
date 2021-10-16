@@ -20,7 +20,7 @@ country_code_map = {
     29297 : (98108, "TURQUIA"),
 
     #Maps code for ARGEL-ARGL/ARGEL (Algiers, Algeria)
-    29300 : (98701, "ARGÉLIA"),
+    29300 : (98701, "ARGELIA"),
 
     #Maps code for  ARTIGAS (Uruguay)
     29319 : (11568, "URUGUAI"),
@@ -143,7 +143,7 @@ country_code_map = {
     98000 : (98000, "GUATEMALA"),
 
     #Maps code for HAMMATSU (Hammatsu, Japan)
-    29742 : (11380, "JAPÃO"),
+    29742 : (11380, "JAPAO"),
 
     #Maps code for HANOI (Hanoi, Vietnam)
     29750 : (2800, "VIETNA"),
@@ -263,7 +263,7 @@ country_code_map = {
     30180 : (11100, "ALEMANHA"),
 
     #Maps code for NAGOIA (Nagoya, Japan)
-    30198 : (11380, "JAPÃO"),
+    30198 : (11380, "JAPAO"),
 
     #Maps code for NAIROBI (Nairobi, Kenya)
     30201 : (29165, "KENIA"),
@@ -371,7 +371,7 @@ country_code_map = {
     30562 : (98981, "AUSTRALIA"),
 
     #Maps code for TOQUIO (Tokyo, Japan)
-    30627 : (11380, "JAPÃO"),
+    30627 : (11380, "JAPAO"),
 
     #Maps code for TAIPEI (Taipei, Taiwan)
     30570 : (2828, "TAIWAN"),
@@ -419,22 +419,22 @@ country_code_map = {
     30864 : (11525, "SUICA"),
 
     #Maps code for MITSUKAIDO-JAPA (Mitsukaido, Japan)
-    30139 : (11380, "JAPÃO"),
+    30139 : (11380, "JAPAO"),
 
     #Maps code for SUZUKA-JAPA (Suzuka, Japan)
-    30554 : (11380, "JAPÃO"),
+    30554 : (11380, "JAPAO"),
 
     #Maps code for TAKAOKA-JAPA (Takaoka, Japan)
-    30589 : (11380, "JAPÃO"),
+    30589 : (11380, "JAPAO"),
 
     #Maps code for TOYOHASHI-JAPA (Toyohashi, Japan)
-    30643 : (11380, "JAPÃO"),
+    30643 : (11380, "JAPAO"),
 
     #Maps code for UEDA-JAPA (Ueda, Japan)
-    30724 : (11380, "JAPÃO"),
+    30724 : (11380, "JAPAO"),
 
     #Maps code for OIZUMI-JAPA (Oizumi, Japan)
-    30236 : (11380, "JAPÃO"),
+    30236 : (11380, "JAPAO"),
 
     #Maps code for GUATEMALA-GUAT (Guatemalteca, Japan)
     29726 : (98000, "GUATEMALA"),
@@ -463,7 +463,7 @@ country_code_map = {
 
     #Maps code for ASTANA-KAZA (Astana, Kazakhstan)
     #Note: there is no prior country code for kazakhstan, so left region code and updated country
-    39241 : (39241, "CAZAQUISTÃO"),
+    39241 : (39241, "CAZAQUISTAO"),
 
     #Maps code for GABORONE (Gaborone, Botswana)
     #Note, in pre-2010 datasets, this entry does not exist, so left region code and updated country
