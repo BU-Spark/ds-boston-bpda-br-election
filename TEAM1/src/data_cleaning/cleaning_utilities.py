@@ -2,7 +2,8 @@
 def remove_accents(row):
     '''
     Removes accents from the municipallity name text data
-    param: row - A dataframe row
+    :param row - A dataframe row
+    :return The name with the accent removed
     '''
     #Source - https://pypi.org/project/Unidecode/
     from unidecode import unidecode
