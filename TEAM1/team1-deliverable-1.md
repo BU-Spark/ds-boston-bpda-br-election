@@ -15,11 +15,10 @@
 For preliminary analysis, we looked into the following:
 - How electorate populations differ by size (in terms of countries)
     - Overall the population of Brazilian immigrant voters has been growing since 1998
-    - For all datasets since 1998, the United States has remained the country with the highest number of Brazilian Immigrant voters.
+    - For all datasets since 1998, the United States has remained the country with the highest number of Brazilian Immigrant voters. Italy and Portugal have also been among the top 5 countries every year in the dataset.
     - In 2010, the number of Brazilian immigrant voters in Japan increased 20x, moving it into 4th place among countries with the most Brazilian immigrant voters
-    - (TODO: Add more)
 - How electorate populations have grown in different countries
-    - (TODO: Look at Growth Charts)
+    - The top growing countries for Brazilian immigrant voters (as measured by change in population from the prior election year) has varied each year. However, the UAE was the top growing country in both 2014 and 2018. 
 - How Gender ratios differ between countries
     - (TODO: With More gender analysis)
 
