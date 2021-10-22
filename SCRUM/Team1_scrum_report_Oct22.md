@@ -4,7 +4,7 @@
 
 ### What have I worked on?
 In the past week, we have worked on the following:
-- Conducted geogrpahical analysis of the elecorate  
+- Conducted geographical analysis of the elecorate  
 - Conducted gender analysis of the electorate
 - Implemented a mapping function to clean the country codes and education codes
 
@@ -12,7 +12,7 @@ In the past week, we have worked on the following:
 Up next, we will be working on the following:
 - Conduct additional demographic analysis by location (gender, age, etc ...) 
 - Create a mapping function to clean age group codes
-- Submitting Deliverable 1 by 11/01
+- Submit Deliverable 1 by 11/01
 
 ### Have I run into any issues? Do I need help?
 We do not currently have any issues.
