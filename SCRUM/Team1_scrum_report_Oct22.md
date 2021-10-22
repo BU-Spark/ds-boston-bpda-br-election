@@ -10,7 +10,7 @@ In the past week, we have worked on the following:
 
 ### What will I be working on next?
 Up next, we will be working on the following:
-- Conduct additional demographic analysis by location (gender, age, ..., etc) 
+- Conduct additional demographic analysis by location (gender, age, etc ...) 
 - Create a mapping function to clean age group codes
 - Submitting Deliverable 1 by 11/01
 
