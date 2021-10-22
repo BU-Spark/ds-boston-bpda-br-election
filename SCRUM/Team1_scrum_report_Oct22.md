@@ -7,7 +7,6 @@ In the past week, we have worked on the following:
 - Conducted geogrpahical analysis of the elecorate  
 - Conducted gender analysis of the electorate
 - Implemented a mapping function to clean the country codes and education codes
-- Began creating scripts to analyze the changes in electorate by location (country of residence of immigrant voters)
 
 ### What will I be working on next?
 Up next, we will be working on the following:
