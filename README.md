@@ -31,13 +31,10 @@ To begin, we will clean the datasets and examine each separately. For the voting
 
 ## Key Questions to be Answered
 Our team will use the election data to answer as many of the questions below as possible.
+- How have voting patterns changed over time?
+- What are some communal or demographic factors that influence voting patterns? Which factors appear to be the most impactful?
 - How are voting patterns different among Brazilian immigrants residing in different countries (eg, US vs Japan)?
 - How are electorate populations different among Brazilian immigrants residing in different countries (eg, US vs Japan)?
-- How have voting patterns changed over time?
-- How have electorate populations changed over time?
-- How have voting trends changed as the demographics of the electorate (voters) have changed?
-- What are some communal or demographic factors that influence voting patterns? Which factors appear to be the most impactful?
-- Which demographic groups have experienced the most significant change in voting patterns over the scope of our dataset?
 
 ## Limitations
 - Looking at the data set, it appears that new features (e.g. age, marital status, etc) have been added over time. Thus, the features present in each of the datasets may vary by year, which may make it difficult to analyze how these features have changed over time.
