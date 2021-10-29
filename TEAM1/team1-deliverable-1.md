@@ -70,7 +70,7 @@ Above, we plot the total number of men and women Brazilian Immigrant Voters by y
 * Specifically,in 1998, 59% of the voters were women. At the peak disparity in 2006, 60.8% of the voters were women. In 2010, the electorate consisted of 60% women, and ultimately the electorate was 58% women in 2018.
 ---
 
-## Refined Project Proposal (Not sure if we do this here or on Deliverable 0)
+## Refined Project Proposal
 
 ### Title: Brazilian Immigrant Participation in Brazil-Held Election Results
 
