@@ -61,6 +61,13 @@ Here, we look at the gender ratios in the top 10 countries over all datasets. A 
 
 ### How have gender demographics within the electorate populations changed over time?
 
+*Brazilian Immigrant Electorate Population by Gender*
+ ![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/electorate_gender_graph.png) 
+
+Above, we plot the total number of men and women Brazilian Immigrant Voters by year from years 1998 to 2018. The number of total voters has increased for each dataset analyzed, and the increase is especially notable from 2010 onwards.
+
+* There are consistently more women than men voters, and the disparity between women and men voters increased from 1998 to 2006 before and gradually decreasing to lower than 2006 levels by 2018. 
+* Specifically,in 1998, 59% of the voters were women. At the peak disparity in 2006, 60.8% of the voters were women. In 2010, the electorate consisted of 60% women, and ultimately the electorate was 58% women in 2018.
 ---
 
 ## Refined Project Proposal (Not sure if we do this here or on Deliverable 0)
