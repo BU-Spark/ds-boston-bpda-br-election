@@ -41,7 +41,7 @@ For preliminary analysis, we looked into the following:
 ## Meeting Times
 *Bi-Weekly Client Meetings:* Fridays 9-10 AM
 
-*Weekly PM Meetings:* Mondays 10-11 AM
+*Weekly PM Meetings:* Tuesdays 5:30-6 PM
 
 ## Project Description
 This project seeks to understand the composition of the Brazilian immigrant electorate. By analyzing data on the electorate collected for all Brazilian Presidential elections from 1998—2018, we hope to understand changing patterns among Brazilian immigrants that vote in Brazilian elections. After analyzing the electorate, we hope to conduct additional analysis on Brazilian immigrant voting records to try and determine how community and demographic differences may influence voting patterns.
