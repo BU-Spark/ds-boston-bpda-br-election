@@ -20,7 +20,35 @@ For preliminary analysis, we looked into the following:
 - How electorate populations have grown in different countries
     - The top growing countries for Brazilian immigrant voters (as measured by change in population from the prior election year) has varied each year. However, the UAE was the top growing country in both 2014 and 2018. 
 - How Gender ratios differ between countries
-    - (TODO: With More gender analysis)
+    - In looking at the aggregate, it was difficult to get a sense of how these ratios differed, so more analysis was done when only looking at the the top 10 countries by population
+- How the Brazilian Immigrant electorate in top 10 countries (by population of Brazilian Immigrant voters in 2018) differ.
+    - What are the top 10 countries?
+        - The top 10 countries by Brazilian Immigrant Electorate Population (as of 2018) were:
+            - The United States
+            - Japan
+            - Portugal
+            - The United Kingdom
+            - Italy
+            - Germany
+            - Canada
+            - Spain
+            - Switzerland
+            - France
+    <p align="center">
+        <img src="./readme_images/top_10_country_pops.png" width="350" title="Top 10 Country Populations">
+    </p>
+    <p>
+        <em>Populations of Top 10 Countries by Year</em>
+    </p>
+    - How do growth rates between these countries compare?
+        - Below, we can see the growth rates (from the previous election year) for each of the top 10 countries from 1998-2018. Looking at this data, there are a few noticeable trends:
+            - The Brazilian immigrant population in the United States has grown between every election year, with the largest growth (in terms of population %) occurring between the 1998 and 2002 elections
+            - As noted above, the Brazilian immigrant population in Japan experienced significant growth between 2006 and 2010, though growth has slowed subsequently since. 
+            - Portugal, UK, USA, Germany, Canada, and Spain have consistently had positive growth rates between all election years analyzed
+    - How do the gender ratios between these countris compare?
+        - Here, we look at the gender ratios in the top 10 countries over all datasets. A few patterns emerge:
+            - The Brazilian Immigrant populations in Germany,Italy, and Switzerland are predominately female, with women making up ~70% or more of the Brazilian Immigrant population over all datasets.
+            - Japan is the only country among the top 10 for which men consistently outnumber women within the Brazilian Immigrant population
 
 ### How have gender demographics within the electorate populations changed over time?
 
