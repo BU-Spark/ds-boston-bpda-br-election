@@ -13,7 +13,7 @@ In the past week, we have worked on the following:
 Up next, we will be working on the following:
 - Finalizing Deliverable 1
 - Continue working on coverting city to country in our dataset 2010 and prior
-- Working on answering/modeling our next set of key questions will country data
+- Working on answering/modeling our next set of key questions with country data
 
 ### Have I run into any issues? Do I need help?
 We do not currently have any issues.
