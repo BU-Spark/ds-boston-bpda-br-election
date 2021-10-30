@@ -9,3 +9,9 @@ def remove_accents(row):
     from unidecode import unidecode
     remove_accent =unidecode(row.municipality_name)
     return remove_accent
+
+def remove_accents_education(row):
+    from unidecode import unidecode
+    remove_accent =unidecode(row.educational_attainment_description)
+    return remove_accent
+    
