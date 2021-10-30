@@ -7,7 +7,7 @@ In the past week, we have worked on the following:
 - Created a dataset filled with political party votes over the years spanning our election data
 - Modeled our new dataset in Jupyter
 - Answered our key question on How have voting patterns changed over time?
-- Answered our key question on 
+- Answered our key question: What are some communal or demographic factors that influence voting patterns? Which factors appear to be the most impactful? 
 
 ### What will I be working on next?
 Up next, we will be working on the following:
