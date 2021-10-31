@@ -68,6 +68,17 @@ Above, we plot the total number of men and women Brazilian Immigrant Voters by y
 
 * There are consistently more women than men voters, and the disparity between women and men voters increased from 1998 to 2006 before and gradually decreasing to lower than 2006 levels by 2018. 
 * Specifically,in 1998, 59% of the voters were women. At the peak disparity in 2006, 60.8% of the voters were women. In 2010, the electorate consisted of 60% women, and ultimately the electorate was 58% women in 2018.
+
+*Brazilian Immigrant Electorate Education Levels (Women)*
+ ![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/women_education_graph.png)
+ 
+ Looking into the education levels of female members of the Brazilian Immigrant Election, we can see that individuals with a complete college education and complete high school education are the most prevalent, followed by individuals with an incomplete college education.
+
+ *Brazilian Immigrant Electorate Education Levels (Women)*
+ ![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/men_education_graph.png)
+ 
+Similar to our analysis fo female members of the electorate, for male members of the Brazilian Immigrant Election, we can see that individuals with a complete college education and complete education are the most prevalent, followed by individuals with an incomplete college education.
+
 ---
 
 ## Refined Project Proposal
@@ -121,6 +132,7 @@ To begin, we will clean the electorate dataset. Then, we will look at how the co
 - Looking at the data set, it appears that new features (e.g. age, marital status, etc) have been added over time. Thus, the features present in each of the datasets may vary by year, which may make it difficult to analyze how these features have changed over time.
 - There appears to be some variance in how "location" (or municipality) of voters is defined in the different datasets (for example, the 1998 dataset appears to only identify the countries in which voters live, but later datasets break down this data into major cities/regions within a country). Likely, we should be able to resolve these differences through some data cleaning, but it is worth noting.
 - This is very minor, but some of the earlier datasets contain entries from countries which have since been renamed or split into multiple countries (eg, Yugoslavia). We will need to figure out how to deal with these entries as we analyze trends over time.
+- Our client had mentioned that there would be some interest in analyzing what proportion of the populations vote in each country (when compared to the total immigrant population in the country). However, the datasets provided only cover 1 year in our dataset (2014). We may be able to use total population numbers for 2020 (which we do have) to approximate these proportions for our 2018 dataset.
 
 ## Deliverables
 - Final presentation/report describing methodology and trends found surrounding electorate demographics and voting patterns. 
