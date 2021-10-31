@@ -74,7 +74,7 @@ Above, we plot the total number of men and women Brazilian Immigrant Voters by y
  
  Looking into the education levels of female members of the Brazilian Immigrant Election, we can see that individuals with a complete college education and complete high school education are the most prevalent, followed by individuals with an incomplete college education.
 
- *Brazilian Immigrant Electorate Education Levels (Women)*
+ *Brazilian Immigrant Electorate Education Levels (Men)*
  ![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/men_education_graph.png)
  
 Similar to our analysis fo female members of the electorate, for male members of the Brazilian Immigrant Election, we can see that individuals with a complete college education and complete education are the most prevalent, followed by individuals with an incomplete college education.
