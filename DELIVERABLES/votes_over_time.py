@@ -1,5 +1,8 @@
 import pandas as pd
 # returns dataframe of file
+from IPython.core.display import display
+
+
 def process(path):
     df = pd.read_csv(path)
     return df
@@ -37,4 +40,4 @@ votes2018 = sumVotes(parties2018, df2018)
 votes_df = pd.DataFrame([votes1998, votes2002, votes2006, votes2010, votes2014, votes2018], index=[1998, 2002, 2006, 2010, 2014, 2018])
 # df to csv file
 votes_df.to_csv("election data/sum_party_votes.csv")
-print(votes_df)
+display(votes_df)
