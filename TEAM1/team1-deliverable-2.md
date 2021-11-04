@@ -18,25 +18,25 @@ To drill deeper into how voting patterns have changed over time, we looked at th
 
 *2006 - Voting in Top 10 Countries*
 
-![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/top_10_votes_2006.png)
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/top10_votes_2006.png)
 
 Above, we plot the voting results for each country for the year 2006. We see a relatively uniform pattern among all countries, with the majority of votes going to the PDSB and PT. Interestingly, a the PT seemed to garner more votes in Portugal, Italy, and France than did the PSDB
 
 *2010 - Voting in Top 10 Countries*
 
-![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/top_10_votes_2010.png)
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/top10_votes_2010.png)
 
 Above, we plot the voting results for each country for the year 2010. Again, we see a relatively uniform pattern among all countries, with the majority of votes going to the PDSB and PT. Again, a the PT seemed to garner more votes in Portugal, Italy, and France than did the PSDB and interestingly, the PV garnered a significant number of votes in the US.
 
 *2014 - Voting in Top 10 Countries*
 
-![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/top_10_votes_2014.png)
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/top10_votes_2014.png)
 
 In 2014, we see the number of votes for the PT fall dramatically (relative to the PSDB). Meanwhile, votes for the PSB have grown significantly, with the votes for the PSB on par with the PT in the US and votes for the PT outnumbering those for the PT in Japan 
 
 *2018 - Voting in Top 10 Countries*
 
-![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/top_10_votes_2018.png)
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-1/TEAM1/readme_images/top10_votes_2018.png)
 
 In 2018, the PSL became the most-voted-for party across almost all countries. We also see some small spikes in votes for the new NOVO and PDT parties. Meanwhile, the PSDB has very few votes in all countries, while the PT continues to have some support on par with 2014 (much reduced from 2006 and 2010).
 
