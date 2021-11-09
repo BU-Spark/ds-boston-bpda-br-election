@@ -40,6 +40,19 @@ In 2014, we see the number of votes for the PT fall dramatically (relative to th
 
 In 2018, the PSL became the most-voted-for party across almost all countries. We also see some small spikes in votes for the new NOVO and PDT parties. Meanwhile, the PSDB has very few votes in all countries, while the PT continues to have some support on par with 2014 (much reduced from 2006 and 2010).
 
+
+### How Has Educational Attainment Changed Over Time? 
+
+#### Educational Attainment by Top 10 Countries
+The majority of the countries we see an upward trend in the ratio of high school educated and incompletely high school educated voters beginning in 2006. There seems to be a downward trend the ratio of voters who have completed or have not completed college in beginning in 2006, which is likely just due to the ratio for high school education level ratios increasing. In 2010 we see a peak for voters with complete or incomplete elementary education, then a trend downards. We cannot interpret a trends for literate and illiterate voter ratios as their ratios are inconsequentially small.
+
+#### Educational Attainment by Year
+When looking at the general trends over all years, we see that the ratio of voters who have a completed college education has actually dropped, especially from 2006 to 2010. The numbers went up again from 2014 to 2018, but they did not return to pre 2006 levels. Likewise, the ratios of voters who have not finished high school or elementary school actaully increased from 2006 to 2010, before dropping a little from 2014 to 2018. The other educational attainments have remained relatively stable. Once again, we cannot interpret trends for literate and illiterate voters because the numbers are too insignificant.
+
+#### Educational Attainment by Gender 
+
+For most countries except for the United States and Canada, where the ratios increased, the ratios of college educated men and women both went down. Similar but opposite patterns appear for high school education, where the ratios of high school educated men and women both increased, except for in the US and Canada, where they decreased. For incomplete college education, the trend is universally downwards for men. For women, the trends are similar except for in the US where the numbers of incompletely college educated men increased. For incomplete high school education, the trends for both men and women are going up as a whole, but significant increases occured in the countries of Japan and Spain. Similarly, the exceptions to this were once again Canada and the US, where the numbers decreased slightly. 
+
 ---
 
 ## Refined Project Proposal
