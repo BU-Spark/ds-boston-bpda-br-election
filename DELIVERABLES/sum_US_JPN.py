@@ -62,5 +62,5 @@ votes2018 = sumVotes(["United States", "日本"], df2018, '2018')
 votes_df = pd.DataFrame([votes1998, votes2002, votes2006, votes2010, votes2014, votes2018],
                         index=[1998, 2002, 2006, 2010, 2014, 2018], columns=["USA", "JPN"])
 # df to csv file
-votes_df.to_csv("election data/sum_votes_US_JPN.csv")
+# votes_df.to_csv("election data/sum_votes_US_JPN.csv")
 display(votes_df)
