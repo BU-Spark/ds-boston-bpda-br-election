@@ -11,7 +11,23 @@
 ## Questions Analyzed and Results
 
 
-### How Have Voting Patterns Changed Over Time?
+### How Have Voting Patterns Changed Over Time? 
+(See [Voting Analysis](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/src/votingdata.ipynb) for more Detail)
+
+#### Voting for Political Parties
+First, we looked into which political parties parties the Brazilian Immigrant electorate voted for 
+
+*Popularity of Political Parties - All years (1998-2018)*
+
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/readme_images/votes_by_party_all_years.png)
+
+Above, we can see the number of votes for each party over the 6 election years in the dataset. Overall, the PSDB and PT have received the most votes in the last 6 elections, with the PSL coming in 3rd.
+
+*Popularity of Political Parties - 2006-2018*
+
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/readme_images/alldata_parties_last4elections.png)
+
+Now, if we narrow our focus to the last 4 elections, we can see that while the PSDB and PT were the top two parties in 2006-2014, the PSL emerged as the overwhelming top party in 2018
 
 #### Analysis of Top 10 Countries
 To drill deeper into how voting patterns have changed over time, we looked at the same top 10 countries by population (as of 2018) and analyzed how these countries voted for the years 2006-2018.
@@ -41,7 +57,8 @@ In 2014, we see the number of votes for the PT fall dramatically (relative to th
 In 2018, the PSL became the most-voted-for party across almost all countries. We also see some small spikes in votes for the new NOVO and PDT parties. Meanwhile, the PSDB has very few votes in all countries, while the PT continues to have some support on par with 2014 (much reduced from 2006 and 2010).
 
 
-### How Has Educational Attainment Changed Over Time? 
+### How Has Educational Attainment Changed Over Time?
+(See [Top 10 Analysis in the bottom of the location Analysis for more detail](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/src/electorate_location.ipynb) for more Detail)
 
 #### Educational Attainment by Top 10 Countries
 The majority of the countries we see an upward trend in the ratio of high school educated and incompletely high school educated voters beginning in 2006. There seems to be a downward trend the ratio of voters who have completed or have not completed college in beginning in 2006, which is likely just due to the ratio for high school education level ratios increasing. In 2010 we see a peak for voters with complete or incomplete elementary education, then a trend downards. We cannot interpret a trends for literate and illiterate voter ratios as their ratios are inconsequentially small.
