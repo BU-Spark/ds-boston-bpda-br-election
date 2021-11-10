@@ -59,6 +59,11 @@ In 2018, the PSL became the most-voted-for party across almost all countries. We
 ### How Has the Gender Ratio Changed Over Time for Top 10 Countries?
 There are a few patterns worth noting. The Brazilian Immigrant populations in Germany, Italy, and Switzerland are predominately female, with women making up ~70% or more of the Brazilian Immigrant population over all datasets. Japan is the only country among the top 10 for which men consistently outnumber women.
 
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/readme_images/men-ratio.png)
+
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/readme_images/women-ratio.png)
+
+
 ### How Has Educational Attainment Changed Over Time?
 (See [Top 10 Analysis in the bottom of the location Analysis for more detail](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/src/electorate_location.ipynb) for more Detail)
 
@@ -67,6 +72,8 @@ The majority of the countries we see an upward trend in the ratio of high school
 
 #### Educational Attainment by Year
 When looking at the general trends over all years, we see that the ratio of voters who have a completed college education has actually dropped, especially from 2006 to 2010. The numbers went up again from 2014 to 2018, but they did not return to pre 2006 levels. Likewise, the ratios of voters who have not finished high school or elementary school actaully increased from 2006 to 2010, before dropping a little from 2014 to 2018. The other educational attainments have remained relatively stable. Once again, we cannot interpret trends for literate and illiterate voters because the numbers are too insignificant.
+
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/readme_images/educational-attainment.png)
 
 #### Educational Attainment by Gender 
 
