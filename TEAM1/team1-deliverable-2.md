@@ -59,7 +59,7 @@ In 2018, the PSL became the most-voted-for party across almost all countries. We
 ### How Has the Gender Ratio Changed Over Time for Top 10 Countries?
 There are a few patterns worth noting. The Brazilian Immigrant populations in Germany, Italy, and Switzerland are predominately female, with women making up ~70% or more of the Brazilian Immigrant population over all datasets. Japan is the only country among the top 10 for which men consistently outnumber women.
 
-![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/readme_images/men-ratio.png)
+![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/readme_images/men-raito.png)
 
 ![alt text](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/readme_images/women-ratio.png)
 
