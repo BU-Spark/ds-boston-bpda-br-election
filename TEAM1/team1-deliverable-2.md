@@ -56,6 +56,8 @@ In 2014, we see the number of votes for the PT fall dramatically (relative to th
 
 In 2018, the PSL became the most-voted-for party across almost all countries. We also see some small spikes in votes for the new NOVO and PDT parties. Meanwhile, the PSDB has very few votes in all countries, while the PT continues to have some support on par with 2014 (much reduced from 2006 and 2010).
 
+### How Has the Gender Ratio Changed Over Time for Top 10 Countries?
+There are a few patterns worth noting. The Brazilian Immigrant populations in Germany, Italy, and Switzerland are predominately female, with women making up ~70% or more of the Brazilian Immigrant population over all datasets. Japan is the only country among the top 10 for which men consistently outnumber women.
 
 ### How Has Educational Attainment Changed Over Time?
 (See [Top 10 Analysis in the bottom of the location Analysis for more detail](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team1-deliverable-2/TEAM1/src/electorate_location.ipynb) for more Detail)
