@@ -21,7 +21,7 @@ Building on our previous analysis, we decided to compare the voting patterns of 
 
 *Popularity of Political Parties in Top 10 countries- 2006-2018*
 
-![alt text](../readme_images/top10_votes_2006-2018.png)
+![alt text](./readme_images/top10_votes_2006-2018.png)
 
 Above, we can see the proportion of votes received by each party among the top 10 countries (and the entire dataset) for the 2006, 2010, 2014, and 2018 elections. 
 
@@ -32,9 +32,9 @@ Above, we can see the proportion of votes received by each party among the top 1
 ### Percentage of the Population that Votes in Top 10 Countries
 Below, we analyze the proportion of the electorate which votes in our top 10 countries for the years 2006 to 2018. Our estimations for the total size of the populations in 2006, 2010, and 2018 are based on data available on the size of these populations in 2008, 2011, and 2020 respectively.
 
-![alt text](../readme_images/top10_voting_percentage_round_1.png)
+![alt text](./readme_images/top10_voting_percentage_round_1.png)
 
-![alt text](../readme_images/top10_voting_percentage_round_2.png)
+![alt text](./readme_images/top10_voting_percentage_round_2.png)
 
 Above, we plot the percentage of the electorate population which voted in rounds 1 and 2 of the 2006-2018 elections. There are a few key trends which immediately emerge:
 * Overall, the percentage of the population which votes has been less than 20% in all years (except for in Canada, which had over 25% of its population vote in both round in 2006). 
