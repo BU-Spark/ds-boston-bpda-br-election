@@ -15,11 +15,11 @@
 Our team has begun our initial analysis of the data to answer the question of how has voting patterns changed over time. This initial analysis started with extracting the all the unique political parties from every 
 year of our data set, summing their total received votes and creating a new dataframe with its columns being the political parties and each row split by election data year and filled with their total summed votes.
 
-![](images/Parties+Sum Votes.png)
+![](images/Parties_Sum_Votes.png)
 
 We then proceeded to model each political party and their summed votes over each year that they were a part of. Here are two example models:
 
-![](images/Voting trends model 1.png)   ![](images/Voting trends model 2.png) 
+![](images/Voting_trends_model_1.png)   ![](images/Voting_trends_model_2.png) 
 
 As seen in our modeling, the shift in voting patterns over time for each political party is generally trending upwards, with the exception of a few.  Although, not all political parties have voting data across the 
 years 1998, 2002, 2006, 2010, 2014 and 2018. For those who have voting data across 2 or more years, we were able to model a least squares polynomial fit to gage a general upwards or downwards trend. *In the final 
