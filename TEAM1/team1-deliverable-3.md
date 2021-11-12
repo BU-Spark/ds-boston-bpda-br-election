@@ -45,10 +45,17 @@ Above, we plot the percentage of the electorate population which voted in rounds
 
 ### How does Age Differ among Top 10 Countries?
 *John to Add*
+![alt text](./readme_images/Ratio_of_voters_with_age_18_20.png)
 
+![alt text](./readme_images/Ratio_of_voters_with_age_21_24.png)
 
+![alt text](./readme_images/Ratio_of_voters_with_age_25_34.png)
 
+![alt text](./readme_images/Ratio_of_voters_with_age_35_44.png)
 
+Above, here are a few plots that show the percentage of voters within a certain age window during the elections years of 2010, 2014, and 2018. The age windows range from 18 years all the way to 79 years. Only ages up to 44 are shown.
+
+* Overall, the percentage of voters within certain age windows increases the older the age window gets, eventually reaching a peak of nearly 40% in the age window 35-44. There were some other interesting trends as well, such as how the 18-20 and 25-34 age groups both saw major declines between 2010 and 2018. For example, the peak percentage of voters aged 25 to 34 in 2010 was in Spain, with 3.5% of all voters in that age window. However, by 2018, that had dropped to 2.75% with France as the highest percentage. The same trend can be seen universally among all of the top 10 countries between the years 2014 and 2018 in the age group 18-20.
 
 ---
 
