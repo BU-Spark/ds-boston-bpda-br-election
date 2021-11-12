@@ -30,33 +30,33 @@ report, we will list the voting models separated by upwards and downwards trends
 To answer this question on the impact of social-political activities, our team started by congregating all the major events in Brazil from 1998 to 2018. This list held events such as the election of a president, 
 outbreak of a virus, launch of a welfare scheme, etc. Later as we develop more advanced models with more specific features, we can then use our list of events as correlation factors. 
 
-###Major events in Brazil (1998 - 2018) (https://www.bbc.com/news/world-latin-america-19359111)
+# Major events in Brazil (1998 - 2018) (https://www.bbc.com/news/world-latin-america-19359111)
 
-####1998 October - President Cardoso re-elected
+# 1998 October - President Cardoso re-elected
 
-####2002 October - Luiz Inácio Lula da Silva, popularly known as Lula, wins presidential elections to head the first left-wing government for more than 40 years.
+# 2002 October - Luiz Inácio Lula da Silva, popularly known as Lula, wins presidential elections to head the first left-wing government for more than 40 years.
 
-####2005 June-August - Corruption allegations rock the governing Workers' Party. A wave of resignations ensues.
+# 2005 June-August - Corruption allegations rock the governing Workers' Party. A wave of resignations ensues.
 
-####2006 October - President Lula is re-elected.
+# 2006 October - President Lula is re-elected.
 
-####2010 October - Dilma Rousseff, of President Lula's Workers' Party, wins second round run-off to become Brazil's first female president.
+# 2010 October - Dilma Rousseff, of President Lula's Workers' Party, wins second round run-off to become Brazil's first female president.
 
-####2011 June - Government launches Brasil Sem Miseria (Brazil Without Poverty) welfare scheme, aimed at lifting millions out of extreme poverty.
+# 2011 June - Government launches Brasil Sem Miseria (Brazil Without Poverty) welfare scheme, aimed at lifting millions out of extreme poverty.
 
-####2013 June - A wave of protests sweeps the country. People take to the streets in dozens of cities to demonstrate over poor public services, rising public transport costs and expense of staging the 2014 World Cup. The protests continue into the autumn.
+# 2013 June - A wave of protests sweeps the country. People take to the streets in dozens of cities to demonstrate over poor public services, rising public transport costs and expense of staging the 2014 World Cup. The protests continue into the autumn.
 
-####2014 October - Dilma Rousseff wins another term as president.
+# 2014 October - Dilma Rousseff wins another term as president.
 
-####2016 February - World Health Organisation declares a global public health emergency following an outbreak of the Zika virus centred on Brazil.
+# 2016 February - World Health Organisation declares a global public health emergency following an outbreak of the Zika virus centred on Brazil.
 
-####2016 August - Olympic Games are held in Rio de Janeiro.
+# 2016 August - Olympic Games are held in Rio de Janeiro.
 
-####Senators vote to remove President Dilma Rousseff from office for illegally using money from state banks to bankroll public spending. Michel Temer is sworn in to serve the rest of her term to 1 January 2019.
+# Senators vote to remove President Dilma Rousseff from office for illegally using money from state banks to bankroll public spending. Michel Temer is sworn in to serve the rest of her term to 1 January 2019.
 
-####2018 April - Former president Lula da Silva is imprisoned for corruption, which makes him ineligible to run for president in October.
+# 2018 April - Former president Lula da Silva is imprisoned for corruption, which makes him ineligible to run for president in October.
 
-####2018 October - Far-right candidate Jair Bolsonaro wins presidential election over Workers' Party candidate, takes office in January 2019.
+# 2018 October - Far-right candidate Jair Bolsonaro wins presidential election over Workers' Party candidate, takes office in January 2019.
 
 With this list of major events and as seen in our modeling, the general upward trend of voting means Brazilians have become more politically active overseas. This activism can be traced back to Brazil where people were also active in politics. 
 Corruption allegations, protests, the 2014 World Cup, and outbreak of the Zika virus were important events captured throughout our time frame. These events would impact voter turnout because Brazilians away from 
