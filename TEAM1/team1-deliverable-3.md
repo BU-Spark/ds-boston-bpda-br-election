@@ -44,18 +44,33 @@ Above, we plot the percentage of the electorate population which voted in rounds
 ---
 
 ### How does Age Differ among Top 10 Countries?
-*John to Add*
-![alt text](./readme_images/Ratio_of_voters_with_age_18_20.png)
+In order to better understand the demographics of the top 10 countries, we decided to analyze the ages of the voters in these countries
 
-![alt text](./readme_images/Ratio_of_voters_with_age_21_24.png)
+### Overall Distribution ofAge Groups in Top 10 Countries 
+![alt text](./readme_images/top_10_all_ages.png)
 
-![alt text](./readme_images/Ratio_of_voters_with_age_25_34.png)
+Above, we plot the overall age group distrubution in the top 10 countries. From this plot, we can see that the majority of the populations in these countries fall into an age range of 25-59, with all other age groups combined comprising less than 25% of the overall population
 
-![alt text](./readme_images/Ratio_of_voters_with_age_35_44.png)
+### Age Groups By Country
 
-Above, here are a few plots that show the percentage of voters within a certain age window during the elections years of 2010, 2014, and 2018. The age windows range from 18 years all the way to 79 years. Only ages up to 44 are shown.
+#### Ages 18-20
+<img src = "./readme_images/top_10_age_18_A_20_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_18_A_20_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_18_A_20_ANOS_FEMININO.png" width ="300" />
 
-* Overall, the percentage of voters within certain age windows increases the older the age window gets, eventually reaching a peak of nearly 40% in the age window 35-44. There were some other interesting trends as well, such as how the 18-20 and 25-34 age groups both saw major declines between 2010 and 2018. For example, the peak percentage of voters aged 25 to 34 in 2010 was in Spain, with 3.5% of all voters in that age window. However, by 2018, that had dropped to 2.75% with France as the highest percentage. The same trend can be seen universally among all of the top 10 countries between the years 2014 and 2018 in the age group 18-20.
+#### Ages 21-24
+<img src = "./readme_images/top_10_age_21_A_24_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_21_A_24_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_21_A_24_ANOS_FEMININO.png" width ="300" />
+
+#### Ages 25-34
+<img src = "./readme_images/top_10_age_25_A_34_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_25_A_34_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_25_A_34_ANOS_FEMININO.png" width ="300" />
+
+#### Ages 35-44
+<img src = "./readme_images/top_10_age_35_A_44_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_35_A_44_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_35_A_44_ANOS_FEMININO.png" width ="300" />
+
+#### Ages 45-59
+<img src = "./readme_images/top_10_age_45_A_59_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_45_A_59_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_45_A_59_ANOS_FEMININO.png" width ="300" />
+
+Above, here are a few plots that show the percentage of voters within a certain age window during the elections years of 2010, 2014, and 2018. The age windows range from 18 years all the way to 79 years. Only ages up to 59 are shown.
+
+Overall, the percentage of voters within certain age windows increases the older the age window gets, eventually reaching a peak of nearly 40% in the age window 35-44. There were some other interesting trends as well, such as how the 18-20 and 25-34 age groups both saw major declines between 2010 and 2018. For example, the peak percentage of voters aged 25 to 34 in 2010 was in Spain, with 3.5% of all voters in that age window. However, by 2018, that had dropped to 2.75% with France as the highest percentage. The same trend can be seen universally among all of the top 10 countries between the years 2014 and 2018 in the age group 18-20.
 
 ---
 
