@@ -56,19 +56,29 @@ Above, we plot the overall age group distrubution in the top 10 countries. From 
 #### Ages 18-20
 <img src = "./readme_images/top_10_age_18_A_20_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_18_A_20_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_18_A_20_ANOS_FEMININO.png" width ="300" />
 
+Overall, the proportion of voters aged 18-20 is very low (less than 5%) in all countries. In general, we can see a decreasing trend in the number of voters within this age group (although we can see a small spike in Japan between 2010 and 2014).
+
 #### Ages 21-24
 <img src = "./readme_images/top_10_age_21_A_24_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_21_A_24_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_21_A_24_ANOS_FEMININO.png" width ="300" />
+
+Similar to the previous category, the proportion of voters aged 21-24 is also very low (less than 10% of the voting population) in all countries. Interestingly, though, both Portugal and Spain have seen growth in this category, while the United States has experienced a steady decline.
 
 #### Ages 25-34
 <img src = "./readme_images/top_10_age_25_A_34_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_25_A_34_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_25_A_34_ANOS_FEMININO.png" width ="300" />
 
+The proportion of voters aged 25-34 is much larger than the previous categories analyzed. However, we can actually see a steady decline in this group over the course of the years analyzed. This trend is especially prominent among women in this age group, as female voters aged 25-34 has declined every year. The peak percentage of voters aged 25 to 34 in 2010 was in Spain, with 3.5% of all voters in that age window. However, by 2018, that had dropped to 2.75% with France as the highest percentage.
+
 #### Ages 35-44
 <img src = "./readme_images/top_10_age_35_A_44_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_35_A_44_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_35_A_44_ANOS_FEMININO.png" width ="300" />
+
+The proportion of voters aged 35-49 has comprised atleast 24% of the population in each of our top 10 countries across the years analyzed. However, only England, Canada, France, the US, and Spain have seen growth in this category between 2010 and 2018, while growth in other countries has either remained flat or negative. Japan presents an interesting case in which the proportion of voters in this age group has declined from roughly 30% to 24%, with an especially sharp drop among women.
 
 #### Ages 45-59
 <img src = "./readme_images/top_10_age_45_A_59_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_45_A_59_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_45_A_59_ANOS_FEMININO.png" width ="300" />
 
-Above, here are a few plots that show the percentage of voters within a certain age window during the elections years of 2010, 2014, and 2018. The age windows range from 18 years all the way to 79 years. Only ages up to 59 are shown.
+The proportion of voters aged 45-59 has comprised atleast 15% of the population in each of our top 10 countries (and is as high as 35% in some countries) across the years analyzed. While for most countries we have seen an upward trend among this age group, Canada has actually seen a steady decline.
+
+#### Overall Analysis
 
 Overall, the percentage of voters within certain age windows increases the older the age window gets, eventually reaching a peak of nearly 40% in the age window 35-44. There were some other interesting trends as well, such as how the 18-20 and 25-34 age groups both saw major declines between 2010 and 2018. For example, the peak percentage of voters aged 25 to 34 in 2010 was in Spain, with 3.5% of all voters in that age window. However, by 2018, that had dropped to 2.75% with France as the highest percentage. The same trend can be seen universally among all of the top 10 countries between the years 2014 and 2018 in the age group 18-20.
 
