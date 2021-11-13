@@ -1,4 +1,4 @@
-# Team 1 - Deliverable 3 - Brazilian Immigrant Participation in Brazil-Held Election Results
+# Team 1 - Deliverable 3 - Brazilian Immigrant Participation in Brazil-Held Elections
 
 ## Checklist
 - [x] All data is collected
@@ -8,6 +8,11 @@
 - [x] Create a draft of your final report
 - [x] Refine project scope and list of limitations with data and potential risks of achieving project goal
 - [x] Submit a PR with the above report and modifications to original proposal
+
+---
+## Links to Deliverable 3 Documents
+* First Draft of Report: [Document](https://docs.google.com/document/d/150HcnP1b4RxgbbrzBy8q82X19PzDVgS4F_MnFLpkoZQ/edit?usp=sharing)
+* Description of Data:  [README FILE] (./README_DataDescription.md)
 
 ---
 ## Questions Analyzed and Results
