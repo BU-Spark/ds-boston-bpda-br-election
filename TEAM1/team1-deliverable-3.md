@@ -88,6 +88,25 @@ The proportion of voters aged 45-59 has comprised atleast 15% of the population 
 Overall, the percentage of voters within certain age windows increases the older the age window gets, eventually reaching a peak of nearly 40% in the age window 35-44. There were some other interesting trends as well, such as how the 18-20 and 25-34 age groups both saw major declines between 2010 and 2018. For example, the peak percentage of voters aged 25 to 34 in 2010 was in Spain, with 3.5% of all voters in that age window. However, by 2018, that had dropped to 2.75% with France as the highest percentage. The same trend can be seen universally among all of the top 10 countries between the years 2014 and 2018 in the age group 18-20.
 
 ---
+### Initial Analysis for Overall Project Question (How have the electorate and voting patterns changed)
+In terms of the overall electorate, we can make the following observations:
+* The size of the electorate (and number of countries represented) has increased every year.
+* Women make up the majority of voters (a trend which has continued across all years)
+* The predominant education level categories among the Brazilian immigrant electorate are "complete high school" and "complete college"
+* Country-level growth rates within the electorate have varied by year, but Japan had the larget growth of any country (across all years analyzed) in 2010.
+
+
+In terms of only the top 10 countries (by total voter population in 2018):
+* The United States has the most Brazilian immigrant voters (and Japan currently has teh second most)
+* In terms of gender:
+   * In Germany, Italy, and Switzerland, Brazilian voters are predominantly female, with women making up ~70% or more of the Brazilian Immigrant voter population over all years. 
+   * Japan is the only country in the top 10 with a majority male voting population
+* In terms of education, the majority of boters in the top 10 countries are either high school or college educated.
+* In terms of age, the majority of the voters in the top 10 countries s between 25 and 59 years old.
+* The voting patterns of the top 10 countries (parties the electorate votes for) roughly mirrors the overall dataset. 
+* However, no country has a voter turnout rate (percentage of the population which votes) greater tahn 30%, and in the US, England, and Spain, the percentage of the population which voted around or less than 5% across all years analyzed. Meanwhile, voting in Japan (as a % of total population) has increased in all years, with Japan having the highest percentage of voters (out of total population) in 2018.
+
+---
 
 ## Refined Project Proposal
 
