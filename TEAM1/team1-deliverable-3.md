@@ -97,14 +97,14 @@ In terms of the overall electorate, we can make the following observations:
 
 
 In terms of only the top 10 countries (by total voter population in 2018):
-* The United States has the most Brazilian immigrant voters (and Japan currently has teh second most)
+* The United States has the most Brazilian immigrant voters (and Japan currently has the second most)
 * In terms of gender:
    * In Germany, Italy, and Switzerland, Brazilian voters are predominantly female, with women making up ~70% or more of the Brazilian Immigrant voter population over all years. 
    * Japan is the only country in the top 10 with a majority male voting population
-* In terms of education, the majority of boters in the top 10 countries are either high school or college educated.
-* In terms of age, the majority of the voters in the top 10 countries s between 25 and 59 years old.
+* In terms of education, the majority of voters in the top 10 countries are either high school or college educated.
+* In terms of age, the majority of the voters in the top 10 countries are between 25 and 59 years old.
 * The voting patterns of the top 10 countries (parties the electorate votes for) roughly mirrors the overall dataset. 
-* However, no country has a voter turnout rate (percentage of the population which votes) greater tahn 30%, and in the US, England, and Spain, the percentage of the population which voted around or less than 5% across all years analyzed. Meanwhile, voting in Japan (as a % of total population) has increased in all years, with Japan having the highest percentage of voters (out of total population) in 2018.
+* However, no country has a voter turnout rate (percentage of the population which votes) greater than 30%, and in the US, England, and Spain, the percentage of the population which voted around or less than 5% across all years analyzed. Meanwhile, voting in Japan (as a % of total population) has increased in all years, with Japan having the highest percentage of voters (out of total population) in 2018.
 
 ---
 
