@@ -93,7 +93,7 @@ In terms of the overall electorate, we can make the following observations:
 * The size of the electorate (and number of countries represented) has increased every year.
 * Women make up the majority of voters (a trend which has continued across all years)
 * The predominant education level categories among the Brazilian immigrant electorate are "complete high school" and "complete college"
-* Country-level growth rates within the electorate have varied by year, but Japan had the larget growth of any country (across all years analyzed) in 2010.
+* Country-level growth rates within the electorate have varied by year, but Japan had the largest growth of any country (across all years analyzed) in 2010.
 
 
 In terms of only the top 10 countries (by total voter population in 2018):
