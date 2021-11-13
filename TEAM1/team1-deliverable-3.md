@@ -12,7 +12,7 @@
 ---
 ## Links to Deliverable 3 Documents
 * First Draft of Report: [Document](https://docs.google.com/document/d/150HcnP1b4RxgbbrzBy8q82X19PzDVgS4F_MnFLpkoZQ/edit?usp=sharing)
-* Description of Data:  [README FILE] (./README_DataDescription.md)
+* Description of Data:  [README FILE](./README_DataDescription.md)
 
 ---
 ## Questions Analyzed and Results
