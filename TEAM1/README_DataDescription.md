@@ -15,7 +15,13 @@ Our files containing voting data are labeled "< year >_Election_Data.csv. The cl
 * Election Year - The election year of the data (1998, 2002, etc.)
 * Election Round - The round of the election to which the votes correspond (Presidential Elections have 2 rounds)
 * Place (ZZ = Exterior) - The identification code for the source location of the data (all of our data has code ZZ, indicating these votes come from members of the electorate reside outside of Brazil)
-* ...
+* Municipality Code - the internal code for the location of the region where the voters are based.
+* Municipality Name - the Portuguese name of the actual location (e.g.: Paraguai, Estados Unidos, Espanha, etc...)
+* Office - the position in Brazilian Government which is being voted on (since all Brazilian immigrants residing outside the country must vote in the Presidential election, the only value for this column is "presidente."
+* Paty number - the internal value of the party that is being voted for.
+* Party initials - the initials of the party that is being voted for.
+* Party Name - the official name of the party.
+* Number of votes - the number of Brazilian immigrants which voted for the given party.
 
 ## Population Data
 Our files containing voting data are labeled "PopTotal_< year >.csv. The clean versions of the data are available in our [data/clean folder](./data/clean) and the original versions of the data are available in the [data/original folder](./data/original). A description of each of the features in the dataset is below:
