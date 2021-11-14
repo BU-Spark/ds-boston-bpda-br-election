@@ -1,0 +1,1540 @@
+,election_year,election_round,place_(zz_=_exterior),municipality_code,municipality_name,office,party_number,party_initials,party_name,number_of_votes
+0,2018,1,ZZ,39080,ATLANTA,Presidente,17,PSL,Partido Social Liberal,2609
+1,2018,1,ZZ,30848,XANGAI,Presidente,17,PSL,Partido Social Liberal,103
+2,2018,1,ZZ,29483,CAIRO,Presidente,17,PSL,Partido Social Liberal,21
+3,2018,1,ZZ,29521,CHUY,Presidente,17,PSL,Partido Social Liberal,8
+4,2018,1,ZZ,29378,BELGRADO,Presidente,17,PSL,Partido Social Liberal,12
+5,2018,1,ZZ,30090,MAPUTO,Presidente,17,PSL,Partido Social Liberal,162
+6,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,17,PSL,Partido Social Liberal,148
+7,2018,1,ZZ,30457,ROTTERDA,Presidente,17,PSL,Partido Social Liberal,726
+8,2018,1,ZZ,30821,WINDHOEK,Presidente,17,PSL,Partido Social Liberal,8
+9,2018,1,ZZ,29491,CAMBERRA,Presidente,17,PSL,Partido Social Liberal,409
+10,2018,1,ZZ,29661,DUBLIN,Presidente,17,PSL,Partido Social Liberal,366
+11,2018,1,ZZ,30392,QUITO,Presidente,17,PSL,Partido Social Liberal,214
+12,2018,1,ZZ,29904,LA PAZ,Presidente,50,PSOL,Partido Socialismo e Liberdade,5
+13,2018,1,ZZ,29807,HOUSTON,Presidente,50,PSOL,Partido Socialismo e Liberdade,13
+14,2018,1,ZZ,30708,TUNIS,Presidente,50,PSOL,Partido Socialismo e Liberdade,3
+15,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,50,PSOL,Partido Socialismo e Liberdade,16
+16,2018,1,ZZ,30112,MIAMI,Presidente,50,PSOL,Partido Socialismo e Liberdade,17
+17,2018,1,ZZ,29971,LONDRES,Presidente,17,PSL,Partido Social Liberal,4797
+18,2018,1,ZZ,29467,BUENOS AIRES,Presidente,17,PSL,Partido Social Liberal,1120
+19,2018,2,ZZ,30279,PARAMARIBO,Presidente,13,PT,Partido dos Trabalhadores,122
+20,2018,2,ZZ,29882,KUAITE,Presidente,13,PT,Partido dos Trabalhadores,21
+21,2018,2,ZZ,99430,KINGSTON-JAMAICA,Presidente,13,PT,Partido dos Trabalhadores,3
+22,2018,1,ZZ,30325,PORT OF SPAIN,Presidente,17,PSL,Partido Social Liberal,23
+23,2018,1,ZZ,29858,KIEV,Presidente,17,PSL,Partido Social Liberal,17
+24,2018,1,ZZ,30317,PEQUIM,Presidente,19,PODE,Podemos,2
+25,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,19,PODE,Podemos,5
+26,2018,1,ZZ,30112,MIAMI,Presidente,19,PODE,Podemos,56
+27,2018,1,ZZ,30848,XANGAI,Presidente,19,PODE,Podemos,7
+28,2018,1,ZZ,39004,MENDOZA,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+29,2018,2,ZZ,29548,SINGAPURA-SING,Presidente,13,PT,Partido dos Trabalhadores,59
+30,2018,2,ZZ,29572,COCHABAMBA,Presidente,13,PT,Partido dos Trabalhadores,23
+31,2018,2,ZZ,29483,CAIRO,Presidente,13,PT,Partido dos Trabalhadores,20
+32,2018,2,ZZ,30120,MILAO,Presidente,13,PT,Partido dos Trabalhadores,1517
+33,2018,1,ZZ,29564,CIUDAD GUAYANA,Presidente,19,PODE,Podemos,2
+34,2018,1,ZZ,39322,NICOSIA,Presidente,19,PODE,Podemos,2
+35,2018,2,ZZ,30090,MAPUTO,Presidente,13,PT,Partido dos Trabalhadores,106
+36,2018,1,ZZ,29955,LISBOA,Presidente,19,PODE,Podemos,89
+37,2018,1,ZZ,29360,BEIRUTE,Presidente,19,PODE,Podemos,24
+38,2018,1,ZZ,30120,MILAO,Presidente,19,PODE,Podemos,41
+39,2018,1,ZZ,30457,ROTTERDA,Presidente,50,PSOL,Partido Socialismo e Liberdade,19
+40,2018,1,ZZ,30635,TORONTO,Presidente,50,PSOL,Partido Socialismo e Liberdade,40
+41,2018,1,ZZ,30740,VARSOVIA,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+42,2018,1,ZZ,29416,BOSTON,Presidente,50,PSOL,Partido Socialismo e Liberdade,28
+43,2018,2,ZZ,29793,HONG KONG-HONG,Presidente,13,PT,Partido dos Trabalhadores,54
+44,2018,2,ZZ,39063,VANCOUVER,Presidente,13,PT,Partido dos Trabalhadores,637
+45,2018,2,ZZ,30350,PRAGA,Presidente,13,PT,Partido dos Trabalhadores,71
+46,2018,1,ZZ,30180,MUNIQUE,Presidente,19,PODE,Podemos,48
+47,2018,1,ZZ,30244,OSLO,Presidente,19,PODE,Podemos,6
+48,2018,1,ZZ,30260,PANAMA-PAN,Presidente,19,PODE,Podemos,4
+49,2018,2,ZZ,39306,ISTAMBUL,Presidente,13,PT,Partido dos Trabalhadores,35
+50,2018,2,ZZ,99180,NASSAU,Presidente,13,PT,Partido dos Trabalhadores,4
+51,2018,2,ZZ,30392,QUITO,Presidente,13,PT,Partido dos Trabalhadores,95
+52,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,19,PODE,Podemos,2
+53,2018,1,ZZ,30350,PRAGA,Presidente,19,PODE,Podemos,3
+54,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,19,PODE,Podemos,44
+55,2018,1,ZZ,29602,CORDOBA,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+56,2018,1,ZZ,29785,HELSINQUE,Presidente,50,PSOL,Partido Socialismo e Liberdade,6
+57,2018,2,ZZ,29602,CORDOBA,Presidente,13,PT,Partido dos Trabalhadores,152
+58,2018,1,ZZ,29513,CHICAGO,Presidente,19,PODE,Podemos,12
+59,2018,1,ZZ,29785,HELSINQUE,Presidente,19,PODE,Podemos,4
+60,2018,1,ZZ,30368,PRAIA,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+61,2018,1,ZZ,30287,PARIS,Presidente,50,PSOL,Partido Socialismo e Liberdade,82
+62,2018,2,ZZ,29785,HELSINQUE,Presidente,13,PT,Partido dos Trabalhadores,180
+63,2018,2,ZZ,30104,MEXICO-MEXI,Presidente,13,PT,Partido dos Trabalhadores,305
+64,2018,2,ZZ,30783,WASHINGTON,Presidente,13,PT,Partido dos Trabalhadores,1191
+65,2018,1,ZZ,30465,SALTO DEL GUAIRA,Presidente,19,PODE,Podemos,5
+66,2018,1,ZZ,29696,FRANKFURT,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,7
+67,2018,1,ZZ,30228,NOVA YORK,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+68,2018,1,ZZ,29319,ARTIGAS,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+69,2018,1,ZZ,29980,LOS ANGELES,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+70,2018,1,ZZ,29327,ASSUNCAO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+71,2018,2,ZZ,29904,LA PAZ,Presidente,17,PSL,Partido Social Liberal,146
+72,2018,2,ZZ,30902,HARTFORD,Presidente,17,PSL,Partido Social Liberal,831
+73,2018,2,ZZ,30627,TOQUIO,Presidente,17,PSL,Partido Social Liberal,11863
+74,2018,1,ZZ,30430,RIO BRANCO,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+75,2018,1,ZZ,29319,ARTIGAS,Presidente,15,MDB,Movimento Democratico Brasileiro,10
+76,2018,1,ZZ,30627,TOQUIO,Presidente,15,MDB,Movimento Democratico Brasileiro,114
+77,2018,2,ZZ,29327,ASSUNCAO,Presidente,17,PSL,Partido Social Liberal,881
+78,2018,2,ZZ,39160,LIUBLIANA,Presidente,17,PSL,Partido Social Liberal,14
+79,2018,1,ZZ,29572,COCHABAMBA,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+80,2018,2,ZZ,30562,SYDNEY,Presidente,17,PSL,Partido Social Liberal,1351
+81,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+82,2018,2,ZZ,30082,MANILA,Presidente,17,PSL,Partido Social Liberal,38
+83,2018,2,ZZ,30503,SAO FRANCISCO,Presidente,17,PSL,Partido Social Liberal,1734
+84,2018,1,ZZ,30180,MUNIQUE,Presidente,15,MDB,Movimento Democratico Brasileiro,16
+85,2018,1,ZZ,39063,VANCOUVER,Presidente,15,MDB,Movimento Democratico Brasileiro,8
+86,2018,1,ZZ,30619,TEL AVIV,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+87,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,15,MDB,Movimento Democratico Brasileiro,5
+88,2018,2,ZZ,29840,JACARTA,Presidente,17,PSL,Partido Social Liberal,16
+89,2018,2,ZZ,30244,OSLO,Presidente,17,PSL,Partido Social Liberal,210
+90,2018,2,ZZ,30392,QUITO,Presidente,17,PSL,Partido Social Liberal,245
+91,2018,1,ZZ,30198,NAGOIA,Presidente,27,DC,Democracia Crista,18
+92,2018,2,ZZ,29742,HAMAMATSU,Presidente,17,PSL,Partido Social Liberal,4677
+93,2018,2,ZZ,30805,WELLINGTON,Presidente,17,PSL,Partido Social Liberal,179
+94,2018,2,ZZ,29602,CORDOBA,Presidente,17,PSL,Partido Social Liberal,157
+95,2018,2,ZZ,29971,LONDRES,Presidente,17,PSL,Partido Social Liberal,5227
+96,2018,1,ZZ,29971,LONDRES,Presidente,15,MDB,Movimento Democratico Brasileiro,25
+97,2018,1,ZZ,30147,MONTEVIDEU,Presidente,27,DC,Democracia Crista,1
+98,2018,1,ZZ,29955,LISBOA,Presidente,27,DC,Democracia Crista,3
+99,2018,1,ZZ,30287,PARIS,Presidente,15,MDB,Movimento Democratico Brasileiro,12
+100,2018,1,ZZ,30406,RABAT,Presidente,27,DC,Democracia Crista,1
+101,2018,2,ZZ,99317,TALIN,Presidente,17,PSL,Partido Social Liberal,12
+102,2018,2,ZZ,30783,WASHINGTON,Presidente,17,PSL,Partido Social Liberal,2703
+103,2018,2,ZZ,30201,NAIROBI,Presidente,17,PSL,Partido Social Liberal,16
+104,2018,1,ZZ,30449,ROMA,Presidente,27,DC,Democracia Crista,12
+105,2018,1,ZZ,30287,PARIS,Presidente,27,DC,Democracia Crista,5
+106,2018,1,ZZ,29408,BOGOTA,Presidente,30,NOVO,Partido Novo,35
+107,2018,1,ZZ,29696,FRANKFURT,Presidente,30,NOVO,Partido Novo,226
+108,2018,1,ZZ,29777,HAVANA,Presidente,30,NOVO,Partido Novo,2
+109,2018,1,ZZ,29688,ESTOCOLMO,Presidente,30,NOVO,Partido Novo,159
+110,2018,1,ZZ,29262,ABU DHABI,Presidente,51,PATRI,Patriota,2
+111,2018,1,ZZ,29505,CARACAS,Presidente,45,PSDB,Partido da Social Democracia Brasileira,29
+112,2018,1,ZZ,30120,MILAO,Presidente,51,PATRI,Patriota,39
+113,2018,1,ZZ,30562,SYDNEY,Presidente,30,NOVO,Partido Novo,401
+114,2018,1,ZZ,29351,BARCELONA,Presidente,30,NOVO,Partido Novo,153
+115,2018,1,ZZ,30805,WELLINGTON,Presidente,51,PATRI,Patriota,2
+116,2018,1,ZZ,30635,TORONTO,Presidente,51,PATRI,Patriota,17
+117,2018,1,ZZ,30520,SAO SALVADOR,Presidente,51,PATRI,Patriota,1
+118,2018,1,ZZ,39063,VANCOUVER,Presidente,30,NOVO,Partido Novo,362
+119,2018,1,ZZ,30180,MUNIQUE,Presidente,30,NOVO,Partido Novo,392
+120,2018,1,ZZ,30457,ROTTERDA,Presidente,51,PATRI,Patriota,16
+121,2018,1,ZZ,29688,ESTOCOLMO,Presidente,18,REDE,Rede Sustentabilidade,66
+122,2018,1,ZZ,30902,HARTFORD,Presidente,18,REDE,Rede Sustentabilidade,11
+123,2018,1,ZZ,30112,MIAMI,Presidente,18,REDE,Rede Sustentabilidade,88
+124,2018,1,ZZ,30848,XANGAI,Presidente,18,REDE,Rede Sustentabilidade,5
+125,2018,1,ZZ,29505,CARACAS,Presidente,18,REDE,Rede Sustentabilidade,5
+126,2018,1,ZZ,30635,TORONTO,Presidente,30,NOVO,Partido Novo,735
+127,2018,1,ZZ,30392,QUITO,Presidente,30,NOVO,Partido Novo,10
+128,2018,1,ZZ,29602,CORDOBA,Presidente,51,PATRI,Patriota,2
+129,2018,1,ZZ,29297,ANCARA,Presidente,51,PATRI,Patriota,1
+130,2018,1,ZZ,30783,WASHINGTON,Presidente,51,PATRI,Patriota,15
+131,2018,1,ZZ,30155,MONTREAL,Presidente,51,PATRI,Patriota,8
+132,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,30,NOVO,Partido Novo,10
+133,2018,1,ZZ,30210,NOVA DELHI,Presidente,30,NOVO,Partido Novo,1
+134,2018,1,ZZ,30074,MANAGUA,Presidente,30,NOVO,Partido Novo,3
+135,2018,1,ZZ,30376,PRETORIA,Presidente,51,PATRI,Patriota,3
+136,2018,1,ZZ,30333,PORTO PRINCIPE,Presidente,18,REDE,Rede Sustentabilidade,4
+137,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,7
+138,2018,1,ZZ,29459,BUDAPESTE,Presidente,18,REDE,Rede Sustentabilidade,2
+139,2018,1,ZZ,29610,DACAR,Presidente,18,REDE,Rede Sustentabilidade,1
+140,2018,1,ZZ,29653,DOHA,Presidente,30,NOVO,Partido Novo,21
+141,2018,1,ZZ,30562,SYDNEY,Presidente,18,REDE,Rede Sustentabilidade,70
+142,2018,1,ZZ,30252,OTTAWA,Presidente,18,REDE,Rede Sustentabilidade,34
+143,2018,1,ZZ,30597,TEERA,Presidente,18,REDE,Rede Sustentabilidade,1
+144,2018,1,ZZ,30449,ROMA,Presidente,18,REDE,Rede Sustentabilidade,109
+145,2018,1,ZZ,30457,ROTTERDA,Presidente,18,REDE,Rede Sustentabilidade,115
+146,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,27
+147,2018,1,ZZ,29904,LA PAZ,Presidente,19,PODE,Podemos,6
+148,2018,1,ZZ,29947,LIMA,Presidente,19,PODE,Podemos,2
+149,2018,1,ZZ,29980,LOS ANGELES,Presidente,19,PODE,Podemos,24
+150,2018,1,ZZ,29432,BRUXELAS,Presidente,19,PODE,Podemos,17
+151,2018,1,ZZ,30627,TOQUIO,Presidente,19,PODE,Podemos,579
+152,2018,1,ZZ,30821,WINDHOEK,Presidente,18,REDE,Rede Sustentabilidade,1
+153,2018,1,ZZ,29602,CORDOBA,Presidente,18,REDE,Rede Sustentabilidade,12
+154,2018,1,ZZ,29297,ANCARA,Presidente,18,REDE,Rede Sustentabilidade,1
+155,2018,1,ZZ,29998,LUANDA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,5
+156,2018,1,ZZ,29572,COCHABAMBA,Presidente,19,PODE,Podemos,1
+157,2018,1,ZZ,30376,PRETORIA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,6
+158,2018,1,ZZ,29483,CAIRO,Presidente,19,PODE,Podemos,4
+159,2018,1,ZZ,30201,NAIROBI,Presidente,18,REDE,Rede Sustentabilidade,2
+160,2018,1,ZZ,29653,DOHA,Presidente,18,REDE,Rede Sustentabilidade,5
+161,2018,1,ZZ,29319,ARTIGAS,Presidente,13,PT,Partido dos Trabalhadores,50
+162,2018,1,ZZ,29343,BANGKOK,Presidente,13,PT,Partido dos Trabalhadores,11
+163,2018,1,ZZ,29947,LIMA,Presidente,13,PT,Partido dos Trabalhadores,41
+164,2018,1,ZZ,39102,MASCATE,Presidente,13,PT,Partido dos Trabalhadores,1
+165,2018,1,ZZ,29440,BUCARESTE,Presidente,19,PODE,Podemos,1
+166,2018,1,ZZ,39063,VANCOUVER,Presidente,19,PODE,Podemos,19
+167,2018,1,ZZ,30090,MAPUTO,Presidente,19,PODE,Podemos,4
+168,2018,1,ZZ,29645,DILI,Presidente,13,PT,Partido dos Trabalhadores,2
+169,2018,1,ZZ,30805,WELLINGTON,Presidente,19,PODE,Podemos,4
+170,2018,1,ZZ,30597,TEERA,Presidente,13,PT,Partido dos Trabalhadores,1
+171,2018,1,ZZ,29670,ENCARNACION,Presidente,13,PT,Partido dos Trabalhadores,16
+172,2018,1,ZZ,30619,TEL AVIV,Presidente,13,PT,Partido dos Trabalhadores,36
+173,2018,1,ZZ,29998,LUANDA,Presidente,19,PODE,Podemos,2
+174,2018,1,ZZ,30821,WINDHOEK,Presidente,13,PT,Partido dos Trabalhadores,3
+175,2018,1,ZZ,30520,SAO SALVADOR,Presidente,13,PT,Partido dos Trabalhadores,11
+176,2018,1,ZZ,29661,DUBLIN,Presidente,13,PT,Partido dos Trabalhadores,87
+177,2018,1,ZZ,29742,HAMAMATSU,Presidente,13,PT,Partido dos Trabalhadores,94
+178,2018,1,ZZ,29297,ANCARA,Presidente,13,PT,Partido dos Trabalhadores,2
+179,2018,1,ZZ,39020,ZAGREB,Presidente,13,PT,Partido dos Trabalhadores,1
+180,2018,1,ZZ,30201,NAIROBI,Presidente,13,PT,Partido dos Trabalhadores,11
+181,2018,2,ZZ,30317,PEQUIM,Presidente,13,PT,Partido dos Trabalhadores,29
+182,2018,2,ZZ,39102,MASCATE,Presidente,13,PT,Partido dos Trabalhadores,4
+183,2018,2,ZZ,29475,CAIENA,Presidente,13,PT,Partido dos Trabalhadores,551
+184,2018,2,ZZ,39322,NICOSIA,Presidente,13,PT,Partido dos Trabalhadores,9
+185,2018,2,ZZ,29530,CIDADE DO CABO,Presidente,13,PT,Partido dos Trabalhadores,50
+186,2018,2,ZZ,30600,TEGUCIGALPA,Presidente,13,PT,Partido dos Trabalhadores,26
+187,2018,1,ZZ,29696,FRANKFURT,Presidente,54,PPL,Partido Patria Livre,4
+188,2018,1,ZZ,29319,ARTIGAS,Presidente,54,PPL,Partido Patria Livre,2
+189,2018,1,ZZ,30627,TOQUIO,Presidente,54,PPL,Partido Patria Livre,21
+190,2018,1,ZZ,29475,CAIENA,Presidente,54,PPL,Partido Patria Livre,3
+191,2018,2,ZZ,30406,RABAT,Presidente,13,PT,Partido dos Trabalhadores,16
+192,2018,2,ZZ,30414,RAMALLAH-PALE,Presidente,13,PT,Partido dos Trabalhadores,467
+193,2018,2,ZZ,29351,BARCELONA,Presidente,13,PT,Partido dos Trabalhadores,939
+194,2018,1,ZZ,29904,LA PAZ,Presidente,30,NOVO,Partido Novo,6
+195,2018,1,ZZ,30317,PEQUIM,Presidente,30,NOVO,Partido Novo,2
+196,2018,1,ZZ,29882,KUAITE,Presidente,30,NOVO,Partido Novo,2
+197,2018,2,ZZ,30244,OSLO,Presidente,13,PT,Partido dos Trabalhadores,249
+198,2018,2,ZZ,99287,LUSACA,Presidente,13,PT,Partido dos Trabalhadores,2
+199,2018,2,ZZ,30821,WINDHOEK,Presidente,13,PT,Partido dos Trabalhadores,7
+200,2018,2,ZZ,30961,FARO,Presidente,13,PT,Partido dos Trabalhadores,227
+201,2018,2,ZZ,29556,CIUDAD DEL ESTE,Presidente,13,PT,Partido dos Trabalhadores,193
+202,2018,2,ZZ,29513,CHICAGO,Presidente,13,PT,Partido dos Trabalhadores,528
+203,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,30,NOVO,Partido Novo,2
+204,2018,1,ZZ,29416,BOSTON,Presidente,54,PPL,Partido Patria Livre,2
+205,2018,1,ZZ,30651,CANTAO,Presidente,30,NOVO,Partido Novo,4
+206,2018,1,ZZ,30341,PORTO,Presidente,54,PPL,Partido Patria Livre,3
+207,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,30,NOVO,Partido Novo,7
+208,2018,2,ZZ,30325,PORT OF SPAIN,Presidente,13,PT,Partido dos Trabalhadores,4
+209,2018,2,ZZ,98000,GUATEMALA,Presidente,13,PT,Partido dos Trabalhadores,20
+210,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,54,PPL,Partido Patria Livre,2
+211,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,30,NOVO,Partido Novo,18
+212,2018,1,ZZ,29840,JACARTA,Presidente,30,NOVO,Partido Novo,2
+213,2018,1,ZZ,30520,SAO SALVADOR,Presidente,30,NOVO,Partido Novo,4
+214,2018,1,ZZ,30350,PRAGA,Presidente,30,NOVO,Partido Novo,18
+215,2018,1,ZZ,29335,ATENAS,Presidente,30,NOVO,Partido Novo,22
+216,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,30,NOVO,Partido Novo,11
+217,2018,1,ZZ,29696,FRANKFURT,Presidente,15,MDB,Movimento Democratico Brasileiro,16
+218,2018,1,ZZ,29700,GENEBRA,Presidente,15,MDB,Movimento Democratico Brasileiro,14
+219,2018,1,ZZ,29505,CARACAS,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+220,2018,1,ZZ,29785,HELSINQUE,Presidente,30,NOVO,Partido Novo,44
+221,2018,1,ZZ,29998,LUANDA,Presidente,30,NOVO,Partido Novo,4
+222,2018,1,ZZ,30155,MONTREAL,Presidente,30,NOVO,Partido Novo,541
+223,2018,1,ZZ,30376,PRETORIA,Presidente,30,NOVO,Partido Novo,18
+224,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,30,NOVO,Partido Novo,101
+225,2018,1,ZZ,30120,MILAO,Presidente,15,MDB,Movimento Democratico Brasileiro,28
+226,2018,1,ZZ,29335,ATENAS,Presidente,15,MDB,Movimento Democratico Brasileiro,6
+227,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+228,2018,1,ZZ,30392,QUITO,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+229,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+230,2018,1,ZZ,29661,DUBLIN,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+231,2018,1,ZZ,30317,PEQUIM,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+232,2018,1,ZZ,29343,BANGKOK,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+233,2018,1,ZZ,29947,LIMA,Presidente,50,PSOL,Partido Socialismo e Liberdade,4
+234,2018,1,ZZ,30848,XANGAI,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+235,2018,1,ZZ,30864,ZURIQUE,Presidente,50,PSOL,Partido Socialismo e Liberdade,33
+236,2018,1,ZZ,29785,HELSINQUE,Presidente,27,DC,Democracia Crista,1
+237,2018,1,ZZ,29327,ASSUNCAO,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+238,2018,1,ZZ,30708,TUNIS,Presidente,13,PT,Partido dos Trabalhadores,2
+239,2018,1,ZZ,29882,KUAITE,Presidente,13,PT,Partido dos Trabalhadores,11
+240,2018,1,ZZ,29475,CAIENA,Presidente,13,PT,Partido dos Trabalhadores,356
+241,2018,1,ZZ,30147,MONTEVIDEU,Presidente,13,PT,Partido dos Trabalhadores,227
+242,2018,1,ZZ,30651,CANTAO,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+243,2018,1,ZZ,30449,ROMA,Presidente,50,PSOL,Partido Socialismo e Liberdade,23
+244,2018,1,ZZ,30120,MILAO,Presidente,13,PT,Partido dos Trabalhadores,786
+245,2018,1,ZZ,29378,BELGRADO,Presidente,13,PT,Partido dos Trabalhadores,5
+246,2018,1,ZZ,30511,SAO JOSE,Presidente,13,PT,Partido dos Trabalhadores,31
+247,2018,1,ZZ,30449,ROMA,Presidente,13,PT,Partido dos Trabalhadores,663
+248,2018,1,ZZ,30805,WELLINGTON,Presidente,50,PSOL,Partido Socialismo e Liberdade,3
+249,2018,1,ZZ,30082,MANILA,Presidente,13,PT,Partido dos Trabalhadores,7
+250,2018,1,ZZ,30252,OTTAWA,Presidente,13,PT,Partido dos Trabalhadores,68
+251,2018,1,ZZ,30481,SANTIAGO,Presidente,13,PT,Partido dos Trabalhadores,146
+252,2018,1,ZZ,30163,MOSCOU,Presidente,13,PT,Partido dos Trabalhadores,4
+253,2018,1,ZZ,29742,HAMAMATSU,Presidente,50,PSOL,Partido Socialismo e Liberdade,16
+254,2018,1,ZZ,29270,ACCRA-GANA,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+255,2018,1,ZZ,30457,ROTTERDA,Presidente,13,PT,Partido dos Trabalhadores,313
+256,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,13,PT,Partido dos Trabalhadores,80
+257,2018,1,ZZ,29416,BOSTON,Presidente,13,PT,Partido dos Trabalhadores,755
+258,2018,1,ZZ,29335,ATENAS,Presidente,13,PT,Partido dos Trabalhadores,31
+259,2018,2,ZZ,29343,BANGKOK,Presidente,17,PSL,Partido Social Liberal,53
+260,2018,2,ZZ,30848,XANGAI,Presidente,17,PSL,Partido Social Liberal,151
+261,2018,2,ZZ,29475,CAIENA,Presidente,17,PSL,Partido Social Liberal,950
+262,2018,2,ZZ,29548,SINGAPURA-SING,Presidente,17,PSL,Partido Social Liberal,164
+263,2018,2,ZZ,29718,GEORGETOWN,Presidente,17,PSL,Partido Social Liberal,47
+264,2018,1,ZZ,29688,ESTOCOLMO,Presidente,19,PODE,Podemos,10
+265,2018,2,ZZ,29521,CHUY,Presidente,17,PSL,Partido Social Liberal,10
+266,2018,2,ZZ,29912,LAGOS,Presidente,17,PSL,Partido Social Liberal,8
+267,2018,2,ZZ,30260,PANAMA-PAN,Presidente,17,PSL,Partido Social Liberal,471
+268,2018,2,ZZ,30597,TEERA,Presidente,17,PSL,Partido Social Liberal,22
+269,2018,2,ZZ,30619,TEL AVIV,Presidente,17,PSL,Partido Social Liberal,391
+270,2018,2,ZZ,29890,KUALA LUMPUR,Presidente,17,PSL,Partido Social Liberal,34
+271,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,19,PODE,Podemos,4
+272,2018,2,ZZ,99180,NASSAU,Presidente,17,PSL,Partido Social Liberal,16
+273,2018,2,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,17,PSL,Partido Social Liberal,1026
+274,2018,2,ZZ,29270,ACCRA-GANA,Presidente,17,PSL,Partido Social Liberal,5
+275,2018,1,ZZ,39004,MENDOZA,Presidente,19,PODE,Podemos,1
+276,2018,2,ZZ,98000,GUATEMALA,Presidente,17,PSL,Partido Social Liberal,103
+277,2018,2,ZZ,30465,SALTO DEL GUAIRA,Presidente,17,PSL,Partido Social Liberal,285
+278,2018,1,ZZ,29661,DUBLIN,Presidente,19,PODE,Podemos,7
+279,2018,1,ZZ,30767,VIENA,Presidente,19,PODE,Podemos,10
+280,2018,1,ZZ,30376,PRETORIA,Presidente,19,PODE,Podemos,2
+281,2018,1,ZZ,29653,DOHA,Presidente,19,PODE,Podemos,1
+282,2018,1,ZZ,29904,LA PAZ,Presidente,51,PATRI,Patriota,2
+283,2018,1,ZZ,29408,BOGOTA,Presidente,51,PATRI,Patriota,2
+284,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,51,PATRI,Patriota,3
+285,2018,1,ZZ,29319,ARTIGAS,Presidente,51,PATRI,Patriota,5
+286,2018,1,ZZ,29700,GENEBRA,Presidente,51,PATRI,Patriota,26
+287,2018,1,ZZ,29572,COCHABAMBA,Presidente,51,PATRI,Patriota,1
+288,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,51,PATRI,Patriota,2
+289,2018,1,ZZ,30180,MUNIQUE,Presidente,51,PATRI,Patriota,31
+290,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,51,PATRI,Patriota,2
+291,2018,1,ZZ,29971,LONDRES,Presidente,51,PATRI,Patriota,47
+292,2018,1,ZZ,30767,VIENA,Presidente,51,PATRI,Patriota,7
+293,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,51,PATRI,Patriota,3
+294,2018,1,ZZ,30430,RIO BRANCO,Presidente,12,PDT,Partido Democratico Trabalhista,5
+295,2018,1,ZZ,30708,TUNIS,Presidente,12,PDT,Partido Democratico Trabalhista,7
+296,2018,1,ZZ,29777,HAVANA,Presidente,12,PDT,Partido Democratico Trabalhista,7
+297,2018,1,ZZ,29688,ESTOCOLMO,Presidente,12,PDT,Partido Democratico Trabalhista,344
+298,2018,1,ZZ,29254,ABIDJA,Presidente,12,PDT,Partido Democratico Trabalhista,2
+299,2018,1,ZZ,29610,DACAR,Presidente,12,PDT,Partido Democratico Trabalhista,6
+300,2018,1,ZZ,29459,BUDAPESTE,Presidente,12,PDT,Partido Democratico Trabalhista,31
+301,2018,1,ZZ,30279,PARAMARIBO,Presidente,30,NOVO,Partido Novo,4
+302,2018,1,ZZ,29980,LOS ANGELES,Presidente,30,NOVO,Partido Novo,238
+303,2018,1,ZZ,29432,BRUXELAS,Presidente,30,NOVO,Partido Novo,159
+304,2018,1,ZZ,29262,ABU DHABI,Presidente,30,NOVO,Partido Novo,95
+305,2018,1,ZZ,30562,SYDNEY,Presidente,12,PDT,Partido Democratico Trabalhista,484
+306,2018,1,ZZ,39063,VANCOUVER,Presidente,12,PDT,Partido Democratico Trabalhista,422
+307,2018,1,ZZ,30244,OSLO,Presidente,12,PDT,Partido Democratico Trabalhista,140
+308,2018,1,ZZ,29378,BELGRADO,Presidente,12,PDT,Partido Democratico Trabalhista,14
+309,2018,1,ZZ,30821,WINDHOEK,Presidente,12,PDT,Partido Democratico Trabalhista,3
+310,2018,1,ZZ,29904,LA PAZ,Presidente,13,PT,Partido dos Trabalhadores,23
+311,2018,1,ZZ,30317,PEQUIM,Presidente,13,PT,Partido dos Trabalhadores,9
+312,2018,1,ZZ,29688,ESTOCOLMO,Presidente,13,PT,Partido dos Trabalhadores,213
+313,2018,1,ZZ,30864,ZURIQUE,Presidente,13,PT,Partido dos Trabalhadores,643
+314,2018,1,ZZ,30163,MOSCOU,Presidente,12,PDT,Partido Democratico Trabalhista,18
+315,2018,1,ZZ,29378,BELGRADO,Presidente,30,NOVO,Partido Novo,2
+316,2018,1,ZZ,30260,PANAMA-PAN,Presidente,30,NOVO,Partido Novo,47
+317,2018,1,ZZ,29750,HANOI,Presidente,30,NOVO,Partido Novo,1
+318,2018,1,ZZ,29890,KUALA LUMPUR,Presidente,30,NOVO,Partido Novo,7
+319,2018,1,ZZ,29491,CAMBERRA,Presidente,30,NOVO,Partido Novo,141
+320,2018,1,ZZ,30325,PORT OF SPAIN,Presidente,12,PDT,Partido Democratico Trabalhista,6
+321,2018,1,ZZ,30783,WASHINGTON,Presidente,12,PDT,Partido Democratico Trabalhista,736
+322,2018,1,ZZ,30961,FARO,Presidente,30,NOVO,Partido Novo,31
+323,2018,1,ZZ,29742,HAMAMATSU,Presidente,30,NOVO,Partido Novo,202
+324,2018,1,ZZ,39020,ZAGREB,Presidente,30,NOVO,Partido Novo,4
+325,2018,1,ZZ,30333,PORTO PRINCIPE,Presidente,13,PT,Partido dos Trabalhadores,3
+326,2018,1,ZZ,30287,PARIS,Presidente,12,PDT,Partido Democratico Trabalhista,1394
+327,2018,1,ZZ,29459,BUDAPESTE,Presidente,13,PT,Partido dos Trabalhadores,16
+328,2018,1,ZZ,29912,LAGOS,Presidente,13,PT,Partido dos Trabalhadores,10
+329,2018,1,ZZ,30651,CANTAO,Presidente,13,PT,Partido dos Trabalhadores,4
+330,2018,1,ZZ,29955,LISBOA,Presidente,13,PT,Partido dos Trabalhadores,928
+331,2018,1,ZZ,30902,HARTFORD,Presidente,17,PSL,Partido Social Liberal,734
+332,2018,1,ZZ,29475,CAIENA,Presidente,17,PSL,Partido Social Liberal,812
+333,2018,1,ZZ,30198,NAGOIA,Presidente,17,PSL,Partido Social Liberal,8815
+334,2018,1,ZZ,30406,RABAT,Presidente,13,PT,Partido dos Trabalhadores,7
+335,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,13,PT,Partido dos Trabalhadores,274
+336,2018,1,ZZ,29440,BUCARESTE,Presidente,13,PT,Partido dos Trabalhadores,3
+337,2018,1,ZZ,30244,OSLO,Presidente,13,PT,Partido dos Trabalhadores,70
+338,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,17,PSL,Partido Social Liberal,50
+339,2018,1,ZZ,29530,CIDADE DO CABO,Presidente,17,PSL,Partido Social Liberal,56
+340,2018,1,ZZ,29394,BISSAU,Presidente,17,PSL,Partido Social Liberal,17
+341,2018,1,ZZ,29513,CHICAGO,Presidente,13,PT,Partido dos Trabalhadores,150
+342,2018,1,ZZ,30767,VIENA,Presidente,13,PT,Partido dos Trabalhadores,161
+343,2018,1,ZZ,29440,BUCARESTE,Presidente,17,PSL,Partido Social Liberal,11
+344,2018,1,ZZ,29670,ENCARNACION,Presidente,17,PSL,Partido Social Liberal,88
+345,2018,1,ZZ,39063,VANCOUVER,Presidente,17,PSL,Partido Social Liberal,992
+346,2018,1,ZZ,30066,MADRI,Presidente,17,PSL,Partido Social Liberal,1913
+347,2018,1,ZZ,30740,VARSOVIA,Presidente,17,PSL,Partido Social Liberal,30
+348,2018,1,ZZ,29513,CHICAGO,Presidente,17,PSL,Partido Social Liberal,1004
+349,2018,1,ZZ,30961,FARO,Presidente,17,PSL,Partido Social Liberal,482
+350,2018,1,ZZ,30635,TORONTO,Presidente,17,PSL,Partido Social Liberal,3119
+351,2018,1,ZZ,30074,MANAGUA,Presidente,17,PSL,Partido Social Liberal,27
+352,2018,1,ZZ,29270,ACCRA-GANA,Presidente,17,PSL,Partido Social Liberal,6
+353,2018,1,ZZ,98000,GUATEMALA,Presidente,17,PSL,Partido Social Liberal,85
+354,2018,1,ZZ,29408,BOGOTA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,26
+355,2018,1,ZZ,29319,ARTIGAS,Presidente,45,PSDB,Partido da Social Democracia Brasileira,22
+356,2018,1,ZZ,39102,MASCATE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+357,2018,1,ZZ,29475,CAIENA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,82
+358,2018,1,ZZ,30198,NAGOIA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,531
+359,2018,1,ZZ,29459,BUDAPESTE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+360,2018,1,ZZ,29289,AMA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,10
+361,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+362,2018,1,ZZ,29688,ESTOCOLMO,Presidente,54,PPL,Partido Patria Livre,3
+363,2018,1,ZZ,30112,MIAMI,Presidente,54,PPL,Partido Patria Livre,2
+364,2018,1,ZZ,29505,CARACAS,Presidente,54,PPL,Partido Patria Livre,1
+365,2018,1,ZZ,30406,RABAT,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+366,2018,1,ZZ,30260,PANAMA-PAN,Presidente,45,PSDB,Partido da Social Democracia Brasileira,24
+367,2018,1,ZZ,30180,MUNIQUE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,161
+368,2018,1,ZZ,30066,MADRI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,115
+369,2018,1,ZZ,29750,HANOI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+370,2018,1,ZZ,39063,VANCOUVER,Presidente,54,PPL,Partido Patria Livre,1
+371,2018,1,ZZ,29491,CAMBERRA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,36
+372,2018,1,ZZ,29807,HOUSTON,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+373,2018,1,ZZ,30155,MONTREAL,Presidente,54,PPL,Partido Patria Livre,2
+374,2018,1,ZZ,30210,NOVA DELHI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+375,2018,1,ZZ,29971,LONDRES,Presidente,45,PSDB,Partido da Social Democracia Brasileira,242
+376,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+377,2018,1,ZZ,30783,WASHINGTON,Presidente,45,PSDB,Partido da Social Democracia Brasileira,221
+378,2018,1,ZZ,29653,DOHA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,4
+379,2018,1,ZZ,30260,PANAMA-PAN,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+380,2018,1,ZZ,30244,OSLO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+381,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,4
+382,2018,1,ZZ,29742,HAMAMATSU,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,21
+383,2018,1,ZZ,29467,BUENOS AIRES,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,12
+384,2018,1,ZZ,30287,PARIS,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,8
+385,2018,1,ZZ,30155,MONTREAL,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,5
+386,2018,1,ZZ,29904,LA PAZ,Presidente,27,DC,Democracia Crista,1
+387,2018,1,ZZ,30228,NOVA YORK,Presidente,27,DC,Democracia Crista,3
+388,2018,1,ZZ,30112,MIAMI,Presidente,27,DC,Democracia Crista,5
+389,2018,1,ZZ,30627,TOQUIO,Presidente,27,DC,Democracia Crista,29
+390,2018,1,ZZ,29475,CAIENA,Presidente,27,DC,Democracia Crista,2
+391,2018,1,ZZ,30120,MILAO,Presidente,27,DC,Democracia Crista,6
+392,2018,1,ZZ,30228,NOVA YORK,Presidente,50,PSOL,Partido Socialismo e Liberdade,45
+393,2018,1,ZZ,29432,BRUXELAS,Presidente,50,PSOL,Partido Socialismo e Liberdade,17
+394,2018,1,ZZ,29475,CAIENA,Presidente,50,PSOL,Partido Socialismo e Liberdade,5
+395,2018,1,ZZ,29386,BERLIM,Presidente,50,PSOL,Partido Socialismo e Liberdade,74
+396,2018,1,ZZ,30244,OSLO,Presidente,50,PSOL,Partido Socialismo e Liberdade,4
+397,2018,1,ZZ,29890,KUALA LUMPUR,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+398,2018,1,ZZ,29335,ATENAS,Presidente,50,PSOL,Partido Socialismo e Liberdade,5
+399,2018,1,ZZ,29513,CHICAGO,Presidente,50,PSOL,Partido Socialismo e Liberdade,7
+400,2018,1,ZZ,29408,BOGOTA,Presidente,18,REDE,Rede Sustentabilidade,10
+401,2018,1,ZZ,29432,BRUXELAS,Presidente,18,REDE,Rede Sustentabilidade,69
+402,2018,1,ZZ,30074,MANAGUA,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+403,2018,1,ZZ,29548,SINGAPURA-SING,Presidente,45,PSDB,Partido da Social Democracia Brasileira,13
+404,2018,1,ZZ,30147,MONTEVIDEU,Presidente,45,PSDB,Partido da Social Democracia Brasileira,59
+405,2018,1,ZZ,29483,CAIRO,Presidente,18,REDE,Rede Sustentabilidade,1
+406,2018,1,ZZ,30201,NAIROBI,Presidente,50,PSOL,Partido Socialismo e Liberdade,3
+407,2018,1,ZZ,30155,MONTREAL,Presidente,50,PSOL,Partido Socialismo e Liberdade,35
+408,2018,1,ZZ,30570,TAIPE,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+409,2018,1,ZZ,29530,CIDADE DO CABO,Presidente,18,REDE,Rede Sustentabilidade,6
+410,2018,1,ZZ,29572,COCHABAMBA,Presidente,18,REDE,Rede Sustentabilidade,3
+411,2018,1,ZZ,29548,SINGAPURA-SING,Presidente,18,REDE,Rede Sustentabilidade,5
+412,2018,1,ZZ,30562,SYDNEY,Presidente,45,PSDB,Partido da Social Democracia Brasileira,70
+413,2018,1,ZZ,30244,OSLO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,15
+414,2018,1,ZZ,30449,ROMA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,107
+415,2018,1,ZZ,29645,DILI,Presidente,18,REDE,Rede Sustentabilidade,5
+416,2018,1,ZZ,30597,TEERA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+417,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,173
+418,2018,1,ZZ,29521,CHUY,Presidente,18,REDE,Rede Sustentabilidade,1
+419,2018,1,ZZ,39063,VANCOUVER,Presidente,45,PSDB,Partido da Social Democracia Brasileira,55
+420,2018,1,ZZ,30066,MADRI,Presidente,18,REDE,Rede Sustentabilidade,109
+421,2018,2,ZZ,30430,RIO BRANCO,Presidente,17,PSL,Partido Social Liberal,10
+422,2018,2,ZZ,29408,BOGOTA,Presidente,17,PSL,Partido Social Liberal,284
+423,2018,2,ZZ,30279,PARAMARIBO,Presidente,17,PSL,Partido Social Liberal,390
+424,2018,2,ZZ,29882,KUAITE,Presidente,17,PSL,Partido Social Liberal,26
+425,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,57
+426,2018,1,ZZ,29742,HAMAMATSU,Presidente,45,PSDB,Partido da Social Democracia Brasileira,218
+427,2018,1,ZZ,39306,ISTAMBUL,Presidente,45,PSDB,Partido da Social Democracia Brasileira,10
+428,2018,1,ZZ,29513,CHICAGO,Presidente,18,REDE,Rede Sustentabilidade,50
+429,2018,1,ZZ,29602,CORDOBA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,18
+430,2018,1,ZZ,29416,BOSTON,Presidente,18,REDE,Rede Sustentabilidade,170
+431,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,18,REDE,Rede Sustentabilidade,1
+432,2018,1,ZZ,29661,DUBLIN,Presidente,18,REDE,Rede Sustentabilidade,37
+433,2018,2,ZZ,29483,CAIRO,Presidente,17,PSL,Partido Social Liberal,24
+434,2018,1,ZZ,30465,SALTO DEL GUAIRA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,5
+435,2018,2,ZZ,30147,MONTEVIDEU,Presidente,17,PSL,Partido Social Liberal,660
+436,2018,2,ZZ,29610,DACAR,Presidente,17,PSL,Partido Social Liberal,32
+437,2018,2,ZZ,29394,BISSAU,Presidente,17,PSL,Partido Social Liberal,14
+438,2018,1,ZZ,29971,LONDRES,Presidente,18,REDE,Rede Sustentabilidade,251
+439,2018,1,ZZ,30074,MANAGUA,Presidente,18,REDE,Rede Sustentabilidade,3
+440,2018,2,ZZ,29360,BEIRUTE,Presidente,17,PSL,Partido Social Liberal,1041
+441,2018,1,ZZ,30287,PARIS,Presidente,18,REDE,Rede Sustentabilidade,175
+442,2018,2,ZZ,30406,RABAT,Presidente,17,PSL,Partido Social Liberal,6
+443,2018,2,ZZ,29750,HANOI,Presidente,17,PSL,Partido Social Liberal,7
+444,2018,2,ZZ,30163,MOSCOU,Presidente,17,PSL,Partido Social Liberal,17
+445,2018,2,ZZ,39306,ISTAMBUL,Presidente,17,PSL,Partido Social Liberal,55
+446,2018,2,ZZ,29335,ATENAS,Presidente,17,PSL,Partido Social Liberal,276
+447,2018,2,ZZ,30767,VIENA,Presidente,17,PSL,Partido Social Liberal,371
+448,2018,2,ZZ,30155,MONTREAL,Presidente,17,PSL,Partido Social Liberal,1879
+449,2018,2,ZZ,30376,PRETORIA,Presidente,17,PSL,Partido Social Liberal,206
+450,2018,1,ZZ,29882,KUAITE,Presidente,12,PDT,Partido Democratico Trabalhista,5
+451,2018,1,ZZ,30317,PEQUIM,Presidente,12,PDT,Partido Democratico Trabalhista,19
+452,2018,1,ZZ,38962,DAR ES SALAAM,Presidente,12,PDT,Partido Democratico Trabalhista,3
+453,2018,1,ZZ,29475,CAIENA,Presidente,12,PDT,Partido Democratico Trabalhista,91
+454,2018,1,ZZ,29505,CARACAS,Presidente,12,PDT,Partido Democratico Trabalhista,35
+455,2018,1,ZZ,30902,HARTFORD,Presidente,51,PATRI,Patriota,3
+456,2018,1,ZZ,29718,GEORGETOWN,Presidente,12,PDT,Partido Democratico Trabalhista,5
+457,2018,1,ZZ,30333,PORTO PRINCIPE,Presidente,12,PDT,Partido Democratico Trabalhista,4
+458,2018,1,ZZ,39160,LIUBLIANA,Presidente,12,PDT,Partido Democratico Trabalhista,5
+459,2018,1,ZZ,30147,MONTEVIDEU,Presidente,12,PDT,Partido Democratico Trabalhista,184
+460,2018,1,ZZ,29289,AMA,Presidente,12,PDT,Partido Democratico Trabalhista,29
+461,2018,1,ZZ,29360,BEIRUTE,Presidente,12,PDT,Partido Democratico Trabalhista,123
+462,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,12,PDT,Partido Democratico Trabalhista,42
+463,2018,1,ZZ,30651,CANTAO,Presidente,12,PDT,Partido Democratico Trabalhista,4
+464,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,12,PDT,Partido Democratico Trabalhista,32
+465,2018,1,ZZ,30082,MANILA,Presidente,12,PDT,Partido Democratico Trabalhista,8
+466,2018,1,ZZ,30562,SYDNEY,Presidente,51,PATRI,Patriota,6
+467,2018,1,ZZ,29645,DILI,Presidente,12,PDT,Partido Democratico Trabalhista,3
+468,2018,1,ZZ,30511,SAO JOSE,Presidente,12,PDT,Partido Democratico Trabalhista,32
+469,2018,1,ZZ,30180,MUNIQUE,Presidente,12,PDT,Partido Democratico Trabalhista,686
+470,2018,1,ZZ,30252,OTTAWA,Presidente,12,PDT,Partido Democratico Trabalhista,131
+471,2018,1,ZZ,39209,BRATISLAVA,Presidente,12,PDT,Partido Democratico Trabalhista,18
+472,2018,1,ZZ,30449,ROMA,Presidente,12,PDT,Partido Democratico Trabalhista,616
+473,2018,1,ZZ,30449,ROMA,Presidente,51,PATRI,Patriota,29
+474,2018,1,ZZ,29661,DUBLIN,Presidente,51,PATRI,Patriota,2
+475,2018,1,ZZ,30090,MAPUTO,Presidente,12,PDT,Partido Democratico Trabalhista,38
+476,2018,1,ZZ,29351,BARCELONA,Presidente,12,PDT,Partido Democratico Trabalhista,491
+477,2018,1,ZZ,30520,SAO SALVADOR,Presidente,12,PDT,Partido Democratico Trabalhista,6
+478,2018,1,ZZ,30635,TORONTO,Presidente,12,PDT,Partido Democratico Trabalhista,953
+479,2018,1,ZZ,30392,QUITO,Presidente,51,PATRI,Patriota,1
+480,2018,1,ZZ,29416,BOSTON,Presidente,51,PATRI,Patriota,68
+481,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,51,PATRI,Patriota,4
+482,2018,1,ZZ,30740,VARSOVIA,Presidente,12,PDT,Partido Democratico Trabalhista,32
+483,2018,1,ZZ,30210,NOVA DELHI,Presidente,12,PDT,Partido Democratico Trabalhista,7
+484,2018,1,ZZ,29270,ACCRA-GANA,Presidente,12,PDT,Partido Democratico Trabalhista,6
+485,2018,1,ZZ,29467,BUENOS AIRES,Presidente,12,PDT,Partido Democratico Trabalhista,611
+486,2018,1,ZZ,29971,LONDRES,Presidente,12,PDT,Partido Democratico Trabalhista,1942
+487,2018,1,ZZ,30074,MANAGUA,Presidente,12,PDT,Partido Democratico Trabalhista,12
+488,2018,1,ZZ,30767,VIENA,Presidente,12,PDT,Partido Democratico Trabalhista,236
+489,2018,1,ZZ,29297,ANCARA,Presidente,12,PDT,Partido Democratico Trabalhista,3
+490,2018,1,ZZ,29858,KIEV,Presidente,12,PDT,Partido Democratico Trabalhista,4
+491,2018,1,ZZ,30155,MONTREAL,Presidente,12,PDT,Partido Democratico Trabalhista,1161
+492,2018,1,ZZ,30368,PRAIA,Presidente,12,PDT,Partido Democratico Trabalhista,4
+493,2018,2,ZZ,30430,RIO BRANCO,Presidente,13,PT,Partido dos Trabalhadores,7
+494,2018,2,ZZ,29408,BOGOTA,Presidente,13,PT,Partido dos Trabalhadores,180
+495,2018,2,ZZ,29777,HAVANA,Presidente,13,PT,Partido dos Trabalhadores,19
+496,2018,2,ZZ,29319,ARTIGAS,Presidente,13,PT,Partido dos Trabalhadores,83
+497,2018,2,ZZ,29947,LIMA,Presidente,13,PT,Partido dos Trabalhadores,151
+498,2018,2,ZZ,29980,LOS ANGELES,Presidente,13,PT,Partido dos Trabalhadores,721
+499,2018,1,ZZ,30465,SALTO DEL GUAIRA,Presidente,12,PDT,Partido Democratico Trabalhista,6
+500,2018,1,ZZ,30376,PRETORIA,Presidente,12,PDT,Partido Democratico Trabalhista,32
+501,2018,1,ZZ,30279,PARAMARIBO,Presidente,17,PSL,Partido Social Liberal,355
+502,2018,1,ZZ,30627,TOQUIO,Presidente,17,PSL,Partido Social Liberal,9456
+503,2018,2,ZZ,29262,ABU DHABI,Presidente,13,PT,Partido dos Trabalhadores,138
+504,2018,2,ZZ,29394,BISSAU,Presidente,13,PT,Partido dos Trabalhadores,13
+505,2018,1,ZZ,30430,RIO BRANCO,Presidente,17,PSL,Partido Social Liberal,8
+506,2018,1,ZZ,30708,TUNIS,Presidente,17,PSL,Partido Social Liberal,12
+507,2018,1,ZZ,29254,ABIDJA,Presidente,17,PSL,Partido Social Liberal,15
+508,2018,1,ZZ,29980,LOS ANGELES,Presidente,17,PSL,Partido Social Liberal,1714
+509,2018,2,ZZ,30082,MANILA,Presidente,13,PT,Partido dos Trabalhadores,8
+510,2018,1,ZZ,29807,HOUSTON,Presidente,30,NOVO,Partido Novo,380
+511,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,30,NOVO,Partido Novo,63
+512,2018,1,ZZ,39080,ATLANTA,Presidente,30,NOVO,Partido Novo,239
+513,2018,1,ZZ,30112,MIAMI,Presidente,30,NOVO,Partido Novo,737
+514,2018,1,ZZ,30627,TOQUIO,Presidente,30,NOVO,Partido Novo,668
+515,2018,1,ZZ,29475,CAIENA,Presidente,30,NOVO,Partido Novo,8
+516,2018,1,ZZ,29610,DACAR,Presidente,17,PSL,Partido Social Liberal,27
+517,2018,1,ZZ,29718,GEORGETOWN,Presidente,17,PSL,Partido Social Liberal,64
+518,2018,1,ZZ,30147,MONTEVIDEU,Presidente,17,PSL,Partido Social Liberal,502
+519,2018,1,ZZ,39160,LIUBLIANA,Presidente,17,PSL,Partido Social Liberal,14
+520,2018,1,ZZ,29327,ASSUNCAO,Presidente,17,PSL,Partido Social Liberal,773
+521,2018,1,ZZ,39322,NICOSIA,Presidente,17,PSL,Partido Social Liberal,12
+522,2018,1,ZZ,30317,PEQUIM,Presidente,45,PSDB,Partido da Social Democracia Brasileira,6
+523,2018,1,ZZ,30228,NOVA YORK,Presidente,45,PSDB,Partido da Social Democracia Brasileira,300
+524,2018,2,ZZ,29661,DUBLIN,Presidente,13,PT,Partido dos Trabalhadores,510
+525,2018,1,ZZ,29572,COCHABAMBA,Presidente,17,PSL,Partido Social Liberal,85
+526,2018,1,ZZ,29912,LAGOS,Presidente,17,PSL,Partido Social Liberal,4
+527,2018,1,ZZ,30120,MILAO,Presidente,17,PSL,Partido Social Liberal,2608
+528,2018,1,ZZ,29360,BEIRUTE,Presidente,17,PSL,Partido Social Liberal,1038
+529,2018,2,ZZ,30520,SAO SALVADOR,Presidente,13,PT,Partido dos Trabalhadores,15
+530,2018,2,ZZ,29491,CAMBERRA,Presidente,13,PT,Partido dos Trabalhadores,283
+531,2018,1,ZZ,30147,MONTEVIDEU,Presidente,30,NOVO,Partido Novo,41
+532,2018,1,ZZ,30597,TEERA,Presidente,17,PSL,Partido Social Liberal,12
+533,2018,1,ZZ,30562,SYDNEY,Presidente,17,PSL,Partido Social Liberal,1034
+534,2018,1,ZZ,99287,LUSACA,Presidente,17,PSL,Partido Social Liberal,11
+535,2018,1,ZZ,29351,BARCELONA,Presidente,17,PSL,Partido Social Liberal,722
+536,2018,2,ZZ,30210,NOVA DELHI,Presidente,13,PT,Partido dos Trabalhadores,14
+537,2018,1,ZZ,29394,BISSAU,Presidente,30,NOVO,Partido Novo,1
+538,2018,1,ZZ,29459,BUDAPESTE,Presidente,30,NOVO,Partido Novo,18
+539,2018,1,ZZ,39209,BRATISLAVA,Presidente,17,PSL,Partido Social Liberal,15
+540,2018,1,ZZ,29386,BERLIM,Presidente,17,PSL,Partido Social Liberal,638
+541,2018,1,ZZ,30511,SAO JOSE,Presidente,17,PSL,Partido Social Liberal,153
+542,2018,1,ZZ,30449,ROMA,Presidente,17,PSL,Partido Social Liberal,1607
+543,2018,1,ZZ,39322,NICOSIA,Presidente,30,NOVO,Partido Novo,3
+544,2018,1,ZZ,30244,OSLO,Presidente,17,PSL,Partido Social Liberal,152
+545,2018,1,ZZ,30180,MUNIQUE,Presidente,17,PSL,Partido Social Liberal,1358
+546,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,17,PSL,Partido Social Liberal,1476
+547,2018,1,ZZ,30520,SAO SALVADOR,Presidente,17,PSL,Partido Social Liberal,54
+548,2018,1,ZZ,30805,WELLINGTON,Presidente,17,PSL,Partido Social Liberal,140
+549,2018,2,ZZ,30465,SALTO DEL GUAIRA,Presidente,13,PT,Partido dos Trabalhadores,14
+550,2018,1,ZZ,29645,DILI,Presidente,30,NOVO,Partido Novo,4
+551,2018,1,ZZ,99180,NASSAU,Presidente,17,PSL,Partido Social Liberal,16
+552,2018,1,ZZ,30350,PRAGA,Presidente,17,PSL,Partido Social Liberal,53
+553,2018,1,ZZ,39004,MENDOZA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,3
+554,2018,2,ZZ,30376,PRETORIA,Presidente,13,PT,Partido dos Trabalhadores,50
+555,2018,1,ZZ,30066,MADRI,Presidente,30,NOVO,Partido Novo,289
+556,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,30,NOVO,Partido Novo,329
+557,2018,1,ZZ,29173,KATMANDU,Presidente,17,PSL,Partido Social Liberal,15
+558,2018,1,ZZ,29785,HELSINQUE,Presidente,17,PSL,Partido Social Liberal,128
+559,2018,1,ZZ,30619,TEL AVIV,Presidente,45,PSDB,Partido da Social Democracia Brasileira,34
+560,2018,1,ZZ,39306,ISTAMBUL,Presidente,30,NOVO,Partido Novo,6
+561,2018,1,ZZ,30341,PORTO,Presidente,17,PSL,Partido Social Liberal,2740
+562,2018,1,ZZ,29998,LUANDA,Presidente,17,PSL,Partido Social Liberal,85
+563,2018,1,ZZ,30287,PARIS,Presidente,17,PSL,Partido Social Liberal,1127
+564,2018,1,ZZ,30511,SAO JOSE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,13
+565,2018,1,ZZ,99287,LUSACA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,3
+566,2018,1,ZZ,29947,LIMA,Presidente,15,MDB,Movimento Democratico Brasileiro,4
+567,2018,1,ZZ,29980,LOS ANGELES,Presidente,15,MDB,Movimento Democratico Brasileiro,14
+568,2018,1,ZZ,30465,SALTO DEL GUAIRA,Presidente,17,PSL,Partido Social Liberal,280
+569,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,17,PSL,Partido Social Liberal,603
+570,2018,1,ZZ,29467,BUENOS AIRES,Presidente,30,NOVO,Partido Novo,145
+571,2018,1,ZZ,30783,WASHINGTON,Presidente,17,PSL,Partido Social Liberal,2369
+572,2018,1,ZZ,29467,BUENOS AIRES,Presidente,45,PSDB,Partido da Social Democracia Brasileira,142
+573,2018,1,ZZ,99317,TALIN,Presidente,30,NOVO,Partido Novo,3
+574,2018,1,ZZ,30570,TAIPE,Presidente,30,NOVO,Partido Novo,19
+575,2018,1,ZZ,29610,DACAR,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+576,2018,1,ZZ,29327,ASSUNCAO,Presidente,15,MDB,Movimento Democratico Brasileiro,8
+577,2018,1,ZZ,39322,NICOSIA,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+578,2018,1,ZZ,29289,AMA,Presidente,15,MDB,Movimento Democratico Brasileiro,3
+579,2018,1,ZZ,39004,MENDOZA,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+580,2018,1,ZZ,98000,GUATEMALA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,7
+581,2018,1,ZZ,99180,NASSAU,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+582,2018,1,ZZ,30635,TORONTO,Presidente,15,MDB,Movimento Democratico Brasileiro,16
+583,2018,1,ZZ,30767,VIENA,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+584,2018,1,ZZ,29700,GENEBRA,Presidente,50,PSOL,Partido Socialismo e Liberdade,26
+585,2018,1,ZZ,29505,CARACAS,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+586,2018,1,ZZ,30279,PARAMARIBO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+587,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+588,2018,1,ZZ,30120,MILAO,Presidente,50,PSOL,Partido Socialismo e Liberdade,29
+589,2018,1,ZZ,29360,BEIRUTE,Presidente,50,PSOL,Partido Socialismo e Liberdade,9
+590,2018,1,ZZ,30180,MUNIQUE,Presidente,50,PSOL,Partido Socialismo e Liberdade,31
+591,2018,1,ZZ,30449,ROMA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,11
+592,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+593,2018,1,ZZ,29360,BEIRUTE,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,5
+594,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+595,2018,1,ZZ,30180,MUNIQUE,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,12
+596,2018,1,ZZ,29386,BERLIM,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,5
+597,2018,1,ZZ,29971,LONDRES,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,14
+598,2018,1,ZZ,30350,PRAGA,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+599,2018,1,ZZ,30163,MOSCOU,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+600,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+601,2018,1,ZZ,29602,CORDOBA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+602,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+603,2018,1,ZZ,29467,BUENOS AIRES,Presidente,50,PSOL,Partido Socialismo e Liberdade,41
+604,2018,1,ZZ,30457,ROTTERDA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,11
+605,2018,1,ZZ,29807,HOUSTON,Presidente,27,DC,Democracia Crista,2
+606,2018,1,ZZ,30864,ZURIQUE,Presidente,27,DC,Democracia Crista,2
+607,2018,1,ZZ,30325,PORT OF SPAIN,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+608,2018,1,ZZ,29998,LUANDA,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+609,2018,1,ZZ,29696,FRANKFURT,Presidente,27,DC,Democracia Crista,3
+610,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,27,DC,Democracia Crista,3
+611,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,27,DC,Democracia Crista,3
+612,2018,2,ZZ,30317,PEQUIM,Presidente,17,PSL,Partido Social Liberal,27
+613,2018,2,ZZ,29688,ESTOCOLMO,Presidente,17,PSL,Partido Social Liberal,421
+614,2018,2,ZZ,29947,LIMA,Presidente,17,PSL,Partido Social Liberal,429
+615,2018,2,ZZ,29505,CARACAS,Presidente,17,PSL,Partido Social Liberal,360
+616,2018,1,ZZ,30457,ROTTERDA,Presidente,27,DC,Democracia Crista,1
+617,2018,1,ZZ,29742,HAMAMATSU,Presidente,27,DC,Democracia Crista,10
+618,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,27,DC,Democracia Crista,2
+619,2018,1,ZZ,29513,CHICAGO,Presidente,27,DC,Democracia Crista,1
+620,2018,1,ZZ,30341,PORTO,Presidente,27,DC,Democracia Crista,5
+621,2018,1,ZZ,30767,VIENA,Presidente,27,DC,Democracia Crista,1
+622,2018,2,ZZ,29459,BUDAPESTE,Presidente,17,PSL,Partido Social Liberal,56
+623,2018,1,ZZ,29467,BUENOS AIRES,Presidente,27,DC,Democracia Crista,11
+624,2018,2,ZZ,30651,CANTAO,Presidente,17,PSL,Partido Social Liberal,82
+625,2018,2,ZZ,30414,RAMALLAH-PALE,Presidente,17,PSL,Partido Social Liberal,51
+626,2018,2,ZZ,30252,OTTAWA,Presidente,17,PSL,Partido Social Liberal,348
+627,2018,2,ZZ,29440,BUCARESTE,Presidente,17,PSL,Partido Social Liberal,14
+628,2018,1,ZZ,29696,FRANKFURT,Presidente,19,PODE,Podemos,55
+629,2018,1,ZZ,39080,ATLANTA,Presidente,19,PODE,Podemos,30
+630,2018,1,ZZ,29882,KUAITE,Presidente,19,PODE,Podemos,6
+631,2018,1,ZZ,29700,GENEBRA,Presidente,19,PODE,Podemos,23
+632,2018,1,ZZ,29505,CARACAS,Presidente,19,PODE,Podemos,2
+633,2018,2,ZZ,30350,PRAGA,Presidente,17,PSL,Partido Social Liberal,67
+634,2018,2,ZZ,30821,WINDHOEK,Presidente,17,PSL,Partido Social Liberal,11
+635,2018,2,ZZ,30961,FARO,Presidente,17,PSL,Partido Social Liberal,564
+636,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,18
+637,2018,1,ZZ,29688,ESTOCOLMO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,48
+638,2018,1,ZZ,29343,BANGKOK,Presidente,45,PSDB,Partido da Social Democracia Brasileira,3
+639,2018,1,ZZ,30902,HARTFORD,Presidente,45,PSDB,Partido da Social Democracia Brasileira,24
+640,2018,1,ZZ,39080,ATLANTA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,80
+641,2018,1,ZZ,30112,MIAMI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,283
+642,2018,1,ZZ,30848,XANGAI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,13
+643,2018,1,ZZ,29980,LOS ANGELES,Presidente,45,PSDB,Partido da Social Democracia Brasileira,95
+644,2018,1,ZZ,29610,DACAR,Presidente,19,PODE,Podemos,2
+645,2018,2,ZZ,29467,BUENOS AIRES,Presidente,17,PSL,Partido Social Liberal,1365
+646,2018,2,ZZ,29297,ANCARA,Presidente,17,PSL,Partido Social Liberal,8
+647,2018,1,ZZ,29262,ABU DHABI,Presidente,19,PODE,Podemos,2
+648,2018,2,ZZ,30570,TAIPE,Presidente,17,PSL,Partido Social Liberal,178
+649,2018,1,ZZ,29262,ABU DHABI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,10
+650,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,19,PODE,Podemos,17
+651,2018,1,ZZ,30619,TEL AVIV,Presidente,19,PODE,Podemos,2
+652,2018,1,ZZ,39209,BRATISLAVA,Presidente,19,PODE,Podemos,2
+653,2018,1,ZZ,30481,SANTIAGO,Presidente,19,PODE,Podemos,12
+654,2018,1,ZZ,30449,ROMA,Presidente,19,PODE,Podemos,62
+655,2018,1,ZZ,29696,FRANKFURT,Presidente,18,REDE,Rede Sustentabilidade,151
+656,2018,1,ZZ,30317,PEQUIM,Presidente,18,REDE,Rede Sustentabilidade,3
+657,2018,1,ZZ,29343,BANGKOK,Presidente,18,REDE,Rede Sustentabilidade,3
+658,2018,1,ZZ,39080,ATLANTA,Presidente,18,REDE,Rede Sustentabilidade,36
+659,2018,1,ZZ,29416,BOSTON,Presidente,19,PODE,Podemos,84
+660,2018,1,ZZ,30520,SAO SALVADOR,Presidente,19,PODE,Podemos,1
+661,2018,1,ZZ,30228,NOVA YORK,Presidente,18,REDE,Rede Sustentabilidade,205
+662,2018,1,ZZ,29319,ARTIGAS,Presidente,18,REDE,Rede Sustentabilidade,14
+663,2018,1,ZZ,30864,ZURIQUE,Presidente,18,REDE,Rede Sustentabilidade,199
+664,2018,1,ZZ,29955,LISBOA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,164
+665,2018,1,ZZ,29645,DILI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+666,2018,1,ZZ,30821,WINDHOEK,Presidente,19,PODE,Podemos,1
+667,2018,1,ZZ,29742,HAMAMATSU,Presidente,19,PODE,Podemos,134
+668,2018,1,ZZ,30341,PORTO,Presidente,19,PODE,Podemos,48
+669,2018,1,ZZ,29807,HOUSTON,Presidente,51,PATRI,Patriota,9
+670,2018,1,ZZ,29696,FRANKFURT,Presidente,51,PATRI,Patriota,31
+671,2018,1,ZZ,29947,LIMA,Presidente,51,PATRI,Patriota,2
+672,2018,1,ZZ,30864,ZURIQUE,Presidente,51,PATRI,Patriota,71
+673,2018,1,ZZ,29505,CARACAS,Presidente,51,PATRI,Patriota,2
+674,2018,1,ZZ,30198,NAGOIA,Presidente,51,PATRI,Patriota,112
+675,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,45,PSDB,Partido da Social Democracia Brasileira,12
+676,2018,1,ZZ,29378,BELGRADO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+677,2018,1,ZZ,30082,MANILA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+678,2018,1,ZZ,29971,LONDRES,Presidente,19,PODE,Podemos,67
+679,2018,1,ZZ,29602,CORDOBA,Presidente,19,PODE,Podemos,3
+680,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,18,REDE,Rede Sustentabilidade,3
+681,2018,1,ZZ,29440,BUCARESTE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+682,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,19,PODE,Podemos,8
+683,2018,1,ZZ,29289,AMA,Presidente,51,PATRI,Patriota,7
+684,2018,1,ZZ,29513,CHICAGO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,86
+685,2018,1,ZZ,30805,WELLINGTON,Presidente,45,PSDB,Partido da Social Democracia Brasileira,12
+686,2018,1,ZZ,30570,TAIPE,Presidente,19,PODE,Podemos,5
+687,2018,1,ZZ,30821,WINDHOEK,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+688,2018,1,ZZ,29661,DUBLIN,Presidente,45,PSDB,Partido da Social Democracia Brasileira,22
+689,2018,1,ZZ,29955,LISBOA,Presidente,18,REDE,Rede Sustentabilidade,208
+690,2018,1,ZZ,30260,PANAMA-PAN,Presidente,18,REDE,Rede Sustentabilidade,8
+691,2018,1,ZZ,30341,PORTO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,122
+692,2018,1,ZZ,29890,KUALA LUMPUR,Presidente,18,REDE,Rede Sustentabilidade,4
+693,2018,1,ZZ,30481,SANTIAGO,Presidente,18,REDE,Rede Sustentabilidade,41
+694,2018,1,ZZ,30180,MUNIQUE,Presidente,18,REDE,Rede Sustentabilidade,161
+695,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,18,REDE,Rede Sustentabilidade,108
+696,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,18,REDE,Rede Sustentabilidade,9
+697,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,18,REDE,Rede Sustentabilidade,8
+698,2018,1,ZZ,29335,ATENAS,Presidente,18,REDE,Rede Sustentabilidade,14
+699,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,18,REDE,Rede Sustentabilidade,11
+700,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,51,PATRI,Patriota,3
+701,2018,1,ZZ,30090,MAPUTO,Presidente,51,PATRI,Patriota,1
+702,2018,1,ZZ,30244,OSLO,Presidente,51,PATRI,Patriota,1
+703,2018,1,ZZ,30155,MONTREAL,Presidente,45,PSDB,Partido da Social Democracia Brasileira,102
+704,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,45,PSDB,Partido da Social Democracia Brasileira,37
+705,2018,1,ZZ,30325,PORT OF SPAIN,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+706,2018,1,ZZ,30805,WELLINGTON,Presidente,18,REDE,Rede Sustentabilidade,20
+707,2018,1,ZZ,39306,ISTAMBUL,Presidente,18,REDE,Rede Sustentabilidade,4
+708,2018,1,ZZ,29173,KATMANDU,Presidente,18,REDE,Rede Sustentabilidade,1
+709,2018,1,ZZ,30210,NOVA DELHI,Presidente,18,REDE,Rede Sustentabilidade,2
+710,2018,1,ZZ,30961,FARO,Presidente,51,PATRI,Patriota,14
+711,2018,1,ZZ,29335,ATENAS,Presidente,51,PATRI,Patriota,2
+712,2018,1,ZZ,29785,HELSINQUE,Presidente,18,REDE,Rede Sustentabilidade,23
+713,2018,1,ZZ,30155,MONTREAL,Presidente,18,REDE,Rede Sustentabilidade,120
+714,2018,1,ZZ,98000,GUATEMALA,Presidente,51,PATRI,Patriota,1
+715,2018,1,ZZ,99317,TALIN,Presidente,18,REDE,Rede Sustentabilidade,1
+716,2018,1,ZZ,30783,WASHINGTON,Presidente,18,REDE,Rede Sustentabilidade,145
+717,2018,2,ZZ,29807,HOUSTON,Presidente,13,PT,Partido dos Trabalhadores,615
+718,2018,2,ZZ,38962,DAR ES SALAAM,Presidente,13,PT,Partido dos Trabalhadores,7
+719,2018,2,ZZ,30864,ZURIQUE,Presidente,13,PT,Partido dos Trabalhadores,1835
+720,2018,2,ZZ,29505,CARACAS,Presidente,13,PT,Partido dos Trabalhadores,67
+721,2018,2,ZZ,30228,NOVA YORK,Presidente,13,PT,Partido dos Trabalhadores,2105
+722,2018,2,ZZ,29599,COPENHAGUE-DINA,Presidente,13,PT,Partido dos Trabalhadores,420
+723,2018,2,ZZ,30112,MIAMI,Presidente,13,PT,Partido dos Trabalhadores,1028
+724,2018,2,ZZ,30848,XANGAI,Presidente,13,PT,Partido dos Trabalhadores,48
+725,2018,2,ZZ,30627,TOQUIO,Presidente,13,PT,Partido dos Trabalhadores,1417
+726,2018,1,ZZ,30279,PARAMARIBO,Presidente,12,PDT,Partido Democratico Trabalhista,45
+727,2018,1,ZZ,29319,ARTIGAS,Presidente,12,PDT,Partido Democratico Trabalhista,23
+728,2018,1,ZZ,39102,MASCATE,Presidente,12,PDT,Partido Democratico Trabalhista,1
+729,2018,2,ZZ,29289,AMA,Presidente,13,PT,Partido dos Trabalhadores,231
+730,2018,2,ZZ,29912,LAGOS,Presidente,13,PT,Partido dos Trabalhadores,14
+731,2018,1,ZZ,29327,ASSUNCAO,Presidente,12,PDT,Partido Democratico Trabalhista,97
+732,2018,1,ZZ,29564,CIUDAD GUAYANA,Presidente,12,PDT,Partido Democratico Trabalhista,2
+733,2018,1,ZZ,29572,COCHABAMBA,Presidente,12,PDT,Partido Democratico Trabalhista,15
+734,2018,1,ZZ,29262,ABU DHABI,Presidente,12,PDT,Partido Democratico Trabalhista,84
+735,2018,2,ZZ,30333,PORTO PRINCIPE,Presidente,13,PT,Partido dos Trabalhadores,9
+736,2018,2,ZZ,30651,CANTAO,Presidente,13,PT,Partido dos Trabalhadores,5
+737,2018,1,ZZ,30406,RABAT,Presidente,12,PDT,Partido Democratico Trabalhista,9
+738,2018,2,ZZ,30180,MUNIQUE,Presidente,13,PT,Partido dos Trabalhadores,1428
+739,2018,2,ZZ,29750,HANOI,Presidente,13,PT,Partido dos Trabalhadores,10
+740,2018,2,ZZ,29670,ENCARNACION,Presidente,13,PT,Partido dos Trabalhadores,18
+741,2018,2,ZZ,30619,TEL AVIV,Presidente,13,PT,Partido dos Trabalhadores,115
+742,2018,2,ZZ,30252,OTTAWA,Presidente,13,PT,Partido dos Trabalhadores,242
+743,2018,2,ZZ,30503,SAO FRANCISCO,Presidente,13,PT,Partido dos Trabalhadores,1068
+744,2018,2,ZZ,29890,KUALA LUMPUR,Presidente,13,PT,Partido dos Trabalhadores,20
+745,2018,2,ZZ,30511,SAO JOSE,Presidente,13,PT,Partido dos Trabalhadores,70
+746,2018,2,ZZ,29335,ATENAS,Presidente,13,PT,Partido dos Trabalhadores,99
+747,2018,2,ZZ,30490,SAO DOMINGOS,Presidente,13,PT,Partido dos Trabalhadores,49
+748,2018,1,ZZ,30066,MADRI,Presidente,12,PDT,Partido Democratico Trabalhista,668
+749,2018,1,ZZ,99287,LUSACA,Presidente,12,PDT,Partido Democratico Trabalhista,4
+750,2018,2,ZZ,29416,BOSTON,Presidente,13,PT,Partido dos Trabalhadores,1827
+751,2018,2,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,13,PT,Partido dos Trabalhadores,130
+752,2018,2,ZZ,29467,BUENOS AIRES,Presidente,13,PT,Partido dos Trabalhadores,1566
+753,2018,2,ZZ,39020,ZAGREB,Presidente,13,PT,Partido dos Trabalhadores,5
+754,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,12,PDT,Partido Democratico Trabalhista,6
+755,2018,1,ZZ,29840,JACARTA,Presidente,12,PDT,Partido Democratico Trabalhista,4
+756,2018,1,ZZ,30260,PANAMA-PAN,Presidente,12,PDT,Partido Democratico Trabalhista,71
+757,2018,2,ZZ,30341,PORTO,Presidente,13,PT,Partido dos Trabalhadores,1674
+758,2018,2,ZZ,29297,ANCARA,Presidente,13,PT,Partido dos Trabalhadores,7
+759,2018,2,ZZ,30422,RIADE,Presidente,13,PT,Partido dos Trabalhadores,14
+760,2018,2,ZZ,30074,MANAGUA,Presidente,13,PT,Partido dos Trabalhadores,23
+761,2018,1,ZZ,30457,ROTTERDA,Presidente,12,PDT,Partido Democratico Trabalhista,595
+762,2018,1,ZZ,30392,QUITO,Presidente,12,PDT,Partido Democratico Trabalhista,46
+763,2018,1,ZZ,29416,BOSTON,Presidente,12,PDT,Partido Democratico Trabalhista,893
+764,2018,1,ZZ,30350,PRAGA,Presidente,12,PDT,Partido Democratico Trabalhista,39
+765,2018,1,ZZ,30430,RIO BRANCO,Presidente,13,PT,Partido dos Trabalhadores,3
+766,2018,1,ZZ,30341,PORTO,Presidente,12,PDT,Partido Democratico Trabalhista,777
+767,2018,1,ZZ,29602,CORDOBA,Presidente,12,PDT,Partido Democratico Trabalhista,52
+768,2018,1,ZZ,30570,TAIPE,Presidente,12,PDT,Partido Democratico Trabalhista,24
+769,2018,1,ZZ,98000,GUATEMALA,Presidente,12,PDT,Partido Democratico Trabalhista,13
+770,2018,1,ZZ,39322,NICOSIA,Presidente,13,PT,Partido dos Trabalhadores,3
+771,2018,1,ZZ,29564,CIUDAD GUAYANA,Presidente,13,PT,Partido dos Trabalhadores,6
+772,2018,1,ZZ,30538,SEUL,Presidente,17,PSL,Partido Social Liberal,28
+773,2018,1,ZZ,29696,FRANKFURT,Presidente,17,PSL,Partido Social Liberal,1069
+774,2018,1,ZZ,30317,PEQUIM,Presidente,17,PSL,Partido Social Liberal,15
+775,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,17,PSL,Partido Social Liberal,144
+776,2018,1,ZZ,29688,ESTOCOLMO,Presidente,17,PSL,Partido Social Liberal,335
+777,2018,1,ZZ,39102,MASCATE,Presidente,17,PSL,Partido Social Liberal,29
+778,2018,1,ZZ,29700,GENEBRA,Presidente,17,PSL,Partido Social Liberal,1575
+779,2018,1,ZZ,29874,KINSHASA,Presidente,17,PSL,Partido Social Liberal,12
+780,2018,1,ZZ,29971,LONDRES,Presidente,13,PT,Partido dos Trabalhadores,1025
+781,2018,1,ZZ,30740,VARSOVIA,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+782,2018,1,ZZ,29360,BEIRUTE,Presidente,13,PT,Partido dos Trabalhadores,802
+783,2018,1,ZZ,29785,HELSINQUE,Presidente,13,PT,Partido dos Trabalhadores,45
+784,2018,1,ZZ,30074,MANAGUA,Presidente,13,PT,Partido dos Trabalhadores,9
+785,2018,1,ZZ,30422,RIADE,Presidente,13,PT,Partido dos Trabalhadores,9
+786,2018,1,ZZ,30562,SYDNEY,Presidente,13,PT,Partido dos Trabalhadores,153
+787,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,13,PT,Partido dos Trabalhadores,34
+788,2018,1,ZZ,30368,PRAIA,Presidente,13,PT,Partido dos Trabalhadores,18
+789,2018,1,ZZ,30155,MONTREAL,Presidente,15,MDB,Movimento Democratico Brasileiro,18
+790,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,13,PT,Partido dos Trabalhadores,13
+791,2018,1,ZZ,99317,TALIN,Presidente,13,PT,Partido dos Trabalhadores,9
+792,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,13,PT,Partido dos Trabalhadores,134
+793,2018,1,ZZ,30570,TAIPE,Presidente,15,MDB,Movimento Democratico Brasileiro,4
+794,2018,1,ZZ,29548,SINGAPURA-SING,Presidente,17,PSL,Partido Social Liberal,120
+795,2018,1,ZZ,29459,BUDAPESTE,Presidente,17,PSL,Partido Social Liberal,54
+796,2018,1,ZZ,30619,TEL AVIV,Presidente,17,PSL,Partido Social Liberal,352
+797,2018,1,ZZ,30082,MANILA,Presidente,17,PSL,Partido Social Liberal,31
+798,2018,1,ZZ,29840,JACARTA,Presidente,17,PSL,Partido Social Liberal,21
+799,2018,1,ZZ,30163,MOSCOU,Presidente,17,PSL,Partido Social Liberal,18
+800,2018,1,ZZ,29335,ATENAS,Presidente,17,PSL,Partido Social Liberal,239
+801,2018,1,ZZ,29696,FRANKFURT,Presidente,50,PSOL,Partido Socialismo e Liberdade,32
+802,2018,1,ZZ,30627,TOQUIO,Presidente,50,PSOL,Partido Socialismo e Liberdade,47
+803,2018,1,ZZ,30198,NAGOIA,Presidente,50,PSOL,Partido Socialismo e Liberdade,34
+804,2018,1,ZZ,39020,ZAGREB,Presidente,17,PSL,Partido Social Liberal,8
+805,2018,1,ZZ,30201,NAIROBI,Presidente,17,PSL,Partido Social Liberal,10
+806,2018,1,ZZ,30228,NOVA YORK,Presidente,54,PPL,Partido Patria Livre,1
+807,2018,1,ZZ,30562,SYDNEY,Presidente,50,PSOL,Partido Socialismo e Liberdade,18
+808,2018,1,ZZ,30260,PANAMA-PAN,Presidente,50,PSOL,Partido Socialismo e Liberdade,4
+809,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,54,PPL,Partido Patria Livre,1
+810,2018,1,ZZ,30066,MADRI,Presidente,54,PPL,Partido Patria Livre,3
+811,2018,1,ZZ,99287,LUSACA,Presidente,54,PPL,Partido Patria Livre,1
+812,2018,1,ZZ,29661,DUBLIN,Presidente,50,PSOL,Partido Socialismo e Liberdade,22
+813,2018,1,ZZ,30392,QUITO,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+814,2018,1,ZZ,30198,NAGOIA,Presidente,54,PPL,Partido Patria Livre,13
+815,2018,1,ZZ,29661,DUBLIN,Presidente,54,PPL,Partido Patria Livre,2
+816,2018,1,ZZ,30457,ROTTERDA,Presidente,54,PPL,Partido Patria Livre,1
+817,2018,1,ZZ,29971,LONDRES,Presidente,54,PPL,Partido Patria Livre,6
+818,2018,1,ZZ,29327,ASSUNCAO,Presidente,54,PPL,Partido Patria Livre,2
+819,2018,1,ZZ,30147,MONTEVIDEU,Presidente,54,PPL,Partido Patria Livre,3
+820,2018,1,ZZ,30465,SALTO DEL GUAIRA,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+821,2018,1,ZZ,30287,PARIS,Presidente,54,PPL,Partido Patria Livre,3
+822,2018,1,ZZ,29653,DOHA,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+823,2018,1,ZZ,30635,TORONTO,Presidente,54,PPL,Partido Patria Livre,7
+824,2018,1,ZZ,29335,ATENAS,Presidente,54,PPL,Partido Patria Livre,2
+825,2018,1,ZZ,29467,BUENOS AIRES,Presidente,54,PPL,Partido Patria Livre,3
+826,2018,1,ZZ,29475,CAIENA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,6
+827,2018,1,ZZ,30228,NOVA YORK,Presidente,19,PODE,Podemos,75
+828,2018,1,ZZ,30279,PARAMARIBO,Presidente,19,PODE,Podemos,12
+829,2018,1,ZZ,29319,ARTIGAS,Presidente,19,PODE,Podemos,5
+830,2018,1,ZZ,30864,ZURIQUE,Presidente,19,PODE,Podemos,62
+831,2018,1,ZZ,29289,AMA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,6
+832,2018,2,ZZ,29807,HOUSTON,Presidente,17,PSL,Partido Social Liberal,2663
+833,2018,2,ZZ,29696,FRANKFURT,Presidente,17,PSL,Partido Social Liberal,1276
+834,2018,2,ZZ,29254,ABIDJA,Presidente,17,PSL,Partido Social Liberal,10
+835,2018,2,ZZ,30198,NAGOIA,Presidente,17,PSL,Partido Social Liberal,10538
+836,2018,1,ZZ,30147,MONTEVIDEU,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,5
+837,2018,1,ZZ,29289,AMA,Presidente,19,PODE,Podemos,6
+838,2018,1,ZZ,30147,MONTEVIDEU,Presidente,19,PODE,Podemos,13
+839,2018,1,ZZ,29955,LISBOA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,8
+840,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,12,PDT,Partido Democratico Trabalhista,224
+841,2018,1,ZZ,39080,ATLANTA,Presidente,12,PDT,Partido Democratico Trabalhista,261
+842,2018,1,ZZ,29980,LOS ANGELES,Presidente,12,PDT,Partido Democratico Trabalhista,463
+843,2018,1,ZZ,30864,ZURIQUE,Presidente,12,PDT,Partido Democratico Trabalhista,814
+844,2018,1,ZZ,29700,GENEBRA,Presidente,12,PDT,Partido Democratico Trabalhista,541
+845,2018,1,ZZ,29432,BRUXELAS,Presidente,12,PDT,Partido Democratico Trabalhista,367
+846,2018,1,ZZ,30627,TOQUIO,Presidente,12,PDT,Partido Democratico Trabalhista,923
+847,2018,2,ZZ,29530,CIDADE DO CABO,Presidente,17,PSL,Partido Social Liberal,64
+848,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+849,2018,1,ZZ,30562,SYDNEY,Presidente,19,PODE,Podemos,21
+850,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+851,2018,1,ZZ,30066,MADRI,Presidente,19,PODE,Podemos,59
+852,2018,1,ZZ,39322,NICOSIA,Presidente,12,PDT,Partido Democratico Trabalhista,6
+853,2018,1,ZZ,29530,CIDADE DO CABO,Presidente,12,PDT,Partido Democratico Trabalhista,35
+854,2018,1,ZZ,29335,ATENAS,Presidente,19,PODE,Podemos,10
+855,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,12,PDT,Partido Democratico Trabalhista,13
+856,2018,2,ZZ,29645,DILI,Presidente,17,PSL,Partido Social Liberal,27
+857,2018,1,ZZ,30341,PORTO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,14
+858,2018,2,ZZ,30511,SAO JOSE,Presidente,17,PSL,Partido Social Liberal,188
+859,2018,1,ZZ,29408,BOGOTA,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+860,2018,1,ZZ,30155,MONTREAL,Presidente,19,PODE,Podemos,29
+861,2018,1,ZZ,29670,ENCARNACION,Presidente,12,PDT,Partido Democratico Trabalhista,4
+862,2018,1,ZZ,30619,TEL AVIV,Presidente,12,PDT,Partido Democratico Trabalhista,66
+863,2018,2,ZZ,39209,BRATISLAVA,Presidente,17,PSL,Partido Social Liberal,26
+864,2018,2,ZZ,29351,BARCELONA,Presidente,17,PSL,Partido Social Liberal,806
+865,2018,2,ZZ,30481,SANTIAGO,Presidente,17,PSL,Partido Social Liberal,923
+866,2018,2,ZZ,29670,ENCARNACION,Presidente,17,PSL,Partido Social Liberal,93
+867,2018,1,ZZ,29386,BERLIM,Presidente,12,PDT,Partido Democratico Trabalhista,966
+868,2018,2,ZZ,30457,ROTTERDA,Presidente,17,PSL,Partido Social Liberal,900
+869,2018,2,ZZ,29661,DUBLIN,Presidente,17,PSL,Partido Social Liberal,437
+870,2018,2,ZZ,30490,SAO DOMINGOS,Presidente,17,PSL,Partido Social Liberal,167
+871,2018,1,ZZ,29742,HAMAMATSU,Presidente,12,PDT,Partido Democratico Trabalhista,243
+872,2018,1,ZZ,29661,DUBLIN,Presidente,12,PDT,Partido Democratico Trabalhista,369
+873,2018,2,ZZ,29556,CIUDAD DEL ESTE,Presidente,17,PSL,Partido Social Liberal,2196
+874,2018,2,ZZ,30635,TORONTO,Presidente,17,PSL,Partido Social Liberal,3845
+875,2018,2,ZZ,29173,KATMANDU,Presidente,17,PSL,Partido Social Liberal,12
+876,2018,2,ZZ,30074,MANAGUA,Presidente,17,PSL,Partido Social Liberal,36
+877,2018,2,ZZ,29785,HELSINQUE,Presidente,17,PSL,Partido Social Liberal,154
+878,2018,1,ZZ,30562,SYDNEY,Presidente,27,DC,Democracia Crista,2
+879,2018,1,ZZ,29289,AMA,Presidente,50,PSOL,Partido Socialismo e Liberdade,4
+880,2018,1,ZZ,30422,RIADE,Presidente,12,PDT,Partido Democratico Trabalhista,7
+881,2018,1,ZZ,29912,LAGOS,Presidente,27,DC,Democracia Crista,4
+882,2018,1,ZZ,29351,BARCELONA,Presidente,27,DC,Democracia Crista,2
+883,2018,1,ZZ,29386,BERLIM,Presidente,27,DC,Democracia Crista,2
+884,2018,1,ZZ,30481,SANTIAGO,Presidente,27,DC,Democracia Crista,2
+885,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+886,2018,1,ZZ,29998,LUANDA,Presidente,12,PDT,Partido Democratico Trabalhista,18
+887,2018,1,ZZ,30635,TORONTO,Presidente,27,DC,Democracia Crista,3
+888,2018,1,ZZ,29335,ATENAS,Presidente,27,DC,Democracia Crista,1
+889,2018,1,ZZ,30066,MADRI,Presidente,50,PSOL,Partido Socialismo e Liberdade,41
+890,2018,1,ZZ,30481,SANTIAGO,Presidente,50,PSOL,Partido Socialismo e Liberdade,10
+891,2018,1,ZZ,29378,BELGRADO,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+892,2018,1,ZZ,30252,OTTAWA,Presidente,50,PSOL,Partido Socialismo e Liberdade,12
+893,2018,1,ZZ,29904,LA PAZ,Presidente,17,PSL,Partido Social Liberal,119
+894,2018,1,ZZ,30112,MIAMI,Presidente,17,PSL,Partido Social Liberal,9590
+895,2018,1,ZZ,39063,VANCOUVER,Presidente,50,PSOL,Partido Socialismo e Liberdade,19
+896,2018,1,ZZ,29882,KUAITE,Presidente,17,PSL,Partido Social Liberal,24
+897,2018,1,ZZ,30864,ZURIQUE,Presidente,17,PSL,Partido Social Liberal,2396
+898,2018,1,ZZ,29432,BRUXELAS,Presidente,17,PSL,Partido Social Liberal,930
+899,2018,1,ZZ,99430,KINGSTON-JAMAICA,Presidente,17,PSL,Partido Social Liberal,14
+900,2018,1,ZZ,30538,SEUL,Presidente,51,PATRI,Patriota,1
+901,2018,1,ZZ,29432,BRUXELAS,Presidente,51,PATRI,Patriota,21
+902,2018,1,ZZ,29564,CIUDAD GUAYANA,Presidente,17,PSL,Partido Social Liberal,29
+903,2018,1,ZZ,29459,BUDAPESTE,Presidente,51,PATRI,Patriota,1
+904,2018,1,ZZ,30376,PRETORIA,Presidente,50,PSOL,Partido Socialismo e Liberdade,4
+905,2018,1,ZZ,29955,LISBOA,Presidente,17,PSL,Partido Social Liberal,3872
+906,2018,1,ZZ,29360,BEIRUTE,Presidente,51,PATRI,Patriota,21
+907,2018,1,ZZ,30481,SANTIAGO,Presidente,51,PATRI,Patriota,5
+908,2018,1,ZZ,29386,BERLIM,Presidente,51,PATRI,Patriota,11
+909,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,17,PSL,Partido Social Liberal,263
+910,2018,1,ZZ,30481,SANTIAGO,Presidente,17,PSL,Partido Social Liberal,758
+911,2018,1,ZZ,30260,PANAMA-PAN,Presidente,17,PSL,Partido Social Liberal,389
+912,2018,1,ZZ,39063,VANCOUVER,Presidente,51,PATRI,Patriota,1
+913,2018,1,ZZ,30066,MADRI,Presidente,51,PATRI,Patriota,22
+914,2018,2,ZZ,29599,COPENHAGUE-DINA,Presidente,17,PSL,Partido Social Liberal,190
+915,2018,2,ZZ,39102,MASCATE,Presidente,17,PSL,Partido Social Liberal,32
+916,2018,2,ZZ,29980,LOS ANGELES,Presidente,17,PSL,Partido Social Liberal,1846
+917,2018,2,ZZ,29700,GENEBRA,Presidente,17,PSL,Partido Social Liberal,1846
+918,2018,1,ZZ,29580,CONCEPCION,Presidente,17,PSL,Partido Social Liberal,34
+919,2018,1,ZZ,30570,TAIPE,Presidente,51,PATRI,Patriota,8
+920,2018,1,ZZ,30155,MONTREAL,Presidente,17,PSL,Partido Social Liberal,1481
+921,2018,1,ZZ,30287,PARIS,Presidente,51,PATRI,Patriota,10
+922,2018,1,ZZ,30538,SEUL,Presidente,18,REDE,Rede Sustentabilidade,2
+923,2018,1,ZZ,30708,TUNIS,Presidente,18,REDE,Rede Sustentabilidade,1
+924,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,18,REDE,Rede Sustentabilidade,31
+925,2018,2,ZZ,29289,AMA,Presidente,17,PSL,Partido Social Liberal,119
+926,2018,1,ZZ,99317,TALIN,Presidente,17,PSL,Partido Social Liberal,7
+927,2018,2,ZZ,30600,TEGUCIGALPA,Presidente,17,PSL,Partido Social Liberal,52
+928,2018,2,ZZ,29564,CIUDAD GUAYANA,Presidente,17,PSL,Partido Social Liberal,32
+929,2018,1,ZZ,30570,TAIPE,Presidente,17,PSL,Partido Social Liberal,128
+930,2018,1,ZZ,30376,PRETORIA,Presidente,17,PSL,Partido Social Liberal,177
+931,2018,2,ZZ,30120,MILAO,Presidente,17,PSL,Partido Social Liberal,2851
+932,2018,1,ZZ,29327,ASSUNCAO,Presidente,18,REDE,Rede Sustentabilidade,18
+933,2018,1,ZZ,30147,MONTEVIDEU,Presidente,18,REDE,Rede Sustentabilidade,35
+934,2018,2,ZZ,29955,LISBOA,Presidente,17,PSL,Partido Social Liberal,4475
+935,2018,2,ZZ,39063,VANCOUVER,Presidente,17,PSL,Partido Social Liberal,1286
+936,2018,1,ZZ,39322,NICOSIA,Presidente,18,REDE,Rede Sustentabilidade,1
+937,2018,1,ZZ,39004,MENDOZA,Presidente,18,REDE,Rede Sustentabilidade,4
+938,2018,1,ZZ,29360,BEIRUTE,Presidente,18,REDE,Rede Sustentabilidade,23
+939,2018,2,ZZ,30066,MADRI,Presidente,17,PSL,Partido Social Liberal,2109
+940,2018,2,ZZ,29580,CONCEPCION,Presidente,17,PSL,Partido Social Liberal,40
+941,2018,1,ZZ,29912,LAGOS,Presidente,18,REDE,Rede Sustentabilidade,2
+942,2018,1,ZZ,30406,RABAT,Presidente,18,REDE,Rede Sustentabilidade,2
+943,2018,2,ZZ,30740,VARSOVIA,Presidente,17,PSL,Partido Social Liberal,38
+944,2018,2,ZZ,29491,CAMBERRA,Presidente,17,PSL,Partido Social Liberal,539
+945,2018,2,ZZ,30422,RIADE,Presidente,17,PSL,Partido Social Liberal,22
+946,2018,2,ZZ,30210,NOVA DELHI,Presidente,17,PSL,Partido Social Liberal,16
+947,2018,1,ZZ,30961,FARO,Presidente,18,REDE,Rede Sustentabilidade,19
+948,2018,2,ZZ,29858,KIEV,Presidente,17,PSL,Partido Social Liberal,17
+949,2018,2,ZZ,29998,LUANDA,Presidente,17,PSL,Partido Social Liberal,91
+950,2018,1,ZZ,98000,GUATEMALA,Presidente,18,REDE,Rede Sustentabilidade,2
+951,2018,1,ZZ,30228,NOVA YORK,Presidente,51,PATRI,Patriota,30
+952,2018,1,ZZ,30279,PARAMARIBO,Presidente,51,PATRI,Patriota,3
+953,2018,1,ZZ,30627,TOQUIO,Presidente,51,PATRI,Patriota,144
+954,2018,1,ZZ,29475,CAIENA,Presidente,51,PATRI,Patriota,41
+955,2018,1,ZZ,29432,BRUXELAS,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+956,2018,1,ZZ,29548,SINGAPURA-SING,Presidente,51,PATRI,Patriota,1
+957,2018,1,ZZ,30120,MILAO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,11
+958,2018,1,ZZ,30562,SYDNEY,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+959,2018,1,ZZ,30066,MADRI,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,10
+960,2018,1,ZZ,30090,MAPUTO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+961,2018,1,ZZ,30406,RABAT,Presidente,51,PATRI,Patriota,1
+962,2018,1,ZZ,30260,PANAMA-PAN,Presidente,51,PATRI,Patriota,5
+963,2018,1,ZZ,29335,ATENAS,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+964,2018,1,ZZ,39306,ISTAMBUL,Presidente,51,PATRI,Patriota,2
+965,2018,1,ZZ,29785,HELSINQUE,Presidente,51,PATRI,Patriota,1
+966,2018,1,ZZ,30783,WASHINGTON,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+967,2018,1,ZZ,30538,SEUL,Presidente,13,PT,Partido dos Trabalhadores,4
+968,2018,1,ZZ,38962,DAR ES SALAAM,Presidente,13,PT,Partido dos Trabalhadores,5
+969,2018,1,ZZ,29254,ABIDJA,Presidente,13,PT,Partido dos Trabalhadores,14
+970,2018,1,ZZ,30627,TOQUIO,Presidente,13,PT,Partido dos Trabalhadores,344
+971,2018,1,ZZ,29408,BOGOTA,Presidente,27,DC,Democracia Crista,1
+972,2018,1,ZZ,30902,HARTFORD,Presidente,27,DC,Democracia Crista,2
+973,2018,1,ZZ,29530,CIDADE DO CABO,Presidente,13,PT,Partido dos Trabalhadores,13
+974,2018,1,ZZ,29360,BEIRUTE,Presidente,27,DC,Democracia Crista,2
+975,2018,1,ZZ,39160,LIUBLIANA,Presidente,13,PT,Partido dos Trabalhadores,8
+976,2018,1,ZZ,29521,CHUY,Presidente,13,PT,Partido dos Trabalhadores,2
+977,2018,1,ZZ,30260,PANAMA-PAN,Presidente,27,DC,Democracia Crista,2
+978,2018,1,ZZ,30619,TEL AVIV,Presidente,27,DC,Democracia Crista,1
+979,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,27,DC,Democracia Crista,1
+980,2018,1,ZZ,29351,BARCELONA,Presidente,13,PT,Partido dos Trabalhadores,282
+981,2018,1,ZZ,99287,LUSACA,Presidente,13,PT,Partido dos Trabalhadores,3
+982,2018,1,ZZ,30260,PANAMA-PAN,Presidente,13,PT,Partido dos Trabalhadores,29
+983,2018,1,ZZ,29840,JACARTA,Presidente,13,PT,Partido dos Trabalhadores,3
+984,2018,2,ZZ,29904,LA PAZ,Presidente,13,PT,Partido dos Trabalhadores,69
+985,2018,2,ZZ,30708,TUNIS,Presidente,13,PT,Partido dos Trabalhadores,9
+986,2018,2,ZZ,29343,BANGKOK,Presidente,13,PT,Partido dos Trabalhadores,21
+987,2018,2,ZZ,39080,ATLANTA,Presidente,13,PT,Partido dos Trabalhadores,393
+988,2018,2,ZZ,29254,ABIDJA,Presidente,13,PT,Partido dos Trabalhadores,17
+989,2018,2,ZZ,29874,KINSHASA,Presidente,13,PT,Partido dos Trabalhadores,6
+990,2018,1,ZZ,29173,KATMANDU,Presidente,13,PT,Partido dos Trabalhadores,8
+991,2018,1,ZZ,30350,PRAGA,Presidente,13,PT,Partido dos Trabalhadores,27
+992,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,13,PT,Partido dos Trabalhadores,126
+993,2018,1,ZZ,29270,ACCRA-GANA,Presidente,13,PT,Partido dos Trabalhadores,2
+994,2018,1,ZZ,29467,BUENOS AIRES,Presidente,13,PT,Partido dos Trabalhadores,797
+995,2018,2,ZZ,29718,GEORGETOWN,Presidente,13,PT,Partido dos Trabalhadores,8
+996,2018,2,ZZ,39160,LIUBLIANA,Presidente,13,PT,Partido dos Trabalhadores,15
+997,2018,2,ZZ,29610,DACAR,Presidente,13,PT,Partido dos Trabalhadores,24
+998,2018,2,ZZ,29564,CIUDAD GUAYANA,Presidente,13,PT,Partido dos Trabalhadores,4
+999,2018,2,ZZ,29955,LISBOA,Presidente,13,PT,Partido dos Trabalhadores,2473
+1000,2018,1,ZZ,30155,MONTREAL,Presidente,13,PT,Partido dos Trabalhadores,406
+1001,2018,2,ZZ,39004,MENDOZA,Presidente,13,PT,Partido dos Trabalhadores,36
+1002,2018,1,ZZ,30783,WASHINGTON,Presidente,13,PT,Partido dos Trabalhadores,274
+1003,2018,1,ZZ,98000,GUATEMALA,Presidente,13,PT,Partido dos Trabalhadores,12
+1004,2018,2,ZZ,29378,BELGRADO,Presidente,13,PT,Partido dos Trabalhadores,16
+1005,2018,2,ZZ,29840,JACARTA,Presidente,13,PT,Partido dos Trabalhadores,9
+1006,2018,2,ZZ,30481,SANTIAGO,Presidente,13,PT,Partido dos Trabalhadores,431
+1007,2018,2,ZZ,29440,BUCARESTE,Presidente,13,PT,Partido dos Trabalhadores,7
+1008,2018,2,ZZ,30260,PANAMA-PAN,Presidente,13,PT,Partido dos Trabalhadores,90
+1009,2018,2,ZZ,29742,HAMAMATSU,Presidente,13,PT,Partido dos Trabalhadores,399
+1010,2018,2,ZZ,30740,VARSOVIA,Presidente,13,PT,Partido dos Trabalhadores,39
+1011,2018,2,ZZ,29971,LONDRES,Presidente,13,PT,Partido dos Trabalhadores,3268
+1012,2018,2,ZZ,29270,ACCRA-GANA,Presidente,13,PT,Partido dos Trabalhadores,9
+1013,2018,2,ZZ,30201,NAIROBI,Presidente,13,PT,Partido dos Trabalhadores,19
+1014,2018,1,ZZ,29904,LA PAZ,Presidente,18,REDE,Rede Sustentabilidade,11
+1015,2018,1,ZZ,29882,KUAITE,Presidente,18,REDE,Rede Sustentabilidade,1
+1016,2018,1,ZZ,30627,TOQUIO,Presidente,18,REDE,Rede Sustentabilidade,270
+1017,2018,1,ZZ,30198,NAGOIA,Presidente,18,REDE,Rede Sustentabilidade,151
+1018,2018,1,ZZ,30864,ZURIQUE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,172
+1019,2018,1,ZZ,99430,KINGSTON-JAMAICA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+1020,2018,2,ZZ,30155,MONTREAL,Presidente,13,PT,Partido dos Trabalhadores,1759
+1021,2018,2,ZZ,99317,TALIN,Presidente,13,PT,Partido dos Trabalhadores,26
+1022,2018,2,ZZ,30368,PRAIA,Presidente,13,PT,Partido dos Trabalhadores,24
+1023,2018,1,ZZ,30333,PORTO PRINCIPE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+1024,2018,1,ZZ,30228,NOVA YORK,Presidente,15,MDB,Movimento Democratico Brasileiro,51
+1025,2018,1,ZZ,30120,MILAO,Presidente,18,REDE,Rede Sustentabilidade,144
+1026,2018,1,ZZ,30619,TEL AVIV,Presidente,18,REDE,Rede Sustentabilidade,13
+1027,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,17
+1028,2018,1,ZZ,29262,ABU DHABI,Presidente,54,PPL,Partido Patria Livre,2
+1029,2018,1,ZZ,29491,CAMBERRA,Presidente,18,REDE,Rede Sustentabilidade,36
+1030,2018,1,ZZ,30562,SYDNEY,Presidente,15,MDB,Movimento Democratico Brasileiro,10
+1031,2018,1,ZZ,30562,SYDNEY,Presidente,54,PPL,Partido Patria Livre,2
+1032,2018,1,ZZ,30392,QUITO,Presidente,18,REDE,Rede Sustentabilidade,1
+1033,2018,1,ZZ,29670,ENCARNACION,Presidente,45,PSDB,Partido da Social Democracia Brasileira,4
+1034,2018,1,ZZ,29580,CONCEPCION,Presidente,45,PSDB,Partido da Social Democracia Brasileira,3
+1035,2018,1,ZZ,29416,BOSTON,Presidente,45,PSDB,Partido da Social Democracia Brasileira,182
+1036,2018,1,ZZ,29351,BARCELONA,Presidente,54,PPL,Partido Patria Livre,1
+1037,2018,1,ZZ,30740,VARSOVIA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,5
+1038,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,45,PSDB,Partido da Social Democracia Brasileira,6
+1039,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,54,PPL,Partido Patria Livre,1
+1040,2018,1,ZZ,30767,VIENA,Presidente,18,REDE,Rede Sustentabilidade,56
+1041,2018,1,ZZ,30570,TAIPE,Presidente,18,REDE,Rede Sustentabilidade,15
+1042,2018,1,ZZ,30376,PRETORIA,Presidente,18,REDE,Rede Sustentabilidade,7
+1043,2018,1,ZZ,29297,ANCARA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+1044,2018,1,ZZ,29386,BERLIM,Presidente,15,MDB,Movimento Democratico Brasileiro,15
+1045,2018,1,ZZ,30260,PANAMA-PAN,Presidente,15,MDB,Movimento Democratico Brasileiro,4
+1046,2018,1,ZZ,39306,ISTAMBUL,Presidente,54,PPL,Partido Patria Livre,1
+1047,2018,1,ZZ,30767,VIENA,Presidente,54,PPL,Partido Patria Livre,1
+1048,2018,1,ZZ,30767,VIENA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,42
+1049,2018,1,ZZ,29416,BOSTON,Presidente,15,MDB,Movimento Democratico Brasileiro,41
+1050,2018,1,ZZ,30570,TAIPE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,23
+1051,2018,1,ZZ,29467,BUENOS AIRES,Presidente,15,MDB,Movimento Democratico Brasileiro,20
+1052,2018,1,ZZ,30368,PRAIA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+1053,2018,1,ZZ,99317,TALIN,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1054,2018,1,ZZ,30465,SALTO DEL GUAIRA,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1055,2018,1,ZZ,29807,HOUSTON,Presidente,18,REDE,Rede Sustentabilidade,38
+1056,2018,1,ZZ,29980,LOS ANGELES,Presidente,18,REDE,Rede Sustentabilidade,64
+1057,2018,1,ZZ,29475,CAIENA,Presidente,18,REDE,Rede Sustentabilidade,73
+1058,2018,1,ZZ,29564,CIUDAD GUAYANA,Presidente,18,REDE,Rede Sustentabilidade,1
+1059,2018,1,ZZ,29262,ABU DHABI,Presidente,18,REDE,Rede Sustentabilidade,10
+1060,2018,1,ZZ,30708,TUNIS,Presidente,30,NOVO,Partido Novo,1
+1061,2018,1,ZZ,29343,BANGKOK,Presidente,30,NOVO,Partido Novo,1
+1062,2018,1,ZZ,30902,HARTFORD,Presidente,30,NOVO,Partido Novo,67
+1063,2018,1,ZZ,29947,LIMA,Presidente,30,NOVO,Partido Novo,45
+1064,2018,1,ZZ,29505,CARACAS,Presidente,30,NOVO,Partido Novo,13
+1065,2018,1,ZZ,29874,KINSHASA,Presidente,30,NOVO,Partido Novo,2
+1066,2018,1,ZZ,30228,NOVA YORK,Presidente,13,PT,Partido dos Trabalhadores,660
+1067,2018,1,ZZ,30279,PARAMARIBO,Presidente,13,PT,Partido dos Trabalhadores,64
+1068,2018,1,ZZ,30902,HARTFORD,Presidente,13,PT,Partido dos Trabalhadores,61
+1069,2018,1,ZZ,30848,XANGAI,Presidente,13,PT,Partido dos Trabalhadores,7
+1070,2018,1,ZZ,29432,BRUXELAS,Presidente,13,PT,Partido dos Trabalhadores,256
+1071,2018,1,ZZ,30848,XANGAI,Presidente,30,NOVO,Partido Novo,17
+1072,2018,1,ZZ,30198,NAGOIA,Presidente,30,NOVO,Partido Novo,485
+1073,2018,1,ZZ,30244,OSLO,Presidente,18,REDE,Rede Sustentabilidade,35
+1074,2018,1,ZZ,39063,VANCOUVER,Presidente,18,REDE,Rede Sustentabilidade,45
+1075,2018,1,ZZ,29718,GEORGETOWN,Presidente,13,PT,Partido dos Trabalhadores,10
+1076,2018,1,ZZ,30350,PRAGA,Presidente,18,REDE,Rede Sustentabilidade,11
+1077,2018,1,ZZ,99180,NASSAU,Presidente,18,REDE,Rede Sustentabilidade,3
+1078,2018,1,ZZ,29742,HAMAMATSU,Presidente,18,REDE,Rede Sustentabilidade,78
+1079,2018,1,ZZ,29289,AMA,Presidente,30,NOVO,Partido Novo,9
+1080,2018,1,ZZ,29548,SINGAPURA-SING,Presidente,30,NOVO,Partido Novo,59
+1081,2018,1,ZZ,29610,DACAR,Presidente,30,NOVO,Partido Novo,2
+1082,2018,1,ZZ,39004,MENDOZA,Presidente,30,NOVO,Partido Novo,5
+1083,2018,1,ZZ,30635,TORONTO,Presidente,18,REDE,Rede Sustentabilidade,139
+1084,2018,1,ZZ,30120,MILAO,Presidente,30,NOVO,Partido Novo,197
+1085,2018,1,ZZ,39020,ZAGREB,Presidente,18,REDE,Rede Sustentabilidade,1
+1086,2018,1,ZZ,29386,BERLIM,Presidente,13,PT,Partido dos Trabalhadores,558
+1087,2018,1,ZZ,39209,BRATISLAVA,Presidente,30,NOVO,Partido Novo,9
+1088,2018,1,ZZ,30619,TEL AVIV,Presidente,30,NOVO,Partido Novo,23
+1089,2018,1,ZZ,29386,BERLIM,Presidente,30,NOVO,Partido Novo,224
+1090,2018,1,ZZ,30481,SANTIAGO,Presidente,30,NOVO,Partido Novo,121
+1091,2018,1,ZZ,30511,SAO JOSE,Presidente,30,NOVO,Partido Novo,30
+1092,2018,1,ZZ,29440,BUCARESTE,Presidente,30,NOVO,Partido Novo,2
+1093,2018,1,ZZ,30066,MADRI,Presidente,13,PT,Partido dos Trabalhadores,555
+1094,2018,1,ZZ,30597,TEERA,Presidente,30,NOVO,Partido Novo,2
+1095,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,18,REDE,Rede Sustentabilidade,17
+1096,2018,1,ZZ,29998,LUANDA,Presidente,18,REDE,Rede Sustentabilidade,7
+1097,2018,1,ZZ,30740,VARSOVIA,Presidente,30,NOVO,Partido Novo,17
+1098,2018,1,ZZ,99180,NASSAU,Presidente,30,NOVO,Partido Novo,5
+1099,2018,1,ZZ,30821,WINDHOEK,Presidente,30,NOVO,Partido Novo,2
+1100,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,30,NOVO,Partido Novo,23
+1101,2018,1,ZZ,30457,ROTTERDA,Presidente,30,NOVO,Partido Novo,254
+1102,2018,1,ZZ,30163,MOSCOU,Presidente,30,NOVO,Partido Novo,2
+1103,2018,1,ZZ,30805,WELLINGTON,Presidente,30,NOVO,Partido Novo,46
+1104,2018,1,ZZ,29297,ANCARA,Presidente,30,NOVO,Partido Novo,2
+1105,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,13,PT,Partido dos Trabalhadores,37
+1106,2018,1,ZZ,29491,CAMBERRA,Presidente,13,PT,Partido dos Trabalhadores,69
+1107,2018,1,ZZ,29971,LONDRES,Presidente,30,NOVO,Partido Novo,853
+1108,2018,1,ZZ,30341,PORTO,Presidente,30,NOVO,Partido Novo,216
+1109,2018,1,ZZ,30422,RIADE,Presidente,30,NOVO,Partido Novo,1
+1110,2018,1,ZZ,30341,PORTO,Presidente,13,PT,Partido dos Trabalhadores,609
+1111,2018,1,ZZ,30465,SALTO DEL GUAIRA,Presidente,30,NOVO,Partido Novo,1
+1112,2018,1,ZZ,30783,WASHINGTON,Presidente,30,NOVO,Partido Novo,358
+1113,2018,1,ZZ,98000,GUATEMALA,Presidente,30,NOVO,Partido Novo,5
+1114,2018,1,ZZ,30465,SALTO DEL GUAIRA,Presidente,13,PT,Partido dos Trabalhadores,12
+1115,2018,1,ZZ,30287,PARIS,Presidente,30,NOVO,Partido Novo,313
+1116,2018,1,ZZ,30376,PRETORIA,Presidente,13,PT,Partido dos Trabalhadores,7
+1117,2018,1,ZZ,29858,KIEV,Presidente,13,PT,Partido dos Trabalhadores,3
+1118,2018,1,ZZ,29572,COCHABAMBA,Presidente,54,PPL,Partido Patria Livre,1
+1119,2018,1,ZZ,30279,PARAMARIBO,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+1120,2018,1,ZZ,39080,ATLANTA,Presidente,50,PSOL,Partido Socialismo e Liberdade,5
+1121,2018,1,ZZ,29360,BEIRUTE,Presidente,54,PPL,Partido Patria Livre,3
+1122,2018,1,ZZ,30180,MUNIQUE,Presidente,54,PPL,Partido Patria Livre,9
+1123,2018,2,ZZ,30198,NAGOIA,Presidente,13,PT,Partido dos Trabalhadores,912
+1124,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,54,PPL,Partido Patria Livre,3
+1125,2018,1,ZZ,29670,ENCARNACION,Presidente,54,PPL,Partido Patria Livre,1
+1126,2018,1,ZZ,30147,MONTEVIDEU,Presidente,50,PSOL,Partido Socialismo e Liberdade,5
+1127,2018,2,ZZ,30147,MONTEVIDEU,Presidente,13,PT,Partido dos Trabalhadores,453
+1128,2018,2,ZZ,29459,BUDAPESTE,Presidente,13,PT,Partido dos Trabalhadores,54
+1129,2018,2,ZZ,29645,DILI,Presidente,13,PT,Partido dos Trabalhadores,11
+1130,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,50,PSOL,Partido Socialismo e Liberdade,26
+1131,2018,2,ZZ,30562,SYDNEY,Presidente,13,PT,Partido dos Trabalhadores,718
+1132,2018,2,ZZ,29521,CHUY,Presidente,13,PT,Partido dos Trabalhadores,4
+1133,2018,2,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,13,PT,Partido dos Trabalhadores,62
+1134,2018,1,ZZ,29491,CAMBERRA,Presidente,50,PSOL,Partido Socialismo e Liberdade,7
+1135,2018,2,ZZ,30449,ROMA,Presidente,13,PT,Partido dos Trabalhadores,1296
+1136,2018,1,ZZ,39306,ISTAMBUL,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+1137,2018,1,ZZ,30341,PORTO,Presidente,50,PSOL,Partido Socialismo e Liberdade,37
+1138,2018,1,ZZ,30210,NOVA DELHI,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+1139,2018,1,ZZ,29971,LONDRES,Presidente,50,PSOL,Partido Socialismo e Liberdade,84
+1140,2018,1,ZZ,30767,VIENA,Presidente,50,PSOL,Partido Socialismo e Liberdade,16
+1141,2018,1,ZZ,29408,BOGOTA,Presidente,13,PT,Partido dos Trabalhadores,52
+1142,2018,1,ZZ,29777,HAVANA,Presidente,13,PT,Partido dos Trabalhadores,13
+1143,2018,1,ZZ,39080,ATLANTA,Presidente,13,PT,Partido dos Trabalhadores,133
+1144,2018,1,ZZ,30112,MIAMI,Presidente,13,PT,Partido dos Trabalhadores,344
+1145,2018,1,ZZ,29874,KINSHASA,Presidente,13,PT,Partido dos Trabalhadores,4
+1146,2018,1,ZZ,29807,HOUSTON,Presidente,45,PSDB,Partido da Social Democracia Brasileira,126
+1147,2018,2,ZZ,30767,VIENA,Presidente,13,PT,Partido dos Trabalhadores,466
+1148,2018,2,ZZ,30287,PARIS,Presidente,13,PT,Partido dos Trabalhadores,2953
+1149,2018,2,ZZ,30570,TAIPE,Presidente,13,PT,Partido dos Trabalhadores,38
+1150,2018,2,ZZ,29858,KIEV,Presidente,13,PT,Partido dos Trabalhadores,7
+1151,2018,1,ZZ,29548,SINGAPURA-SING,Presidente,13,PT,Partido dos Trabalhadores,6
+1152,2018,1,ZZ,29572,COCHABAMBA,Presidente,13,PT,Partido dos Trabalhadores,14
+1153,2018,1,ZZ,29394,BISSAU,Presidente,13,PT,Partido dos Trabalhadores,11
+1154,2018,1,ZZ,29610,DACAR,Presidente,13,PT,Partido dos Trabalhadores,18
+1155,2018,1,ZZ,29327,ASSUNCAO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,44
+1156,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,13,PT,Partido dos Trabalhadores,6
+1157,2018,1,ZZ,29262,ABU DHABI,Presidente,13,PT,Partido dos Trabalhadores,46
+1158,2018,1,ZZ,29564,CIUDAD GUAYANA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,5
+1159,2018,2,ZZ,30708,TUNIS,Presidente,17,PSL,Partido Social Liberal,14
+1160,2018,2,ZZ,30228,NOVA YORK,Presidente,17,PSL,Partido Social Liberal,6811
+1161,2018,2,ZZ,29319,ARTIGAS,Presidente,17,PSL,Partido Social Liberal,319
+1162,2018,2,ZZ,38962,DAR ES SALAAM,Presidente,17,PSL,Partido Social Liberal,6
+1163,2018,2,ZZ,39080,ATLANTA,Presidente,17,PSL,Partido Social Liberal,2906
+1164,2018,2,ZZ,30112,MIAMI,Presidente,17,PSL,Partido Social Liberal,10441
+1165,2018,2,ZZ,30864,ZURIQUE,Presidente,17,PSL,Partido Social Liberal,2948
+1166,2018,1,ZZ,29807,HOUSTON,Presidente,15,MDB,Movimento Democratico Brasileiro,14
+1167,2018,1,ZZ,30279,PARAMARIBO,Presidente,15,MDB,Movimento Democratico Brasileiro,10
+1168,2018,1,ZZ,39080,ATLANTA,Presidente,15,MDB,Movimento Democratico Brasileiro,17
+1169,2018,1,ZZ,39102,MASCATE,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1170,2018,1,ZZ,29475,CAIENA,Presidente,15,MDB,Movimento Democratico Brasileiro,18
+1171,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,13,PT,Partido dos Trabalhadores,481
+1172,2018,1,ZZ,39004,MENDOZA,Presidente,13,PT,Partido dos Trabalhadores,18
+1173,2018,1,ZZ,29912,LAGOS,Presidente,45,PSDB,Partido da Social Democracia Brasileira,4
+1174,2018,1,ZZ,30090,MAPUTO,Presidente,13,PT,Partido dos Trabalhadores,51
+1175,2018,2,ZZ,30333,PORTO PRINCIPE,Presidente,17,PSL,Partido Social Liberal,17
+1176,2018,2,ZZ,29262,ABU DHABI,Presidente,17,PSL,Partido Social Liberal,539
+1177,2018,1,ZZ,39306,ISTAMBUL,Presidente,13,PT,Partido dos Trabalhadores,10
+1178,2018,1,ZZ,30635,TORONTO,Presidente,13,PT,Partido dos Trabalhadores,415
+1179,2018,1,ZZ,29262,ABU DHABI,Presidente,15,MDB,Movimento Democratico Brasileiro,4
+1180,2018,2,ZZ,39322,NICOSIA,Presidente,17,PSL,Partido Social Liberal,13
+1181,2018,2,ZZ,39004,MENDOZA,Presidente,17,PSL,Partido Social Liberal,68
+1182,2018,1,ZZ,99180,NASSAU,Presidente,13,PT,Partido dos Trabalhadores,1
+1183,2018,1,ZZ,30740,VARSOVIA,Presidente,13,PT,Partido dos Trabalhadores,9
+1184,2018,1,ZZ,30210,NOVA DELHI,Presidente,13,PT,Partido dos Trabalhadores,8
+1185,2018,1,ZZ,30635,TORONTO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,159
+1186,2018,1,ZZ,30163,MOSCOU,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+1187,2018,1,ZZ,30392,QUITO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,14
+1188,2018,1,ZZ,29351,BARCELONA,Presidente,15,MDB,Movimento Democratico Brasileiro,10
+1189,2018,2,ZZ,29386,BERLIM,Presidente,17,PSL,Partido Social Liberal,768
+1190,2018,1,ZZ,30287,PARIS,Presidente,13,PT,Partido dos Trabalhadores,1155
+1191,2018,2,ZZ,30090,MAPUTO,Presidente,17,PSL,Partido Social Liberal,179
+1192,2018,2,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,17,PSL,Partido Social Liberal,184
+1193,2018,2,ZZ,30449,ROMA,Presidente,17,PSL,Partido Social Liberal,1755
+1194,2018,2,ZZ,99287,LUSACA,Presidente,17,PSL,Partido Social Liberal,15
+1195,2018,1,ZZ,29653,DOHA,Presidente,13,PT,Partido dos Trabalhadores,17
+1196,2018,1,ZZ,30570,TAIPE,Presidente,13,PT,Partido dos Trabalhadores,9
+1197,2018,1,ZZ,30961,FARO,Presidente,15,MDB,Movimento Democratico Brasileiro,3
+1198,2018,1,ZZ,29513,CHICAGO,Presidente,15,MDB,Movimento Democratico Brasileiro,13
+1199,2018,2,ZZ,29513,CHICAGO,Presidente,17,PSL,Partido Social Liberal,1216
+1200,2018,1,ZZ,99317,TALIN,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+1201,2018,1,ZZ,30805,WELLINGTON,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1202,2018,2,ZZ,29416,BOSTON,Presidente,17,PSL,Partido Social Liberal,11786
+1203,2018,2,ZZ,30520,SAO SALVADOR,Presidente,17,PSL,Partido Social Liberal,60
+1204,2018,1,ZZ,29785,HELSINQUE,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1205,2018,2,ZZ,30341,PORTO,Presidente,17,PSL,Partido Social Liberal,3151
+1206,2018,1,ZZ,30538,SEUL,Presidente,12,PDT,Partido Democratico Trabalhista,21
+1207,2018,1,ZZ,29343,BANGKOK,Presidente,12,PDT,Partido Democratico Trabalhista,10
+1208,2018,1,ZZ,29947,LIMA,Presidente,12,PDT,Partido Democratico Trabalhista,91
+1209,2018,1,ZZ,30848,XANGAI,Presidente,12,PDT,Partido Democratico Trabalhista,16
+1210,2018,1,ZZ,29874,KINSHASA,Presidente,12,PDT,Partido Democratico Trabalhista,1
+1211,2018,1,ZZ,98000,GUATEMALA,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1212,2018,2,ZZ,30325,PORT OF SPAIN,Presidente,17,PSL,Partido Social Liberal,27
+1213,2018,2,ZZ,30287,PARIS,Presidente,17,PSL,Partido Social Liberal,1299
+1214,2018,2,ZZ,29653,DOHA,Presidente,17,PSL,Partido Social Liberal,160
+1215,2018,1,ZZ,30201,NAIROBI,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1216,2018,1,ZZ,30783,WASHINGTON,Presidente,15,MDB,Movimento Democratico Brasileiro,27
+1217,2018,1,ZZ,29955,LISBOA,Presidente,12,PDT,Partido Democratico Trabalhista,1168
+1218,2018,1,ZZ,39004,MENDOZA,Presidente,12,PDT,Partido Democratico Trabalhista,16
+1219,2018,1,ZZ,30112,MIAMI,Presidente,51,PATRI,Patriota,27
+1220,2018,1,ZZ,29807,HOUSTON,Presidente,54,PPL,Partido Patria Livre,3
+1221,2018,1,ZZ,30864,ZURIQUE,Presidente,54,PPL,Partido Patria Livre,1
+1222,2018,1,ZZ,29750,HANOI,Presidente,12,PDT,Partido Democratico Trabalhista,9
+1223,2018,1,ZZ,30490,SAO DOMINGOS,Presidente,12,PDT,Partido Democratico Trabalhista,19
+1224,2018,1,ZZ,29335,ATENAS,Presidente,12,PDT,Partido Democratico Trabalhista,49
+1225,2018,1,ZZ,30147,MONTEVIDEU,Presidente,51,PATRI,Patriota,5
+1226,2018,1,ZZ,29530,CIDADE DO CABO,Presidente,51,PATRI,Patriota,2
+1227,2018,1,ZZ,29912,LAGOS,Presidente,51,PATRI,Patriota,2
+1228,2018,1,ZZ,30619,TEL AVIV,Presidente,51,PATRI,Patriota,1
+1229,2018,1,ZZ,29351,BARCELONA,Presidente,51,PATRI,Patriota,7
+1230,2018,1,ZZ,29785,HELSINQUE,Presidente,12,PDT,Partido Democratico Trabalhista,104
+1231,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,12,PDT,Partido Democratico Trabalhista,167
+1232,2018,1,ZZ,29491,CAMBERRA,Presidente,51,PATRI,Patriota,3
+1233,2018,1,ZZ,30481,SANTIAGO,Presidente,54,PPL,Partido Patria Livre,1
+1234,2018,1,ZZ,29386,BERLIM,Presidente,54,PPL,Partido Patria Livre,2
+1235,2018,1,ZZ,30805,WELLINGTON,Presidente,54,PPL,Partido Patria Livre,1
+1236,2018,1,ZZ,29653,DOHA,Presidente,12,PDT,Partido Democratico Trabalhista,7
+1237,2018,1,ZZ,29742,HAMAMATSU,Presidente,51,PATRI,Patriota,16
+1238,2018,1,ZZ,29513,CHICAGO,Presidente,51,PATRI,Patriota,8
+1239,2018,1,ZZ,29742,HAMAMATSU,Presidente,54,PPL,Partido Patria Livre,7
+1240,2018,1,ZZ,30341,PORTO,Presidente,51,PATRI,Patriota,34
+1241,2018,1,ZZ,29408,BOGOTA,Presidente,17,PSL,Partido Social Liberal,225
+1242,2018,1,ZZ,30228,NOVA YORK,Presidente,17,PSL,Partido Social Liberal,5951
+1243,2018,1,ZZ,29777,HAVANA,Presidente,17,PSL,Partido Social Liberal,5
+1244,2018,1,ZZ,29947,LIMA,Presidente,17,PSL,Partido Social Liberal,324
+1245,2018,1,ZZ,29505,CARACAS,Presidente,17,PSL,Partido Social Liberal,304
+1246,2018,1,ZZ,29653,DOHA,Presidente,51,PATRI,Patriota,2
+1247,2018,1,ZZ,30538,SEUL,Presidente,30,NOVO,Partido Novo,9
+1248,2018,1,ZZ,30228,NOVA YORK,Presidente,30,NOVO,Partido Novo,640
+1249,2018,1,ZZ,29319,ARTIGAS,Presidente,30,NOVO,Partido Novo,6
+1250,2018,1,ZZ,39102,MASCATE,Presidente,30,NOVO,Partido Novo,5
+1251,2018,1,ZZ,29700,GENEBRA,Presidente,30,NOVO,Partido Novo,245
+1252,2018,1,ZZ,29289,AMA,Presidente,17,PSL,Partido Social Liberal,99
+1253,2018,1,ZZ,30333,PORTO PRINCIPE,Presidente,17,PSL,Partido Social Liberal,17
+1254,2018,1,ZZ,30651,CANTAO,Presidente,17,PSL,Partido Social Liberal,67
+1255,2018,1,ZZ,30406,RABAT,Presidente,17,PSL,Partido Social Liberal,8
+1256,2018,1,ZZ,39004,MENDOZA,Presidente,17,PSL,Partido Social Liberal,57
+1257,2018,1,ZZ,29645,DILI,Presidente,17,PSL,Partido Social Liberal,26
+1258,2018,1,ZZ,29890,KUALA LUMPUR,Presidente,17,PSL,Partido Social Liberal,32
+1259,2018,1,ZZ,29483,CAIRO,Presidente,30,NOVO,Partido Novo,2
+1260,2018,1,ZZ,29360,BEIRUTE,Presidente,30,NOVO,Partido Novo,68
+1261,2018,1,ZZ,29955,LISBOA,Presidente,30,NOVO,Partido Novo,329
+1262,2018,1,ZZ,29807,HOUSTON,Presidente,19,PODE,Podemos,18
+1263,2018,1,ZZ,29475,CAIENA,Presidente,19,PODE,Podemos,27
+1264,2018,1,ZZ,29416,BOSTON,Presidente,17,PSL,Partido Social Liberal,10667
+1265,2018,1,ZZ,29602,CORDOBA,Presidente,17,PSL,Partido Social Liberal,122
+1266,2018,1,ZZ,30082,MANILA,Presidente,30,NOVO,Partido Novo,5
+1267,2018,1,ZZ,30767,VIENA,Presidente,17,PSL,Partido Social Liberal,277
+1268,2018,1,ZZ,99287,LUSACA,Presidente,30,NOVO,Partido Novo,1
+1269,2018,1,ZZ,29661,DUBLIN,Presidente,30,NOVO,Partido Novo,145
+1270,2018,1,ZZ,29416,BOSTON,Presidente,30,NOVO,Partido Novo,470
+1271,2018,1,ZZ,30422,RIADE,Presidente,17,PSL,Partido Social Liberal,15
+1272,2018,1,ZZ,29904,LA PAZ,Presidente,45,PSDB,Partido da Social Democracia Brasileira,14
+1273,2018,1,ZZ,38962,DAR ES SALAAM,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+1274,2018,1,ZZ,29947,LIMA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,33
+1275,2018,1,ZZ,29254,ABIDJA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+1276,2018,1,ZZ,29700,GENEBRA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,109
+1277,2018,1,ZZ,30627,TOQUIO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,738
+1278,2018,1,ZZ,29513,CHICAGO,Presidente,30,NOVO,Partido Novo,253
+1279,2018,1,ZZ,29548,SINGAPURA-SING,Presidente,19,PODE,Podemos,2
+1280,2018,1,ZZ,29653,DOHA,Presidente,17,PSL,Partido Social Liberal,165
+1281,2018,1,ZZ,30597,TEERA,Presidente,19,PODE,Podemos,1
+1282,2018,1,ZZ,29530,CIDADE DO CABO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,4
+1283,2018,1,ZZ,30201,NAIROBI,Presidente,30,NOVO,Partido Novo,1
+1284,2018,1,ZZ,39322,NICOSIA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+1285,2018,1,ZZ,29572,COCHABAMBA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,7
+1286,2018,1,ZZ,29360,BEIRUTE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,130
+1287,2018,1,ZZ,30392,QUITO,Presidente,19,PODE,Podemos,7
+1288,2018,1,ZZ,30120,MILAO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,119
+1289,2018,1,ZZ,29351,BARCELONA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,52
+1290,2018,1,ZZ,29858,KIEV,Presidente,19,PODE,Podemos,1
+1291,2018,1,ZZ,29904,LA PAZ,Presidente,12,PDT,Partido Democratico Trabalhista,48
+1292,2018,1,ZZ,30902,HARTFORD,Presidente,12,PDT,Partido Democratico Trabalhista,102
+1293,2018,1,ZZ,99430,KINGSTON-JAMAICA,Presidente,12,PDT,Partido Democratico Trabalhista,2
+1294,2018,1,ZZ,30198,NAGOIA,Presidente,12,PDT,Partido Democratico Trabalhista,579
+1295,2018,1,ZZ,29386,BERLIM,Presidente,45,PSDB,Partido da Social Democracia Brasileira,73
+1296,2018,1,ZZ,39209,BRATISLAVA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,2
+1297,2018,1,ZZ,30252,OTTAWA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,26
+1298,2018,1,ZZ,29807,HOUSTON,Presidente,12,PDT,Partido Democratico Trabalhista,420
+1299,2018,1,ZZ,29408,BOGOTA,Presidente,12,PDT,Partido Democratico Trabalhista,105
+1300,2018,1,ZZ,29696,FRANKFURT,Presidente,12,PDT,Partido Democratico Trabalhista,570
+1301,2018,1,ZZ,30228,NOVA YORK,Presidente,12,PDT,Partido Democratico Trabalhista,1306
+1302,2018,1,ZZ,30112,MIAMI,Presidente,12,PDT,Partido Democratico Trabalhista,714
+1303,2018,1,ZZ,30090,MAPUTO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,7
+1304,2018,1,ZZ,30481,SANTIAGO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,83
+1305,2018,1,ZZ,30457,ROTTERDA,Presidente,45,PSDB,Partido da Social Democracia Brasileira,60
+1306,2018,1,ZZ,29335,ATENAS,Presidente,45,PSDB,Partido da Social Democracia Brasileira,16
+1307,2018,1,ZZ,30520,SAO SALVADOR,Presidente,45,PSDB,Partido da Social Democracia Brasileira,1
+1308,2018,1,ZZ,29394,BISSAU,Presidente,12,PDT,Partido Democratico Trabalhista,1
+1309,2018,1,ZZ,29483,CAIRO,Presidente,12,PDT,Partido Democratico Trabalhista,19
+1310,2018,1,ZZ,30961,FARO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,13
+1311,2018,1,ZZ,29785,HELSINQUE,Presidente,45,PSDB,Partido da Social Democracia Brasileira,13
+1312,2018,1,ZZ,30120,MILAO,Presidente,12,PDT,Partido Democratico Trabalhista,690
+1313,2018,1,ZZ,29440,BUCARESTE,Presidente,12,PDT,Partido Democratico Trabalhista,4
+1314,2018,1,ZZ,29548,SINGAPURA-SING,Presidente,12,PDT,Partido Democratico Trabalhista,50
+1315,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,12,PDT,Partido Democratico Trabalhista,683
+1316,2018,1,ZZ,29947,LIMA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+1317,2018,1,ZZ,30112,MIAMI,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+1318,2018,1,ZZ,30864,ZURIQUE,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,12
+1319,2018,1,ZZ,29505,CARACAS,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+1320,2018,1,ZZ,30287,PARIS,Presidente,45,PSDB,Partido da Social Democracia Brasileira,166
+1321,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,12,PDT,Partido Democratico Trabalhista,94
+1322,2018,1,ZZ,29521,CHUY,Presidente,12,PDT,Partido Democratico Trabalhista,1
+1323,2018,1,ZZ,30597,TEERA,Presidente,12,PDT,Partido Democratico Trabalhista,3
+1324,2018,1,ZZ,99180,NASSAU,Presidente,12,PDT,Partido Democratico Trabalhista,1
+1325,2018,1,ZZ,29513,CHICAGO,Presidente,12,PDT,Partido Democratico Trabalhista,294
+1326,2018,1,ZZ,39306,ISTAMBUL,Presidente,12,PDT,Partido Democratico Trabalhista,19
+1327,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,12,PDT,Partido Democratico Trabalhista,63
+1328,2018,1,ZZ,30481,SANTIAGO,Presidente,12,PDT,Partido Democratico Trabalhista,237
+1329,2018,1,ZZ,29890,KUALA LUMPUR,Presidente,12,PDT,Partido Democratico Trabalhista,13
+1330,2018,1,ZZ,30805,WELLINGTON,Presidente,12,PDT,Partido Democratico Trabalhista,89
+1331,2018,1,ZZ,30961,FARO,Presidente,12,PDT,Partido Democratico Trabalhista,96
+1332,2018,1,ZZ,29491,CAMBERRA,Presidente,12,PDT,Partido Democratico Trabalhista,147
+1333,2018,1,ZZ,30201,NAIROBI,Presidente,12,PDT,Partido Democratico Trabalhista,4
+1334,2018,1,ZZ,30511,SAO JOSE,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+1335,2018,1,ZZ,39020,ZAGREB,Presidente,12,PDT,Partido Democratico Trabalhista,4
+1336,2018,1,ZZ,29513,CHICAGO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,1
+1337,2018,1,ZZ,99317,TALIN,Presidente,12,PDT,Partido Democratico Trabalhista,11
+1338,2018,1,ZZ,29807,HOUSTON,Presidente,17,PSL,Partido Social Liberal,2290
+1339,2018,1,ZZ,29319,ARTIGAS,Presidente,17,PSL,Partido Social Liberal,252
+1340,2018,1,ZZ,29343,BANGKOK,Presidente,17,PSL,Partido Social Liberal,48
+1341,2018,1,ZZ,38962,DAR ES SALAAM,Presidente,17,PSL,Partido Social Liberal,6
+1342,2018,1,ZZ,30767,VIENA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+1343,2018,1,ZZ,29262,ABU DHABI,Presidente,17,PSL,Partido Social Liberal,485
+1344,2018,1,ZZ,29696,FRANKFURT,Presidente,45,PSDB,Partido da Social Democracia Brasileira,106
+1345,2018,1,ZZ,30848,XANGAI,Presidente,27,DC,Democracia Crista,2
+1346,2018,1,ZZ,30279,PARAMARIBO,Presidente,45,PSDB,Partido da Social Democracia Brasileira,16
+1347,2018,1,ZZ,29432,BRUXELAS,Presidente,45,PSDB,Partido da Social Democracia Brasileira,54
+1348,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,17,PSL,Partido Social Liberal,32
+1349,2018,1,ZZ,29289,AMA,Presidente,27,DC,Democracia Crista,1
+1350,2018,1,ZZ,30252,OTTAWA,Presidente,17,PSL,Partido Social Liberal,299
+1351,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,17,PSL,Partido Social Liberal,194
+1352,2018,1,ZZ,29750,HANOI,Presidente,17,PSL,Partido Social Liberal,4
+1353,2018,1,ZZ,30180,MUNIQUE,Presidente,27,DC,Democracia Crista,4
+1354,2018,1,ZZ,30090,MAPUTO,Presidente,27,DC,Democracia Crista,2
+1355,2018,1,ZZ,39063,VANCOUVER,Presidente,27,DC,Democracia Crista,1
+1356,2018,1,ZZ,29416,BOSTON,Presidente,27,DC,Democracia Crista,1
+1357,2018,1,ZZ,39306,ISTAMBUL,Presidente,17,PSL,Partido Social Liberal,46
+1358,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,17,PSL,Partido Social Liberal,966
+1359,2018,1,ZZ,29742,HAMAMATSU,Presidente,17,PSL,Partido Social Liberal,3915
+1360,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,17,PSL,Partido Social Liberal,2027
+1361,2018,1,ZZ,29297,ANCARA,Presidente,17,PSL,Partido Social Liberal,12
+1362,2018,1,ZZ,30210,NOVA DELHI,Presidente,17,PSL,Partido Social Liberal,19
+1363,2018,1,ZZ,30368,PRAIA,Presidente,17,PSL,Partido Social Liberal,4
+1364,2018,1,ZZ,29408,BOGOTA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+1365,2018,1,ZZ,39080,ATLANTA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,2
+1366,2018,1,ZZ,29700,GENEBRA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,11
+1367,2018,1,ZZ,30627,TOQUIO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,42
+1368,2018,1,ZZ,30198,NAGOIA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,28
+1369,2018,1,ZZ,29688,ESTOCOLMO,Presidente,15,MDB,Movimento Democratico Brasileiro,3
+1370,2018,1,ZZ,30902,HARTFORD,Presidente,15,MDB,Movimento Democratico Brasileiro,3
+1371,2018,1,ZZ,30848,XANGAI,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1372,2018,1,ZZ,30198,NAGOIA,Presidente,15,MDB,Movimento Democratico Brasileiro,75
+1373,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,3
+1374,2018,1,ZZ,29351,BARCELONA,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,6
+1375,2018,1,ZZ,30600,TEGUCIGALPA,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1376,2018,1,ZZ,29360,BEIRUTE,Presidente,15,MDB,Movimento Democratico Brasileiro,19
+1377,2018,1,ZZ,29416,BOSTON,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,11
+1378,2018,1,ZZ,30252,OTTAWA,Presidente,15,MDB,Movimento Democratico Brasileiro,4
+1379,2018,1,ZZ,30066,MADRI,Presidente,15,MDB,Movimento Democratico Brasileiro,16
+1380,2018,1,ZZ,30481,SANTIAGO,Presidente,15,MDB,Movimento Democratico Brasileiro,7
+1381,2018,1,ZZ,30635,TORONTO,Presidente,16,PSTU,Partido Socialista dos Trabalhadores Unificado,7
+1382,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,15,MDB,Movimento Democratico Brasileiro,5
+1383,2018,1,ZZ,30244,OSLO,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+1384,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,15,MDB,Movimento Democratico Brasileiro,16
+1385,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,15,MDB,Movimento Democratico Brasileiro,16
+1386,2018,1,ZZ,99430,KINGSTON-JAMAICA,Presidente,27,DC,Democracia Crista,1
+1387,2018,1,ZZ,29610,DACAR,Presidente,27,DC,Democracia Crista,1
+1388,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,15,MDB,Movimento Democratico Brasileiro,5
+1389,2018,1,ZZ,30066,MADRI,Presidente,27,DC,Democracia Crista,8
+1390,2018,1,ZZ,30155,MONTREAL,Presidente,27,DC,Democracia Crista,2
+1391,2018,1,ZZ,30279,PARAMARIBO,Presidente,18,REDE,Rede Sustentabilidade,10
+1392,2018,1,ZZ,29947,LIMA,Presidente,18,REDE,Rede Sustentabilidade,22
+1393,2018,1,ZZ,29700,GENEBRA,Presidente,18,REDE,Rede Sustentabilidade,123
+1394,2018,1,ZZ,39160,LIUBLIANA,Presidente,18,REDE,Rede Sustentabilidade,3
+1395,2018,1,ZZ,29289,AMA,Presidente,18,REDE,Rede Sustentabilidade,12
+1396,2018,1,ZZ,30414,RAMALLAH-PALE,Presidente,18,REDE,Rede Sustentabilidade,4
+1397,2018,1,ZZ,29408,BOGOTA,Presidente,19,PODE,Podemos,9
+1398,2018,1,ZZ,30902,HARTFORD,Presidente,19,PODE,Podemos,7
+1399,2018,1,ZZ,29386,BERLIM,Presidente,18,REDE,Rede Sustentabilidade,139
+1400,2018,1,ZZ,29351,BARCELONA,Presidente,18,REDE,Rede Sustentabilidade,81
+1401,2018,1,ZZ,30090,MAPUTO,Presidente,18,REDE,Rede Sustentabilidade,10
+1402,2018,1,ZZ,30511,SAO JOSE,Presidente,18,REDE,Rede Sustentabilidade,10
+1403,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,18,REDE,Rede Sustentabilidade,11
+1404,2018,1,ZZ,29327,ASSUNCAO,Presidente,19,PODE,Podemos,25
+1405,2018,1,ZZ,30341,PORTO,Presidente,18,REDE,Rede Sustentabilidade,129
+1406,2018,1,ZZ,29467,BUENOS AIRES,Presidente,18,REDE,Rede Sustentabilidade,110
+1407,2018,1,ZZ,29718,GEORGETOWN,Presidente,19,PODE,Podemos,1
+1408,2018,1,ZZ,30406,RABAT,Presidente,19,PODE,Podemos,1
+1409,2018,1,ZZ,29521,CHUY,Presidente,19,PODE,Podemos,1
+1410,2018,1,ZZ,30651,CANTAO,Presidente,19,PODE,Podemos,1
+1411,2018,1,ZZ,29386,BERLIM,Presidente,19,PODE,Podemos,12
+1412,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,19,PODE,Podemos,3
+1413,2018,1,ZZ,29351,BARCELONA,Presidente,19,PODE,Podemos,18
+1414,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,19,PODE,Podemos,32
+1415,2018,1,ZZ,30961,FARO,Presidente,19,PODE,Podemos,15
+1416,2018,2,ZZ,30538,SEUL,Presidente,13,PT,Partido dos Trabalhadores,20
+1417,2018,2,ZZ,29696,FRANKFURT,Presidente,13,PT,Partido dos Trabalhadores,1327
+1418,2018,2,ZZ,29688,ESTOCOLMO,Presidente,13,PT,Partido dos Trabalhadores,666
+1419,2018,2,ZZ,30902,HARTFORD,Presidente,13,PT,Partido dos Trabalhadores,141
+1420,2018,2,ZZ,29700,GENEBRA,Presidente,13,PT,Partido dos Trabalhadores,1077
+1421,2018,2,ZZ,29432,BRUXELAS,Presidente,13,PT,Partido dos Trabalhadores,746
+1422,2018,2,ZZ,29327,ASSUNCAO,Presidente,13,PT,Partido dos Trabalhadores,213
+1423,2018,2,ZZ,29360,BEIRUTE,Presidente,13,PT,Partido dos Trabalhadores,941
+1424,2018,2,ZZ,30066,MADRI,Presidente,13,PT,Partido dos Trabalhadores,1416
+1425,2018,2,ZZ,39209,BRATISLAVA,Presidente,13,PT,Partido dos Trabalhadores,15
+1426,2018,2,ZZ,29386,BERLIM,Presidente,13,PT,Partido dos Trabalhadores,1832
+1427,2018,2,ZZ,30597,TEERA,Presidente,13,PT,Partido dos Trabalhadores,7
+1428,2018,2,ZZ,29173,KATMANDU,Presidente,13,PT,Partido dos Trabalhadores,8
+1429,2018,2,ZZ,30457,ROTTERDA,Presidente,13,PT,Partido dos Trabalhadores,1047
+1430,2018,2,ZZ,30805,WELLINGTON,Presidente,13,PT,Partido dos Trabalhadores,128
+1431,2018,2,ZZ,30635,TORONTO,Presidente,13,PT,Partido dos Trabalhadores,1581
+1432,2018,2,ZZ,30163,MOSCOU,Presidente,13,PT,Partido dos Trabalhadores,26
+1433,2018,2,ZZ,29998,LUANDA,Presidente,13,PT,Partido dos Trabalhadores,67
+1434,2018,2,ZZ,29653,DOHA,Presidente,13,PT,Partido dos Trabalhadores,39
+1435,2018,1,ZZ,29408,BOGOTA,Presidente,15,MDB,Movimento Democratico Brasileiro,1
+1436,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,15,MDB,Movimento Democratico Brasileiro,6
+1437,2018,1,ZZ,30112,MIAMI,Presidente,15,MDB,Movimento Democratico Brasileiro,27
+1438,2018,1,ZZ,30864,ZURIQUE,Presidente,15,MDB,Movimento Democratico Brasileiro,29
+1439,2018,1,ZZ,29432,BRUXELAS,Presidente,15,MDB,Movimento Democratico Brasileiro,8
+1440,2018,1,ZZ,30147,MONTEVIDEU,Presidente,15,MDB,Movimento Democratico Brasileiro,3
+1441,2018,1,ZZ,29688,ESTOCOLMO,Presidente,50,PSOL,Partido Socialismo e Liberdade,16
+1442,2018,1,ZZ,29319,ARTIGAS,Presidente,50,PSOL,Partido Socialismo e Liberdade,2
+1443,2018,1,ZZ,30902,HARTFORD,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+1444,2018,1,ZZ,29980,LOS ANGELES,Presidente,50,PSOL,Partido Socialismo e Liberdade,21
+1445,2018,1,ZZ,29955,LISBOA,Presidente,15,MDB,Movimento Democratico Brasileiro,17
+1446,2018,1,ZZ,29262,ABU DHABI,Presidente,50,PSOL,Partido Socialismo e Liberdade,4
+1447,2018,1,ZZ,30449,ROMA,Presidente,15,MDB,Movimento Democratico Brasileiro,12
+1448,2018,1,ZZ,29459,BUDAPESTE,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+1449,2018,1,ZZ,29491,CAMBERRA,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+1450,2018,1,ZZ,29742,HAMAMATSU,Presidente,15,MDB,Movimento Democratico Brasileiro,35
+1451,2018,1,ZZ,30457,ROTTERDA,Presidente,15,MDB,Movimento Democratico Brasileiro,10
+1452,2018,1,ZZ,29602,CORDOBA,Presidente,15,MDB,Movimento Democratico Brasileiro,2
+1453,2018,1,ZZ,29955,LISBOA,Presidente,50,PSOL,Partido Socialismo e Liberdade,56
+1454,2018,1,ZZ,30341,PORTO,Presidente,15,MDB,Movimento Democratico Brasileiro,20
+1455,2018,1,ZZ,29351,BARCELONA,Presidente,50,PSOL,Partido Socialismo e Liberdade,34
+1456,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,50,PSOL,Partido Socialismo e Liberdade,4
+1457,2018,1,ZZ,30511,SAO JOSE,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+1458,2018,1,ZZ,30520,SAO SALVADOR,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+1459,2018,1,ZZ,99180,NASSAU,Presidente,50,PSOL,Partido Socialismo e Liberdade,1
+1460,2018,1,ZZ,29807,HOUSTON,Presidente,13,PT,Partido dos Trabalhadores,155
+1461,2018,1,ZZ,29696,FRANKFURT,Presidente,13,PT,Partido dos Trabalhadores,425
+1462,2018,1,ZZ,29599,COPENHAGUE-DINA,Presidente,13,PT,Partido dos Trabalhadores,118
+1463,2018,1,ZZ,29980,LOS ANGELES,Presidente,13,PT,Partido dos Trabalhadores,211
+1464,2018,1,ZZ,29700,GENEBRA,Presidente,13,PT,Partido dos Trabalhadores,381
+1465,2018,1,ZZ,99430,KINGSTON-JAMAICA,Presidente,13,PT,Partido dos Trabalhadores,2
+1466,2018,1,ZZ,29505,CARACAS,Presidente,13,PT,Partido dos Trabalhadores,46
+1467,2018,1,ZZ,30198,NAGOIA,Presidente,13,PT,Partido dos Trabalhadores,268
+1468,2018,1,ZZ,30783,WASHINGTON,Presidente,50,PSOL,Partido Socialismo e Liberdade,19
+1469,2018,1,ZZ,30104,MEXICO-MEXI,Presidente,50,PSOL,Partido Socialismo e Liberdade,8
+1470,2018,1,ZZ,29289,AMA,Presidente,13,PT,Partido dos Trabalhadores,221
+1471,2018,1,ZZ,29327,ASSUNCAO,Presidente,13,PT,Partido dos Trabalhadores,99
+1472,2018,1,ZZ,29483,CAIRO,Presidente,13,PT,Partido dos Trabalhadores,6
+1473,2018,1,ZZ,30864,ZURIQUE,Presidente,30,NOVO,Partido Novo,403
+1474,2018,2,ZZ,30538,SEUL,Presidente,17,PSL,Partido Social Liberal,38
+1475,2018,2,ZZ,29777,HAVANA,Presidente,17,PSL,Partido Social Liberal,7
+1476,2018,2,ZZ,29432,BRUXELAS,Presidente,17,PSL,Partido Social Liberal,1049
+1477,2018,2,ZZ,99430,KINGSTON-JAMAICA,Presidente,17,PSL,Partido Social Liberal,17
+1478,2018,2,ZZ,29874,KINSHASA,Presidente,17,PSL,Partido Social Liberal,13
+1479,2018,1,ZZ,29890,KUALA LUMPUR,Presidente,13,PT,Partido dos Trabalhadores,3
+1480,2018,1,ZZ,29327,ASSUNCAO,Presidente,30,NOVO,Partido Novo,24
+1481,2018,1,ZZ,39063,VANCOUVER,Presidente,13,PT,Partido dos Trabalhadores,121
+1482,2018,1,ZZ,30180,MUNIQUE,Presidente,13,PT,Partido dos Trabalhadores,476
+1483,2018,1,ZZ,39160,LIUBLIANA,Presidente,30,NOVO,Partido Novo,2
+1484,2018,1,ZZ,29530,CIDADE DO CABO,Presidente,30,NOVO,Partido Novo,17
+1485,2018,1,ZZ,29572,COCHABAMBA,Presidente,30,NOVO,Partido Novo,3
+1486,2018,1,ZZ,30406,RABAT,Presidente,30,NOVO,Partido Novo,1
+1487,2018,1,ZZ,30392,QUITO,Presidente,13,PT,Partido dos Trabalhadores,41
+1488,2018,1,ZZ,30961,FARO,Presidente,13,PT,Partido dos Trabalhadores,87
+1489,2018,1,ZZ,30805,WELLINGTON,Presidente,13,PT,Partido dos Trabalhadores,23
+1490,2018,1,ZZ,30252,OTTAWA,Presidente,30,NOVO,Partido Novo,76
+1491,2018,1,ZZ,30090,MAPUTO,Presidente,30,NOVO,Partido Novo,10
+1492,2018,2,ZZ,29572,COCHABAMBA,Presidente,17,PSL,Partido Social Liberal,97
+1493,2018,1,ZZ,30244,OSLO,Presidente,30,NOVO,Partido Novo,61
+1494,2018,1,ZZ,30449,ROMA,Presidente,30,NOVO,Partido Novo,148
+1495,2018,1,ZZ,29602,CORDOBA,Presidente,13,PT,Partido dos Trabalhadores,107
+1496,2018,1,ZZ,29998,LUANDA,Presidente,13,PT,Partido dos Trabalhadores,33
+1497,2018,1,ZZ,29580,CONCEPCION,Presidente,30,NOVO,Partido Novo,2
+1498,2018,2,ZZ,29793,HONG KONG-HONG,Presidente,17,PSL,Partido Social Liberal,225
+1499,2018,2,ZZ,30180,MUNIQUE,Presidente,17,PSL,Partido Social Liberal,1566
+1500,2018,1,ZZ,29602,CORDOBA,Presidente,30,NOVO,Partido Novo,9
+1501,2018,1,ZZ,30767,VIENA,Presidente,30,NOVO,Partido Novo,89
+1502,2018,2,ZZ,29378,BELGRADO,Presidente,17,PSL,Partido Social Liberal,10
+1503,2018,1,ZZ,30368,PRAIA,Presidente,30,NOVO,Partido Novo,1
+1504,2018,2,ZZ,39020,ZAGREB,Presidente,17,PSL,Partido Social Liberal,8
+1505,2018,2,ZZ,30368,PRAIA,Presidente,17,PSL,Partido Social Liberal,8
+1506,2018,2,ZZ,30104,MEXICO-MEXI,Presidente,17,PSL,Partido Social Liberal,674
+1507,2018,1,ZZ,30198,NAGOIA,Presidente,19,PODE,Podemos,397
+1508,2018,1,ZZ,29459,BUDAPESTE,Presidente,19,PODE,Podemos,5
+1509,2018,1,ZZ,29688,ESTOCOLMO,Presidente,51,PATRI,Patriota,12
+1510,2018,1,ZZ,39080,ATLANTA,Presidente,51,PATRI,Patriota,10
+1511,2018,1,ZZ,30848,XANGAI,Presidente,51,PATRI,Patriota,3
+1512,2018,1,ZZ,29980,LOS ANGELES,Presidente,51,PATRI,Patriota,11
+1513,2018,1,ZZ,29700,GENEBRA,Presidente,54,PPL,Partido Patria Livre,3
+1514,2018,1,ZZ,29912,LAGOS,Presidente,19,PODE,Podemos,1
+1515,2018,1,ZZ,29327,ASSUNCAO,Presidente,51,PATRI,Patriota,8
+1516,2018,1,ZZ,29793,HONG KONG-HONG,Presidente,19,PODE,Podemos,1
+1517,2018,1,ZZ,30082,MANILA,Presidente,19,PODE,Podemos,1
+1518,2018,1,ZZ,30252,OTTAWA,Presidente,19,PODE,Podemos,12
+1519,2018,1,ZZ,30511,SAO JOSE,Presidente,19,PODE,Podemos,1
+1520,2018,1,ZZ,29955,LISBOA,Presidente,54,PPL,Partido Patria Livre,7
+1521,2018,1,ZZ,30120,MILAO,Presidente,54,PPL,Partido Patria Livre,1
+1522,2018,1,ZZ,29491,CAMBERRA,Presidente,19,PODE,Podemos,14
+1523,2018,1,ZZ,30449,ROMA,Presidente,54,PPL,Partido Patria Livre,2
+1524,2018,1,ZZ,30473,STA C LA SIERRA-BOLI,Presidente,19,PODE,Podemos,14
+1525,2018,1,ZZ,30635,TORONTO,Presidente,19,PODE,Podemos,46
+1526,2018,1,ZZ,30457,ROTTERDA,Presidente,19,PODE,Podemos,31
+1527,2018,1,ZZ,29955,LISBOA,Presidente,51,PATRI,Patriota,53
+1528,2018,1,ZZ,30309,PEDRO JUAN CABALLERO,Presidente,51,PATRI,Patriota,1
+1529,2018,1,ZZ,30252,OTTAWA,Presidente,51,PATRI,Patriota,1
+1530,2018,1,ZZ,29556,CIUDAD DEL ESTE,Presidente,54,PPL,Partido Patria Livre,1
+1531,2018,1,ZZ,30422,RIADE,Presidente,19,PODE,Podemos,2
+1532,2018,1,ZZ,30503,SAO FRANCISCO,Presidente,51,PATRI,Patriota,15
+1533,2018,1,ZZ,29513,CHICAGO,Presidente,54,PPL,Partido Patria Livre,1
+1534,2018,1,ZZ,29467,BUENOS AIRES,Presidente,19,PODE,Podemos,46
+1535,2018,1,ZZ,30783,WASHINGTON,Presidente,54,PPL,Partido Patria Livre,4
+1536,2018,1,ZZ,30783,WASHINGTON,Presidente,19,PODE,Podemos,39
+1537,2018,1,ZZ,30287,PARIS,Presidente,19,PODE,Podemos,30
+1538,2018,1,ZZ,29467,BUENOS AIRES,Presidente,51,PATRI,Patriota,16
