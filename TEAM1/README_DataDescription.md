@@ -8,7 +8,17 @@ For our project, we used three separate datasets:
 Our files containing electorate data are labeled "perfil_eleitorado_< year >.csv. The clean versions of the data are available in our [data/clean folder](./data/clean) and the original versions of the data are available in the [data/original folder](./data/original). A description of each of the features in the dataset is below:
 * Election Year - The election year of the data (1998, 2002, etc.)
 * Place (ZZ = Exterior) - The identification code for the source location of the data (all of our data has code ZZ, indicating these members of the electorate reside outside of Brazil)
-* ...
+* Municipality Code - the internal code for the location of the region where the immigrants are based.
+* Municipality Name - the Portuguese name of the actual location (e.g.: Paraguai, Estados Unidos, Espanha, etc...)
+* Gender Code - the internal code for the gender of the population within the municipality.
+* Gender Description - the actual gender of the population.
+* Marital Status Code - the internal code describing the marital status of the immigrants.
+* Marital Starus Description - the name for the internal code for marital status.
+* Age Group Code - the internal code for the age of the immigrants (only datasets from 2010 upwards have this feature).
+* Age Group Description - the name for the internal code for the age of the immigrants.
+* Educational Attainment Code - the internal code for the level of education that the immigrants have successfully reached.
+* Educational Attainment Description - the name for the internal code of the level of education of the immigrants.
+* Quantity of voters - the number of Brazilian immigrants that fit the specific descriptions from each of the previous data values.
 
 ## Election (Voting) Data
 Our files containing voting data are labeled "< year >_Election_Data.csv. The clean versions of the data are available in our [data/clean folder](./data/clean) and the original versions of the data are available in the [data/original folder](./data/original). A description of each of the features in the dataset is below:
