@@ -1,14 +1,25 @@
 ## Team 2: Deliverable 3 - Brazilian Immigrant Participation in Brazil-Held Election Results
 
 ## Checklist
-- [x] Collect and pre-process a secondary batch of data
-- [x] Refine the preliminary analysis of the data performed in PD1
+- [x] All data is collected
+- [x] Refine the preliminary analysis of the data performed in PD1 & 2
 - [x] Answer another key question
+- [x] Attempt to answer overarching project question
+- [x] Create a draft of your final report
 - [x] Refine project scope and list of limitations with data and potential risks of achieving project goal
 - [x] Submit a PR with the above report and modifications to original proposal
 
 ---
+## Document Links
+* First Draft of Final Report: [Document](https://docs.google.com/document/d/1UlbZXTUHx7HcR5ONZXqrkxYcVryihC_Knry517Y_Ylo/edit?usp=sharing)
+
+---
 ## Initial Questions Answered and Results
+
+### Data
+
+All of our data has been preprocessed and cleaned. Municipality names and codes have been processed to be consistent 
+across years and header names have also been uniformed.
 
 ### Question: How have voting turnout changed over time across different political parties?
 
