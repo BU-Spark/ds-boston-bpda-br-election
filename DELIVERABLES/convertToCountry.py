@@ -1,30 +1,32 @@
 import pandas as pd
 from geopy.geocoders import Nominatim
 from unidecode import unidecode
+from openpyxl import Workbook
 
 # return df and remove initial row
 def process(path, del_init_row):
-    df = pd.read_csv(path)
-
     if del_init_row:
-        df = pd.read_csv(path, skiprows=[1])
+        df = pd.read_excel(path)
         column_names = [col.lower().replace(' ', '_') for col in df.columns]
         df.columns = column_names
     else:
-        df = pd.read_csv(path)
+        df = pd.read_excel(path, header=0)
         column_names = [col.lower().replace(' ', '_') for col in df.columns]
         df.columns = column_names
+
+    df = df.drop([0])
+    df = df.astype({'election_year' : int,'election_round' : int, 'municipality_code' : int, 'party_number' : int, 'number_of_votes' : int})
 
     return df
 
 
 # df of each dataset year
-df1998 = process('election data/1998-Election.csv', del_init_row=True)
-df2002 = process('election data/2002-Election.csv', del_init_row=True)
-df2006 = process('election data/2006-Election.csv', del_init_row=True)
-df2010 = process('election data/2010-Election.csv', del_init_row=True)
-df2014 = process('election data/2014-Election.csv', del_init_row=True)
-df2018 = process('election data/2018-Election.csv', del_init_row=True)
+df1998 = process('election data/1998 Election Data.xlsx', del_init_row=True)
+df2002 = process('election data/2002 Election Data.xlsx', del_init_row=True)
+df2006 = process('election data/2006 Election Data.xlsx', del_init_row=True)
+df2010 = process('election data/2010 Election Data.xlsx', del_init_row=False)
+df2014 = process('election data/2014 Election Data.xlsx', del_init_row=False)
+df2018 = process('election data/2018 Election Data.xlsx', del_init_row=False)
 
 def process_df(path):
     df = pd.read_csv(path)
