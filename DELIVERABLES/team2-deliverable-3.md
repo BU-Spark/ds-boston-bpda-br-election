@@ -41,6 +41,16 @@ Bolsonaro, a former Social Christian politician, eventually became PSL's nominee
 exceeding polling forecasts to receive 46% of the popular vote in the first round. Bolsonaro’s immense popularity and 
 majority win explains the outlier in election year 2018 and the shift of party nominations.
 
+### Overarching Question: How have voting patterns changed over time
+
+This question is in progress of being answered thoroughly, at the moment our analysis of how voting patterns have changed
+over time is a culmination our four key questions combined. Our team set out to answer this question by forming an additional 
+four key questions, detailed in our report, to further investigate Brazilian immigrant voting patterns, relevant exogenous 
+political variables, and voter turnout for the top political parties from the top voting countries. Our analysis spans 6 
+election datasets across two decades and this data is publically available voting data from the BPDA. Our final report will detail 
+the initial preprocessing needed to ensure consistencies across the data then dive into the analysis of each key question. 
+Finally, the report will conclude by answering the overarching question with the analysis developed through the 4 key questions.
+
 ---
 
 ## Refined Project Proposal
