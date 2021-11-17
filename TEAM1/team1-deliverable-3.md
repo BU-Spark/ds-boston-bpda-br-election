@@ -26,7 +26,7 @@ Building on our previous analysis, we decided to compare the voting patterns of 
 
 *Popularity of Political Parties in Top 10 countries- 2006-2018*
 
-![alt text](./readme_images/top10_votes_2006-2018.png)
+![alt text](./readme_images/Top_10_Voting/top10_votes_2006-2018.png)
 
 Above, we can see the proportion of votes received by each party among the top 10 countries (and the entire dataset) for the 2006, 2010, 2014, and 2018 elections. 
 
@@ -37,9 +37,9 @@ Above, we can see the proportion of votes received by each party among the top 1
 ### Percentage of the Population that Votes in Top 10 Countries
 Below, we analyze the proportion of the electorate which votes in our top 10 countries for the years 2006 to 2018. Our estimations for the total size of the populations in 2006, 2010, and 2018 are based on data available on the size of these populations in 2008, 2011, and 2020 respectively.
 
-![alt text](./readme_images/top_10_voting_percentage_round_1.png)
+![alt text](./readme_images/Top_10_Voting/top_10_voting_percentage_round_1.png)
 
-![alt text](./readme_images/top_10_voting_percentage_round_2.png)
+![alt text](./readme_images/Top_10_Voting/top_10_voting_percentage_round_2.png)
 
 Above, we plot the percentage of the electorate population which voted in rounds 1 and 2 of the 2006-2018 elections. There are a few key trends which immediately emerge:
 * Overall, the percentage of the population which votes has been less than 20% in all years (except for in Canada, which had over 25% of its population vote in both round in 2006). 
@@ -52,34 +52,34 @@ Above, we plot the percentage of the electorate population which voted in rounds
 In order to better understand the demographics of the top 10 countries, we decided to analyze the ages of the voters in these countries
 
 ### Overall Distribution ofAge Groups in Top 10 Countries 
-![alt text](./readme_images/top_10_all_ages.png)
+![alt text](./readme_images/Top_10_Age/top_10_all_ages.png)
 
 Above, we plot the overall age group distrubution in the top 10 countries. From this plot, we can see that the majority of the populations in these countries fall into an age range of 25-59, with all other age groups combined comprising less than 25% of the overall population
 
 ### Age Groups By Country
 
 #### Ages 18-20
-<img src = "./readme_images/top_10_age_18_A_20_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_18_A_20_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_18_A_20_ANOS_FEMININO.png" width ="300" />
+<img src = "./readme_images/Top_10_Age/top_10_age_18_A_20_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_18_A_20_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_18_A_20_ANOS_FEMININO.png" width ="300" />
 
 Overall, the proportion of voters aged 18-20 is very low (less than 5%) in all countries. In general, we can see a decreasing trend in the number of voters within this age group (although we can see a small spike in Japan between 2010 and 2014).
 
 #### Ages 21-24
-<img src = "./readme_images/top_10_age_21_A_24_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_21_A_24_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_21_A_24_ANOS_FEMININO.png" width ="300" />
+<img src = "./readme_images/Top_10_Age/top_10_age_21_A_24_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_21_A_24_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_21_A_24_ANOS_FEMININO.png" width ="300" />
 
 Similar to the previous category, the proportion of voters aged 21-24 is also very low (less than 10% of the voting population) in all countries. Interestingly, though, both Portugal and Spain have seen growth in this category, while the United States has experienced a steady decline.
 
 #### Ages 25-34
-<img src = "./readme_images/top_10_age_25_A_34_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_25_A_34_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_25_A_34_ANOS_FEMININO.png" width ="300" />
+<img src = "./readme_images/Top_10_Age/top_10_age_25_A_34_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_25_A_34_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_25_A_34_ANOS_FEMININO.png" width ="300" />
 
 The proportion of voters aged 25-34 is much larger than the previous categories analyzed. However, we can actually see a steady decline in this group over the course of the years analyzed. This trend is especially prominent among women in this age group, as female voters aged 25-34 has declined every year. The peak percentage of voters aged 25 to 34 in 2010 was in Spain, with 3.5% of all voters in that age window. However, by 2018, that had dropped to 2.75% with France as the highest percentage.
 
 #### Ages 35-44
-<img src = "./readme_images/top_10_age_35_A_44_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_35_A_44_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_35_A_44_ANOS_FEMININO.png" width ="300" />
+<img src = "./readme_images/Top_10_Age/top_10_age_35_A_44_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_35_A_44_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_35_A_44_ANOS_FEMININO.png" width ="300" />
 
 The proportion of voters aged 35-49 has comprised atleast 24% of the population in each of our top 10 countries across the years analyzed. However, only England, Canada, France, the US, and Spain have seen growth in this category between 2010 and 2018, while growth in other countries has either remained flat or negative. Japan presents an interesting case in which the proportion of voters in this age group has declined from roughly 30% to 24%, with an especially sharp drop among women.
 
 #### Ages 45-59
-<img src = "./readme_images/top_10_age_45_A_59_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/top_10_age_45_A_59_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/top_10_age_45_A_59_ANOS_FEMININO.png" width ="300" />
+<img src = "./readme_images/Top_10_Age/top_10_age_45_A_59_ANOS_all_genders.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_45_A_59_ANOS_MASCULINO.png" width ="300" /> <img src = "./readme_images/Top_10_Age/top_10_age_45_A_59_ANOS_FEMININO.png" width ="300" />
 
 The proportion of voters aged 45-59 has comprised atleast 15% of the population in each of our top 10 countries (and is as high as 35% in some countries) across the years analyzed. While for most countries we have seen an upward trend among this age group, Canada has actually seen a steady decline.
 
