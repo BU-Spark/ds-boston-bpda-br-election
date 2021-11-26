@@ -8,7 +8,7 @@ The below files are used for data cleaning and pre-processing.
 #### File Description
 The primary cleaning "application" is the [CSV_clean.ipynb](./src/CSV_clean.ipynb) file which handles importing all CSV files for the dataset (from the [data/original folder](./data/original)), and applying various cleaning functions to standardize the data so that it can be used in our analysis notebooks. After each dataset is cleaned, it is written to a new CSV file in the [data/clean folder](./data/clean).
 
-This notebook calls several helper functions and data objects which are defined in the files within the [data_cleaning folder](./data_cleaning) and are described in greater detail below.
+This notebook calls several helper functions and data objects which are defined in the files within the [data_cleaning folder](./src/data_cleaning) and are described in greater detail below.
 
 #### Instructions for Use
 To run this file, you must first download the datasets (see the data in the [data/original folder](./data/original)) and open it as a Jupyter Notebook. Then, simply click "run all" to apply the cleaning functions to the original data and write the new files into new CSV's.
