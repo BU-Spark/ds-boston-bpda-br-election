@@ -79,7 +79,7 @@ To utilize the functions in this file, it must be imported as follows:
 from data_cleaning.standardize_age import standardize_age_desc
 ```
 
-See [CSV_clean.ipynb](./src/SV_clean.ipynb) for example usage.
+See [CSV_clean.ipynb](./src/CSV_clean.ipynb) for example usage.
 
 ---
 
