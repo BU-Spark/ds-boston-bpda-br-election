@@ -6,7 +6,7 @@ The below files are used for data cleaning and pre-processing.
 
 ### CSV_clean.ipynb
 #### File Description
-The primary cleaning "application" is the [CSV_clean.ipynb](./CSV_clean.ipynb) file which handles importing all CSV files for the dataset (from the [data/original folder](./data/original)), and applying various cleaning functions to standardize the data so that it can be used in our analysis notebooks. After each dataset is cleaned, it is written to a new CSV file in the [data/clean folder](./data/clean).
+The primary cleaning "application" is the [CSV_clean.ipynb](./src/CSV_clean.ipynb) file which handles importing all CSV files for the dataset (from the [data/original folder](./data/original)), and applying various cleaning functions to standardize the data so that it can be used in our analysis notebooks. After each dataset is cleaned, it is written to a new CSV file in the [data/clean folder](./data/clean).
 
 This notebook calls several helper functions and data objects which are defined in the files within the [data_cleaning folder](./data_cleaning) and are described in greater detail below.
 
@@ -15,7 +15,7 @@ To run this file, you must first download the datasets (see the data in the [dat
 
 ### data_cleaning/cleaning_utilities.py
 #### File Description
-[This file](./data_cleaning/cleaning_utilities.py) contains a single function (remove_accents) which removes accents from a Python string. The primary purpose of this function is to standardize string related to country and education-attainment names by removing any Portuguese-language accents (which are used in some data sets and not used in others)
+[This file](./src/data_cleaning/cleaning_utilities.py) contains a single function (remove_accents) which removes accents from a Python string. The primary purpose of this function is to standardize string related to country and education-attainment names by removing any Portuguese-language accents (which are used in some data sets and not used in others)
 
 #### Instructions for Use
 To utilize the functions in this file, it must be imported as follows:
@@ -24,7 +24,7 @@ To utilize the functions in this file, it must be imported as follows:
 from data_cleaning import cleaning_utilities
 ```
 
-See [CSV_clean.ipynb](./CSV_clean.ipynb) for example usage.
+See [CSV_clean.ipynb](./src/CSV_clean.ipynb) for example usage.
 
 In addition, the remove accents function requires the **unidecode** library, which should be installed (via pip) as follows:
 
@@ -34,7 +34,7 @@ pip install unidecode
 
 ### data_cleaning/country_match.py
 #### File Description
-[This file](./data_cleaning/country_match.py) contains a Python dictionary object (country_code_map) which maps post-2010 municipality codes to pre-2010 country codes/names. Within the dictionary, the key is code for municipality in post-2010 data and the value is a 2-tuple containing (< code for country in pre-2010 data >, < Name of Country in pre-2010 data >). This file is needed to match pre-2010 data (where municipalities were identified by country) to post-2010 data (where municipalities correspond to the city name where a Brazilian consulate is located)
+[This file](./src/data_cleaning/country_match.py) contains a Python dictionary object (country_code_map) which maps post-2010 municipality codes to pre-2010 country codes/names. Within the dictionary, the key is code for municipality in post-2010 data and the value is a 2-tuple containing (< code for country in pre-2010 data >, < Name of Country in pre-2010 data >). This file is needed to match pre-2010 data (where municipalities were identified by country) to post-2010 data (where municipalities correspond to the city name where a Brazilian consulate is located)
 
 #### Instructions for Use
 To utilize the functions in this file, it must be imported as follows:
@@ -43,11 +43,11 @@ To utilize the functions in this file, it must be imported as follows:
 from data_cleaning.country_match import country_code_map
 ```
 
-Then the country_code_map object can simply be used as a normal Python dictionary. See [CSV_clean.ipynb](./CSV_clean.ipynb) for example usage.
+Then the country_code_map object can simply be used as a normal Python dictionary. See [CSV_clean.ipynb](./src/CSV_clean.ipynb) for example usage.
 
 ### data_cleaning/education_codes.py
 #### File Description
-[This file](./data_cleaning/education_codes.py) contains the following functions to perform data-cleaning tasks specific to the education features in the Electorate Dataset
+[This file](./src/data_cleaning/education_codes.py) contains the following functions to perform data-cleaning tasks specific to the education features in the Electorate Dataset
 * **read_data_post2006(filename)**
     - This function is used to drop the extraneous row in post-2006 datasets (which includes the column headers in Portuguese). 
     - Note: this function was created, but was ultimately not used in the data cleaning (replaced by our extract_dataframe function)
@@ -66,11 +66,11 @@ To utilize the functions in this file, it must be imported as follows:
 from data_cleaning.education_codes import add_education_codes, clean2018
 ```
 
-See [CSV_clean.ipynb](./CSV_clean.ipynb) for example usage.
+See [CSV_clean.ipynb](./src/CSV_clean.ipynb) for example usage.
 
 ### data_cleaning/standardize_age.py
 #### File Description
-[This file](./data_cleaning/standardize_age.py) contains a single function which is used to standardize  post 2010 (2014 and 2018) age descriptions to match age descriptions in the 2010 dataset (prior to 2010, age codes werenot provided)
+[This file](./src/data_cleaning/standardize_age.py) contains a single function which is used to standardize  post 2010 (2014 and 2018) age descriptions to match age descriptions in the 2010 dataset (prior to 2010, age codes werenot provided)
 
 #### Instructions for Use
 To utilize the functions in this file, it must be imported as follows:
@@ -79,7 +79,7 @@ To utilize the functions in this file, it must be imported as follows:
 from data_cleaning.standardize_age import standardize_age_desc
 ```
 
-See [CSV_clean.ipynb](./CSV_clean.ipynb) for example usage.
+See [CSV_clean.ipynb](./src/SV_clean.ipynb) for example usage.
 
 ---
 
@@ -88,7 +88,7 @@ The below files are used for performing analysis on the datasets.
 
 ### electorate_location.ipynb
 #### File Description
-[This file](./electorate_location.pynb) contains the code and analysis used to examine country-level population size, growth, and gender ratios in the aggregate dataset as well as demographic trends in the "top-10 countries" (the 10 countries with the highest Brazilian immigrant populations in 2018).The first part of this notebook analyzes trends related to the location of the Brazilian electorate Population, looking into how the location of immigrant Brazilian voters has changed over time (as well as how some demographic trends have changed at a country level).The second part of the notebook contains analsysis of demographic features focusing only on the top-10 countries.
+[This file](./src/electorate_location.pynb) contains the code and analysis used to examine country-level population size, growth, and gender ratios in the aggregate dataset as well as demographic trends in the "top-10 countries" (the 10 countries with the highest Brazilian immigrant populations in 2018).The first part of this notebook analyzes trends related to the location of the Brazilian electorate Population, looking into how the location of immigrant Brazilian voters has changed over time (as well as how some demographic trends have changed at a country level).The second part of the notebook contains analsysis of demographic features focusing only on the top-10 countries.
 
 Below, we describe the funtions in this notebook:
 ##### Aggregate Analysis (note: some of these functions are also used in the Top 10 analysis)
@@ -126,11 +126,11 @@ Below, we describe the funtions in this notebook:
     - This function plots the ratios for each age group in the top 10 countries by year
 
 #### Instructions for Use
-To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
+To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./src/CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
 
 ### electorate_gender.ipynb
 #### File Description
-[This file](./electorate_gender.ipynb) contains the code and analysis used to examine gender and educational features on the aggregate dataset (all countries, all years). This notebook contains the following functions:
+[This file](./src/electorate_gender.ipynb) contains the code and analysis used to examine gender and educational features on the aggregate dataset (all countries, all years). This notebook contains the following functions:
 * **combine_data(*dfs)** 
     - This function combined all Electorate Datasets into a single Pandas dataframe
 * **plot_genders(df)**
@@ -147,11 +147,11 @@ To run this file, you must first run the cleaning functions in [CSV_clean.ipynb]
     - Plots the proportion of the electorate corresponding to each educational attainment description across the 2002-2018 electorate datasets
 
 #### Instructions for Use
-To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
+To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./src/CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
 
 ### votingdata.ipynb
 #### File Description
-[This file](./votingdata.ipynb) contains the code and analysis used to examine voting patterns among the electorate as a whole as well as within the top 10 countries. The functions within this file are described below:
+[This file](./src/votingdata.ipynb) contains the code and analysis used to examine voting patterns among the electorate as a whole as well as within the top 10 countries. The functions within this file are described below:
 
 ##### Aggregate Analysis (note: some of these functions are also used in the Top 10 analysis)
 * **combine_data(*dfs)** 
@@ -178,11 +178,11 @@ To run this file, you must first run the cleaning functions in [CSV_clean.ipynb]
     - This function plots the estimated proportion of voters for the top 10 countries for a given election round using estimations based on electorate size (from the electorate dataset)
 
 #### Instructions for Use
-To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
+To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./src/CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
 
 ### top_10_analysis.ipynb
 #### File Description
-[This file](./top_10_analsysis.ipynb) combines all code and analysis related to the top 10 countries from the [electorate_location](./electorate_location.pynb) and [votingdata](./votingdata.ipynb) notebooks. This file is provided as simple way to analyze only the top 10 countries (versus the additional analysis provided on the aggregate electorate provided in the other files). All functions in this file are described in the sections on the electorate_location and votingdata notebooks above.
+[This file](./src/top_10_analysis.ipynb) combines all code and analysis related to the top 10 countries from the [electorate_location](./electorate_location.pynb) and [votingdata](./src/votingdata.ipynb) notebooks. This file is provided as simple way to analyze only the top 10 countries (versus the additional analysis provided on the aggregate electorate provided in the other files). All functions in this file are described in the sections on the electorate_location and votingdata notebooks above.
 
 #### Instructions for Use
 To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
