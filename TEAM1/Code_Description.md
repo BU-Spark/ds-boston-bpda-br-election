@@ -88,7 +88,7 @@ The below files are used for performing analysis on the datasets.
 
 ### electorate_location.ipynb
 #### File Description
-[This file](./src/electorate_location.pynb) contains the code and analysis used to examine country-level population size, growth, and gender ratios in the aggregate dataset as well as demographic trends in the "top-10 countries" (the 10 countries with the highest Brazilian immigrant populations in 2018).The first part of this notebook analyzes trends related to the location of the Brazilian electorate Population, looking into how the location of immigrant Brazilian voters has changed over time (as well as how some demographic trends have changed at a country level).The second part of the notebook contains analsysis of demographic features focusing only on the top-10 countries.
+[This file](./src/electorate_location.ipynb) contains the code and analysis used to examine country-level population size, growth, and gender ratios in the aggregate dataset as well as demographic trends in the "top-10 countries" (the 10 countries with the highest Brazilian immigrant populations in 2018).The first part of this notebook analyzes trends related to the location of the Brazilian electorate Population, looking into how the location of immigrant Brazilian voters has changed over time (as well as how some demographic trends have changed at a country level).The second part of the notebook contains analsysis of demographic features focusing only on the top-10 countries.
 
 Below, we describe the funtions in this notebook:
 ##### Aggregate Analysis (note: some of these functions are also used in the Top 10 analysis)
@@ -182,7 +182,7 @@ To run this file, you must first run the cleaning functions in [CSV_clean.ipynb]
 
 ### top_10_analysis.ipynb
 #### File Description
-[This file](./src/top_10_analysis.ipynb) combines all code and analysis related to the top 10 countries from the [electorate_location](./electorate_location.pynb) and [votingdata](./src/votingdata.ipynb) notebooks. This file is provided as simple way to analyze only the top 10 countries (versus the additional analysis provided on the aggregate electorate provided in the other files). All functions in this file are described in the sections on the electorate_location and votingdata notebooks above.
+[This file](./src/top_10_analysis.ipynb) combines all code and analysis related to the top 10 countries from the [electorate_location](./src/electorate_location.ipynb) and [votingdata](./src/votingdata.ipynb) notebooks. This file is provided as simple way to analyze only the top 10 countries (versus the additional analysis provided on the aggregate electorate provided in the other files). All functions in this file are described in the sections on the electorate_location and votingdata notebooks above.
 
 #### Instructions for Use
-To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
+To run this file, you must first run the cleaning functions in [CSV_clean.ipynb](./src/CSV_clean.ipynb) to produce the cleaned datasets. Then, open this file as a Jupyter Notebook and simply click "run all" to run the entire notebook (or you can run each cell sequentially).
