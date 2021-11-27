@@ -159,7 +159,7 @@ To run this file, you must first run the cleaning functions in [CSV_clean.ipynb]
 [This file](./src/votingdata.ipynb) contains the code and analysis used to examine voting patterns among the electorate as a whole as well as within the top 10 countries. The functions within this file are described below:
 
 ##### Aggregate Analysis (note: some of these functions are also used in the Top 10 analysis)
-* **combine_data(*dfs)** 
+* **combine_data(dfs)** 
     - This function combined all Election (voting) Datasets into a single Pandas dataframe
 * **plot_total_voters(df)** 
     - This function plots the total number of votes cast by Brazilian immigrants by year
