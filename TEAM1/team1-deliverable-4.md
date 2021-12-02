@@ -15,7 +15,7 @@
 
 ### Title: Brazilian Immigrant Participation in Brazil-Held Election Results
 
-[Original Project Description](https://docs.google.com/document/d/10svI0F6vJOUjewvWAV4yx70k0brZGpG6pSurwHtmrUM/edit)
+[Original Project Description](https://drive.google.com/file/d/1m6mjdeurJSAOOxWrHyVog-18iKi1VvnL/view?usp=sharing)
 
 ## Team Members
 - Wiley Hunt (whunt1965)
