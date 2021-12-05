@@ -3,7 +3,7 @@
 ---
 ## Links to Final Deliverables
 Below, we provide links for all final project deliverables as well as the locations of our source code and all visualizations produced through our analysis.
-* [Final Project Report](https://drive.google.com/file/d/1m6mjdeurJSAOOxWrHyVog-18iKi1VvnL/view?usp=sharing)
+* [Final Project Report](./Final_Report_Team1.pdf)
 * [Final Project Presentation](./file)
 * [Visualizations](./readme_images)
 * [Description of Dataset](./README_DataDescription.md)
