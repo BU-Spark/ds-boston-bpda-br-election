@@ -37,11 +37,11 @@ For this project, we used two separate data sets. The first was the Brazilian el
 
 In addition, we utilized an additional dataset (provided by our client) which provides estimates of the overall populations of the Brazilian Immigrant electorate in all countries around the world for the years 2008, 2011, 2014, and 2020 in order to estimate voter turnout for the years 2006, 2010, 2014, and 2018 respectively.
 
-All data may be found [here](./data) and a detailed description of the features in the data may be found [here](./README_DataDescription.md)
+All data may be found [here](./data) and a detailed description of the features in the data may be found [here](./README_DataDescription.md).
 
 # 4. Overview of Our Codebase
 
-A detailed description of our codebase (and instructions for use) can be found [here](./Code_Description.md)
+A detailed description of our codebase (and instructions for use) can be found [here](./Code_Description.md).
 
 # 5. Getting Started
 
@@ -68,13 +68,13 @@ Python dependencies may be installed as follows:
 
 ## 5.4. Running our Source Code
 
-We recommend reviewing [our codebase documentation](./Code_Description.md)) for detailed instructions on running our files. 
+We recommend reviewing [our codebase documentation](./Code_Description.md) for detailed instructions on running our files. 
 
 However, as a quick start, you can simply open the project directory in a jupyter notebook (using `jupyter notebook` from within the `TEAM1/src` folder) and simply run each of the cells in the `electorate_gender.ipynb`, `electorate_location.ipynb`, `top_10_analysis.ipynb`, or `votingdata.ipynb` notebooks.
 
 
 # 6. Sample Results
-Below, we provide a few results produced by our analysis. All visualizations that we generated in our analysis can be found [here](./readme_images), and more detailed analysis can be found in our [final report](./Final_Report_Team1.pdf)
+Below, we provide a few results produced by our analysis. All visualizations that we generated in our analysis can be found [here](./readme_images), and more detailed analysis can be found in our [final report](./Final_Report_Team1.pdf).
 
 ## Sample Analysis - How have Gender and Education Demographics Changed over Time?
 *Brazilian Immigrant Electorate Population by Gender*
