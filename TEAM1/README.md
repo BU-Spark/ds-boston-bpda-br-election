@@ -41,7 +41,7 @@ All data may be found [here](./data) and a detailed description the features in 
 
 # 4. Overview of Our Codebase
 
-A detailed description of our codebase (and instructions for use) can be found [here](./Code_Description.md))
+A detailed description of our codebase (and instructions for use) can be found [here](./Code_Description.md)
 
 # 5. Getting Started
 
