@@ -15,7 +15,7 @@ Below, we provide links for all final project deliverables as well as the locati
 - [1. Table Of Contents](#1-table-of-contents)
 - [2. Project Overview](#2-project-overview)
 - [3. Overview of Our Dataset](#3-overview-of-our-dataset)
-- [4. Overview of Our Codebase](#3-overview-of-our-codebase)
+- [4. Overview of Our Codebase](#4-overview-of-our-codebase)
 - [5. Getting Started](#5-getting-started)
   - [5.1. Cloning](#51-cloning)
   - [5.2. Requirements](#52-requirements)
