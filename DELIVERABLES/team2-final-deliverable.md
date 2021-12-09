@@ -4,7 +4,7 @@
 ## Document Links
 * Final Report: [Document](https://docs.google.com/document/d/1UlbZXTUHx7HcR5ONZXqrkxYcVryihC_Knry517Y_Ylo/edit?usp=sharing)
 * Final Presentation: [Slides](https://docs.google.com/presentation/d/1xA7zLP8ly3901dhuaoxi88QKLmJ5Tvf9XrSBtBj6y24/edit?usp=sharing)
-* Technical README is in DELIVERABLES folder
+* Technical README is located in DELIVERABLES folder as well as [Here](https://github.com/BU-Spark/ds-boston-bpda-br-election/blob/team2-final-deliverable/DELIVERABLES/team2-final-delieverable-README.md)
 ---
 
 ## Project Proposal
