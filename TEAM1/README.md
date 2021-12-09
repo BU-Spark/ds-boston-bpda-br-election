@@ -26,18 +26,18 @@ Below, we provide links for all final project deliverables as well as the locati
 
 # 2. Project Overview
 
-This repository our code and analysis created created for our CS506 Course Project. Our project sought to understand the composition of the Brazilian immigrant electorate. By analyzing data on the electorate collected for all Brazilian Presidential elections from 1998—2018, we sought to understand changing patterns among Brazilian immigrants that vote in Brazilian elections. After analyzing the electorate, we conducted additional analysis on Brazilian immigrant voting records to try and determine how community and demographic differences may influence voting patterns.
+This repository contained code and analysis created for our CS506 Course Project. Our project sought to understand the composition of the Brazilian immigrant electorate. By analyzing data on the electorate collected for all Brazilian Presidential elections from 1998—2018, we sought to understand changing patterns among Brazilian immigrants that vote in Brazilian elections. After analyzing the electorate, we conducted additional analysis on Brazilian immigrant voting records to try and determine how community and demographic differences may influence voting patterns.
 
-Notably, our Project focused on answering these question for both the Brazilian Immigrant Electorate as a whole as well as for the 10 countries highest populations of Brazilian Immigrants (as of 2018).
+Notably, our Project focused on answering these questions for both the Brazilian Immigrant Electorate as a whole as well as for the 10 countries with the highest populations of Brazilian Immigrants (as of 2018).
  
 Contextual Note: Immigrants living in the US (or outside their home country) can still vote in national elections.
 
 # 3. Overview of Our Dataset
 For this project, we used two separate data sets. The first was the Brazilian electorate data set (provided by the client), which contains demographic data on Brazilian immigrant voters for the years 1998, 2002, 2006, 2010, 2014, and 2018. The second data set is the election data set, and it contains voting records for Brazilian immigrant voters for the same years.
 
-In addition, we utilized an additional dataset (provided by our client) which estimate the overall populations of the Brazilian Immigrant electorate in all countries around the world for the years 2008, 2011, 2014, and 2020 in order to estimate voter turnout for the years 2006, 2010, 2014, and 2018 respectively.
+In addition, we utilized an additional dataset (provided by our client) which provides estimates of the overall populations of the Brazilian Immigrant electorate in all countries around the world for the years 2008, 2011, 2014, and 2020 in order to estimate voter turnout for the years 2006, 2010, 2014, and 2018 respectively.
 
-All data may be found [here](./data) and a detailed description the features in the data may be found [here](./README_DataDescription.md)
+All data may be found [here](./data) and a detailed description of the features in the data may be found [here](./README_DataDescription.md)
 
 # 4. Overview of Our Codebase
 
@@ -81,10 +81,10 @@ Below, we provide a few results produced by our analysis. All visualizations tha
 
 ![alt text](./readme_images/Full_Data_Gender/electorate_gender_graph.png) 
 
-Above, we plot the total number of men and women Brazilian Immigrant Voters by year from years 1998 to 2018. The number of total voters has increased for each dataset analyzed, and the increase is especially notable from 2010 onwards.
+Above, we plot the total number of men and women Brazilian Immigrantsby year from years 1998 to 2018. The number of Brazilian immigrants has increased for each year analyzed, and the increase is especially notable from 2010 onwards.
 
-* There are consistently more women than men voters, and the disparity between women and men voters increased from 1998 to 2006 before and gradually decreasing to lower than 2006 levels by 2018. 
-* Specifically,in 1998, 59% of the voters were women. At the peak disparity in 2006, 60.8% of the voters were women. In 2010, the electorate consisted of 60% women, and ultimately the electorate was 58% women in 2018.
+* There are consistently more women than men in the electorate, and the disparity between women and men increased from 1998 to 2006 and gradually decreasing to lower than 2006 levels by 2018. 
+* Specifically,in 1998, 59% of the electorate were women. At the peak disparity in 2006, 60.8% of the electorate were women. In 2010, the electorate consisted of 60% women, and ultimately the electorate was 58% women in 2018.
 
 *Brazilian Immigrant Electorate Education Levels (Women)*
 
@@ -96,4 +96,4 @@ Above, we plot the total number of men and women Brazilian Immigrant Voters by y
 
 ![alt text](./readme_images/Full_Data_Education/men_education_graph.png)
  
-Similar to our analysis fo female members of the electorate, for male members of the Brazilian Immigrant Election, we can see that individuals with a complete college education and complete education are the most prevalent, followed by individuals with an incomplete college education.
+Similar to our analysis for female members of the electorate, for male members of the Brazilian Immigrant Election, we can see that individuals with a complete college education and complete high school education are the most prevalent, followed by individuals with an incomplete college education.
