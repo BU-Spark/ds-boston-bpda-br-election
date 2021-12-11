@@ -1,4 +1,4 @@
-# CS506 - Team 1: Final Deliverables: Brazilian Immigrant Participation in Brazil-Held Elections
+# CS506 - Team 1: Brazilian Immigrant Participation in Brazil-Held Elections
 
 ## Links to Final Deliverables
 Below, we provide links for all final project deliverables as well as the locations of our source code and all visualizations produced through our analysis.
