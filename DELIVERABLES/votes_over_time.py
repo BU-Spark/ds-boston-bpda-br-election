@@ -11,23 +11,23 @@ def sumVotes(parties, df):
     votes = {}
     for party in parties:
         df = df[1:]
-        sum = df[df['Party Name']==party]["Number of Votes"].astype({"Number of Votes":'int32'}).sum()
+        sum = df[df['party_name']==party]["number_of_votes"].astype({"number_of_votes":'int32'}).sum()
         votes[party] = sum
     return votes
 # df of each dataset year
-df1998 = process('election data/1998-Election.csv')
-df2002 = process('election data/2002-Election.csv')
-df2006 = process('election data/2006-Election.csv')
-df2010 = process('election data/2010-Election.csv')
-df2014 = process('election data/2014-Election.csv')
-df2018 = process('election data/2018-Election.csv')
+df1998 = process('election data/1998_Election_processed.csv')
+df2002 = process('election data/2002_Election_processed.csv')
+df2006 = process('election data/2006_Election_processed.csv')
+df2010 = process('election data/2010_Election_processed.csv')
+df2014 = process('election data/2014_Election_processed.csv')
+df2018 = process('election data/2018_Election_processed.csv')
 # unique ndarray of party name from each dataset year
-parties1998 = df1998['Party Name'].unique()[1:]
-parties2002 = df2002['Party Name'].unique()[1:]
-parties2006 = df2006['Party Name'].unique()[1:]
-parties2010 = df2010['Party Name'].unique()[1:]
-parties2014 = df2014['Party Name'].unique()[1:]
-parties2018 = df2018['Party Name'].unique()[1:]
+parties1998 = df1998['party_name'].unique()[1:]
+parties2002 = df2002['party_name'].unique()[1:]
+parties2006 = df2006['party_name'].unique()[1:]
+parties2010 = df2010['party_name'].unique()[1:]
+parties2014 = df2014['party_name'].unique()[1:]
+parties2018 = df2018['party_name'].unique()[1:]
 # Sum votes of each year in dict type
 votes1998 = sumVotes(parties1998, df1998)
 votes2002 = sumVotes(parties2002, df2002)
