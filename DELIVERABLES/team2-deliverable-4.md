@@ -1,3 +1,16 @@
+## Team 2: Deliverable 4 - Brazilian Immigrant Participation in Brazil-Held Election Results
+
+## Checklist
+- [x] This is a draft of your final report that has been reviewed by your client. It includes all visualizations, results, data, and code up to this point, along with proper documentation on how to reproduce your results, compile and use your codebase, and navigate your dataset. Your team will submit this as a PR.
+
+---
+## Document Links
+* Final Report: [Document](https://docs.google.com/document/d/1UlbZXTUHx7HcR5ONZXqrkxYcVryihC_Knry517Y_Ylo/edit?usp=sharing)
+
+---
+
+## Refined Project Proposal
+
 ### Title: Brazilian Immigrant Participation in Brazil-Held Election Results
 
 ## Team Members
